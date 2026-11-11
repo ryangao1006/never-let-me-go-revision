@@ -1,0 +1,17 @@
+{
+  "name": "never-let-me-go-revision-room",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A bilingual English–Chinese study companion to Kazuo Ishiguro’s Never Let Me Go.",
+  "scripts": {
+    "serve": "python3 -m http.server 4173 --directory dist",
+    "check": "node --check dist/app.js",
+    "test": "node checks/validate.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "31.0.0"
+  },
+  "engines": {
+    "node": ">=26.0.0"
+  }
+}

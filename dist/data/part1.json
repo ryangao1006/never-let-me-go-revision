@@ -1,0 +1,1716 @@
+{
+  "quizPart1": [
+    {
+      "id": "p1q01",
+      "chapter": 0,
+      "category": "Background",
+      "question": "Who wrote Never Let Me Go?",
+      "questionZh": "《Never Let Me Go》的作者是谁？",
+      "options": [
+        "George Orwell",
+        "J. B. Priestley",
+        "Kazuo Ishiguro",
+        "William Golding"
+      ],
+      "optionsZh": [
+        "George Orwell（乔治·奥威尔）",
+        "J. B. Priestley（普里斯特利）",
+        "Kazuo Ishiguro（石黑一雄）",
+        "William Golding（威廉·戈尔丁）"
+      ],
+      "correct": 2,
+      "explanation": "Kazuo Ishiguro is the author named in the supplied EPUB. The other writers are associated with different texts often studied at school.",
+      "explanationZh": "作者是石黑一雄（Kazuo Ishiguro）。注意不要与其他常见文学考试作家混淆；这是一道作品背景题，并不是叙述者身份题。",
+      "locator": "Book metadata · Author",
+      "evidence": "The supplied EPUB lists Kazuo Ishiguro as its creator."
+    },
+    {
+      "id": "p1q02",
+      "chapter": 0,
+      "category": "Background",
+      "question": "In which year was the novel first published?",
+      "questionZh": "这部小说首次出版于哪一年？",
+      "options": [
+        "1995",
+        "2005",
+        "2006",
+        "2010"
+      ],
+      "optionsZh": [
+        "1995年",
+        "2005年",
+        "2006年",
+        "2010年"
+      ],
+      "correct": 1,
+      "explanation": "The novel first appeared in 2005. The supplied Vintage EPUB records a 2006 edition date; an edition date is not necessarily the first-publication date.",
+      "explanationZh": "首次出版是2005年。你提供的Vintage电子书元数据标注2006年，这是该版本的日期，不能直接当成整部小说的首次出版年份。",
+      "locator": "Publication background · First publication",
+      "evidence": "The publisher and Morgan Library catalogue identify a 2005 original publication."
+    },
+    {
+      "id": "p1q03",
+      "chapter": 0,
+      "category": "Background",
+      "question": "Which description best identifies the main childhood setting?",
+      "questionZh": "哪一项最准确地描述主人公的童年主要发生地？",
+      "options": [
+        "Hailsham, a secluded school in the English countryside",
+        "A boarding school in central Tokyo",
+        "A hospital in New York",
+        "A university in London"
+      ],
+      "optionsZh": [
+        "Hailsham，英格兰乡间一所与外界隔离的学校",
+        "东京市中心的一所寄宿学校",
+        "纽约的一所医院",
+        "伦敦的一所大学"
+      ],
+      "correct": 0,
+      "explanation": "The childhood memories centre on Hailsham and its English countryside surroundings. References to recovery centres belong to the adult narrative frame.",
+      "explanationZh": "童年回忆的核心地点是Hailsham，周围有田野和树林。开篇也提到成人时期的recovery centres，但它们不是童年学校的所在地。",
+      "locator": "Background · Hailsham",
+      "evidence": "The publisher describes the students in the English countryside; the chapters describe Hailsham’s fields and grounds."
+    },
+    {
+      "id": "p1q04",
+      "chapter": 0,
+      "category": "Background",
+      "question": "Which term best describes Kathy’s way of telling the story?",
+      "questionZh": "哪个术语最准确地描述Kathy的叙述方式？",
+      "options": [
+        "An omniscient third-person narrator",
+        "A diary written by Ruth at age eight",
+        "Retrospective first-person narration",
+        "A sequence of official school reports"
+      ],
+      "optionsZh": [
+        "全知第三人称叙述",
+        "八岁的Ruth所写的日记",
+        "回顾式第一人称叙述",
+        "一系列官方学校报告"
+      ],
+      "correct": 2,
+      "explanation": "An adult Kathy looks back on her own experiences. She can describe her observations and memories, but cannot directly access everyone else’s thoughts.",
+      "explanationZh": "成年Kathy回顾自己经历过的事，因此是retrospective first-person narration。她能观察、推测和回忆，却不能像全知叙述者那样直接知道所有人的内心。",
+      "locator": "Background · Narrative voice",
+      "evidence": "The opening introduces Kathy in adulthood before she recalls her school years."
+    },
+    {
+      "id": "p1q05",
+      "chapter": 0,
+      "category": "Background",
+      "question": "Why should we avoid treating the chapter order as a perfectly straight timeline?",
+      "questionZh": "为什么不能把章节顺序完全当成直线式时间顺序？",
+      "options": [
+        "Every chapter is narrated by a different guardian",
+        "Kathy moves between memories and her adult present",
+        "The novel has no identifiable events",
+        "The chapters must be read in reverse order"
+      ],
+      "optionsZh": [
+        "每章都由不同的guardian叙述",
+        "Kathy会在不同回忆与成年现在之间转换",
+        "小说没有任何可辨认的事件",
+        "必须倒着阅读这些章节"
+      ],
+      "correct": 1,
+      "explanation": "Kathy follows associations, returns to earlier incidents, and comments from adulthood. Separate the time of an event from the time when she tells it.",
+      "explanationZh": "Kathy常因某个物品、人物或话题联想到另一段记忆，然后再回来。复习时要区分“事情发生的时间”和“她讲述这件事的位置”，尤其注意Ch7的时间跳转。",
+      "locator": "Background · Narrative structure",
+      "evidence": "The opening chapters repeatedly shift between adult caring work and different periods at Hailsham."
+    },
+    {
+      "id": "p1q06",
+      "chapter": 0,
+      "category": "Background",
+      "question": "Which combination of literary forms best fits Chapters 1–9?",
+      "questionZh": "哪些文学形式的结合最适合描述第1—9章？",
+      "options": [
+        "A coming-of-age story within a disturbing alternative society",
+        "A detective story that solves a murder in each chapter",
+        "A factual scientific manual about transplantation",
+        "A medieval historical epic narrated by a king"
+      ],
+      "optionsZh": [
+        "成长故事与令人不安的架空社会相结合",
+        "每章侦破一起谋杀案的侦探故事",
+        "关于移植手术的科学说明书",
+        "由国王叙述的中世纪历史史诗"
+      ],
+      "correct": 0,
+      "explanation": "The chapters depict friendship, growing up and social pressure while gradually disclosing an invented donation system. The scientific premise serves a human story.",
+      "explanationZh": "可以用coming-of-age和dystopian/speculative fiction来理解：一方面是友谊、成长、从众；另一方面，普通学校生活逐渐显露出器官捐献制度的阴影。不要把它当成真实科学教材。",
+      "locator": "Background · Form and genre",
+      "evidence": "School memories and Miss Lucy’s explanation of the students’ predetermined futures combine familiar adolescence with an invented social system."
+    },
+    {
+      "id": "p1q07",
+      "chapter": 1,
+      "category": "Names & details",
+      "question": "How old is Kathy when she introduces herself?",
+      "questionZh": "Kathy在开篇自我介绍时几岁？",
+      "options": [
+        "Thirteen",
+        "Thirty-one",
+        "Sixteen",
+        "Twenty-five"
+      ],
+      "optionsZh": [
+        "13岁",
+        "31岁",
+        "16岁",
+        "25岁"
+      ],
+      "correct": 1,
+      "explanation": "Kathy is thirty-one in the narrative present. Thirteen is associated with the school-age events recalled later in the opening chapters.",
+      "explanationZh": "开篇的Kathy是31岁，已经在做carer。13岁属于她随后回忆的Hailsham时期。题目问的是叙述当下，不是回忆中的年龄。",
+      "locator": "Chapter 1 · Opening self-introduction",
+      "evidence": "Kathy states her age at the beginning of her account."
+    },
+    {
+      "id": "p1q08",
+      "chapter": 1,
+      "category": "Names & details",
+      "question": "At the opening, approximately how long has Kathy already been a carer?",
+      "questionZh": "开篇时，Kathy已经做了多久的carer？",
+      "options": [
+        "Exactly six months",
+        "Over eleven years",
+        "Only two years",
+        "Fourteen years"
+      ],
+      "optionsZh": [
+        "正好6个月",
+        "超过11年",
+        "只有2年",
+        "14年"
+      ],
+      "correct": 1,
+      "explanation": "She has worked for over eleven years and expects to finish near twelve years. Fourteen years describes another carer; six years refers to her period of choosing donors.",
+      "explanationZh": "已经超过11年，预计年底结束时接近12年。14年说的是另一位carer；6年是她获准选择照顾对象的时间，并不是全部工作年限。",
+      "locator": "Chapter 1 · Kathy’s work record",
+      "evidence": "Kathy distinguishes her total service from the last six years in which she has been allowed to choose donors."
+    },
+    {
+      "id": "p1q09",
+      "chapter": 1,
+      "category": "Names & details",
+      "question": "What item particularly concerns Kathy during Tommy’s tantrum?",
+      "questionZh": "Tommy发脾气时，Kathy特别担心他的哪件东西？",
+      "options": [
+        "His favourite light blue polo shirt",
+        "His new red school tie",
+        "His leather pencil case",
+        "His football boots signed by a player"
+      ],
+      "optionsZh": [
+        "他最喜欢的浅蓝色polo衫",
+        "他的新红色领带",
+        "他的皮质笔袋",
+        "有球员签名的足球鞋"
+      ],
+      "correct": 0,
+      "explanation": "Kathy notices that mud could spoil his prized polo shirt, bought at a Sale. Her attention to its personal value helps distinguish her response from the spectators’ mockery.",
+      "explanationZh": "是Tommy珍爱的浅蓝色polo衫，来自Sale。Kathy关注的不是“衣服贵不贵”，而是它对Tommy的重要性；这让她的反应与其他人的旁观嘲笑有所区别。",
+      "locator": "Chapter 1 · Football-field tantrum",
+      "evidence": "Kathy warns Tommy that his favourite light blue polo shirt will get muddy."
+    },
+    {
+      "id": "p1q10",
+      "chapter": 1,
+      "category": "Events",
+      "question": "Why is Tommy left out during the football team selection?",
+      "questionZh": "足球分队时，Tommy为什么被留到最后，最终遭到排斥？",
+      "options": [
+        "He is clearly the worst footballer",
+        "A guardian forbids him to play",
+        "The boys deliberately organise his humiliation",
+        "He refuses to join either team"
+      ],
+      "optionsZh": [
+        "他显然是最差的球员",
+        "guardian禁止他参加",
+        "男孩们故意安排这一幕来羞辱他",
+        "他拒绝加入任何队伍"
+      ],
+      "correct": 2,
+      "explanation": "The exclusion is a planned provocation, despite Tommy’s ability at football. His anger follows humiliation; it is not evidence that he cannot play.",
+      "explanationZh": "这是其他男孩蓄意的羞辱，并非正常的按水平选人。文本还强调Tommy球技很好。分析时应看到“先被排斥—再爆发”的因果，不能只把他写成无缘无故发怒。",
+      "locator": "Chapter 1 · Team picking",
+      "evidence": "The watchers know about the plot, while Kathy recalls that Tommy is an excellent football player."
+    },
+    {
+      "id": "p1q11",
+      "chapter": 1,
+      "category": "Events",
+      "question": "How does Kathy understand Tommy’s blow to her face?",
+      "questionZh": "Kathy如何理解Tommy打到她脸的那一下？",
+      "options": [
+        "As an accidental result of his flailing arm",
+        "As a carefully planned attack on her",
+        "As punishment ordered by Ruth",
+        "As part of an organised boxing lesson"
+      ],
+      "optionsZh": [
+        "他挥动手臂时造成的意外",
+        "他精心计划对她的袭击",
+        "Ruth命令他实施的惩罚",
+        "正式拳击课的一部分"
+      ],
+      "correct": 0,
+      "explanation": "Kathy believes it was unintentional: she touches his arm while he is still thrashing about. Tommy’s later apology supports this account without excusing his whole outburst.",
+      "explanationZh": "Kathy认为那是意外：她伸手碰他时，他还在乱挥手臂。要区分“碰伤Kathy是否故意”与“他的情绪失控是否造成影响”，不能把两者混为一谈。",
+      "locator": "Chapter 1 · Kathy approaches Tommy",
+      "evidence": "Kathy says she was fairly sure Tommy did not intend to hit her."
+    },
+    {
+      "id": "p1q12",
+      "chapter": 1,
+      "category": "Interpretation",
+      "question": "What does Laura’s imitation of Tommy’s changing expressions reveal most clearly?",
+      "questionZh": "Laura模仿Tommy不断变化的表情，最清楚地揭示了什么？",
+      "options": [
+        "Laura secretly controls the football rules",
+        "His distress becomes entertainment for the watching group",
+        "The girls fully understand Tommy’s private thoughts",
+        "Every observer has identical feelings throughout"
+      ],
+      "optionsZh": [
+        "Laura暗中掌控足球规则",
+        "他的痛苦变成旁观群体的娱乐",
+        "女孩们完全知道Tommy内心在想什么",
+        "所有旁观者从头到尾都抱有完全一样的感受"
+      ],
+      "correct": 1,
+      "explanation": "Laura’s performance prompts laughter while Tommy moves from hope to humiliation. Kathy’s discomfort complicates the group response, so the scene does not prove that all witnesses feel exactly alike.",
+      "explanationZh": "Laura的模仿让Tommy从期待到受辱的过程成为笑料。这体现群体旁观的残酷；但Kathy又有犹豫与关心，因此不能把所有旁观者简单写成完全一样。",
+      "locator": "Chapter 1 · Watching from the pavilion",
+      "evidence": "Laura imitates Tommy as the girls watch the team selection and laugh."
+    },
+    {
+      "id": "p1q13",
+      "chapter": 2,
+      "category": "Names & details",
+      "question": "Which nurse do the students nickname Crow Face?",
+      "questionZh": "学生把哪位护士称为Crow Face？",
+      "options": [
+        "Miss Jody",
+        "Miss Lucy",
+        "Miss Geraldine",
+        "Nurse Trisha"
+      ],
+      "optionsZh": [
+        "Miss Jody",
+        "Miss Lucy",
+        "Miss Geraldine",
+        "Nurse Trisha"
+      ],
+      "correct": 3,
+      "explanation": "Nurse Trisha conducts the frequent medical examinations and is nicknamed Crow Face. Miss Jody is mentioned in connection with cleaning Tommy’s shirt.",
+      "explanationZh": "Crow Face指Nurse Trisha。她负责频繁的身体检查。Miss Jody则出现在Kathy建议处理Tommy脏衣服的情节中，不要只凭相似的称呼混淆人物。",
+      "locator": "Chapter 2 · The medical-examination staircase",
+      "evidence": "Kathy describes weekly medical examinations with Nurse Trisha, known among students as Crow Face."
+    },
+    {
+      "id": "p1q14",
+      "chapter": 2,
+      "category": "Names & details",
+      "question": "What did Tommy paint in the art-class incident linked to the start of his difficulties?",
+      "questionZh": "与Tommy遭受嘲弄的开端有关的那幅画，画的是什么？",
+      "options": [
+        "A horse beside a stable",
+        "A portrait of Madame",
+        "An elephant in tall grass",
+        "A boat on a river"
+      ],
+      "optionsZh": [
+        "马厩旁的一匹马",
+        "Madame的肖像",
+        "高草中的一头大象",
+        "河上的一艘船"
+      ],
+      "correct": 2,
+      "explanation": "Tommy produces a deliberately childish-looking watercolour of an elephant. Do not confuse this early painting with Ruth’s imaginary horses or later artistic developments.",
+      "explanationZh": "是高草中的大象水彩画。画得显得比他的年龄幼稚；Ruth的马是另一个情节中的想象游戏，不是这幅画的内容。",
+      "locator": "Chapter 2 · Tommy recalls an art lesson",
+      "evidence": "Tommy identifies an elephant watercolour in Miss Geraldine’s class as a turning point."
+    },
+    {
+      "id": "p1q15",
+      "chapter": 2,
+      "category": "Interpretation",
+      "question": "Why does Miss Geraldine’s response to the elephant painting have an ironic result?",
+      "questionZh": "Miss Geraldine对大象画的反应为什么具有反讽意味？",
+      "options": [
+        "Her harsh punishment immediately makes Tommy popular",
+        "She ignores the painting and it wins a prize outside school",
+        "She asks every student to paint the same elephant",
+        "Her protective praise helps provoke resentment against Tommy"
+      ],
+      "optionsZh": [
+        "她的严厉惩罚立刻使Tommy受欢迎",
+        "她无视画作，作品却在校外获奖",
+        "她让全体学生画同一头大象",
+        "她想保护他的表扬反而激起其他人对他的不满"
+      ],
+      "correct": 3,
+      "explanation": "Miss Geraldine tries to be kind by finding qualities to praise. Kathy suggests that this draws attention to the poor painting and fuels resentment: intention and effect diverge.",
+      "explanationZh": "她本意是温柔地保护Tommy，因此努力找优点表扬；效果却是让别人更注意到画作的问题并产生不满。反讽在于善意的intention与实际effect并不一致。",
+      "locator": "Chapter 2 · Miss Geraldine’s praise",
+      "evidence": "Kathy links the guardian’s unusually generous praise to the resentment that followed."
+    },
+    {
+      "id": "p1q16",
+      "chapter": 2,
+      "category": "Names & details",
+      "question": "How often are the Hailsham Exchanges held?",
+      "questionZh": "Hailsham的Exchanges多久举行一次？",
+      "options": [
+        "Once a month",
+        "Every week",
+        "Only once when students leave",
+        "Four times a year, one per season"
+      ],
+      "optionsZh": [
+        "每月一次",
+        "每周一次",
+        "只在离校时举行一次",
+        "每年四次，每季一次"
+      ],
+      "correct": 3,
+      "explanation": "The Exchanges happen in spring, summer, autumn and winter. The monthly arrival of outside goods belongs to the Sales system described in Chapter 4.",
+      "explanationZh": "Exchanges每年春、夏、秋、冬各一次，交换的是学生作品。每月运来外界物品的是Sales相关安排，考试很容易把这两种活动的频率混在一起。",
+      "locator": "Chapter 2 · Explanation of Exchanges",
+      "evidence": "Kathy lists four seasonal Exchanges each year."
+    },
+    {
+      "id": "p1q17",
+      "chapter": 2,
+      "category": "Interpretation",
+      "question": "What does Christy’s reputation for poetry illustrate?",
+      "questionZh": "Christy因诗歌获得的声望说明了什么？",
+      "options": [
+        "Every student is an expert literary critic",
+        "Ruth has no influence over any student",
+        "Creative reputation can shape social authority even without real understanding",
+        "Poetry is excluded from Exchanges"
+      ],
+      "optionsZh": [
+        "所有学生都是专业文学评论家",
+        "Ruth对任何学生都没有影响力",
+        "即使同学并不真正懂诗，创作声誉也能带来社会地位",
+        "诗歌不允许参加Exchanges"
+      ],
+      "correct": 2,
+      "explanation": "Kathy remembers that even Ruth would not readily boss Christy about. The students respected her poetry although Kathy questions how much they actually understood or cared about poetry.",
+      "explanationZh": "Kathy指出，连Ruth也不太敢指使Christy；但他们当时未必真正懂诗、爱诗。这揭示“被认可的creativity”如何转化成群体中的地位，而不只是审美欣赏。",
+      "locator": "Chapter 2 · Remembering Christy’s poetry",
+      "evidence": "Kathy contrasts Christy’s high status with the students’ limited understanding of poetry."
+    },
+    {
+      "id": "p1q18",
+      "chapter": 2,
+      "category": "Events",
+      "question": "What change in Tommy begins before the bullying fades?",
+      "questionZh": "在欺凌逐渐减少之前，Tommy先发生了什么变化？",
+      "options": [
+        "He suddenly becomes the school’s best artist",
+        "He leaves Hailsham permanently",
+        "He becomes the head guardian’s assistant",
+        "He begins controlling his temper and responding more calmly"
+      ],
+      "optionsZh": [
+        "他突然成为全校最好的艺术家",
+        "他永久离开Hailsham",
+        "他成为首席guardian的助手",
+        "他开始控制脾气，更平静地回应挑衅"
+      ],
+      "correct": 3,
+      "explanation": "Kathy notices that the pranks initially continue but no longer reliably produce tantrums. His art reputation has not suddenly improved, so artistic success is not the explanation.",
+      "explanationZh": "恶作剧最初仍在继续，但Tommy不再总是爆发，其他人渐渐失去兴趣。他的艺术名声并没有突然改善；真正要追问的是他为何获得了不同的自我感受。",
+      "locator": "Chapter 2 · The change in Tommy",
+      "evidence": "Kathy observes a calmer response before the teasing becomes less frequent."
+    },
+    {
+      "id": "p1q19",
+      "chapter": 3,
+      "category": "Names & details",
+      "question": "Where do Kathy and Tommy discuss Miss Lucy’s unusual advice in detail?",
+      "questionZh": "Kathy和Tommy在哪里详细谈论Miss Lucy的反常建议？",
+      "options": [
+        "Beside the pond",
+        "Inside Miss Emily’s office",
+        "At the centre of the Dining Hall during a Sale",
+        "In the woods beyond Hailsham"
+      ],
+      "optionsZh": [
+        "池塘边",
+        "Miss Emily的办公室里",
+        "Sale期间餐厅的正中央",
+        "Hailsham外面的树林里"
+      ],
+      "correct": 0,
+      "explanation": "They speak beside the pond, away from the busiest areas. The earlier lunch queue helps them arrange the conversation; it is not the main setting of this extended discussion.",
+      "explanationZh": "这段深入谈话发生在池塘旁。午餐排队与他们安排交谈有关，但不要把“安排谈话的地点”和“长谈本身的地点”混淆。",
+      "locator": "Chapter 3 · Conversation by the pond",
+      "evidence": "Tommy sits on a rock near the pond while Kathy questions him about Miss Lucy."
+    },
+    {
+      "id": "p1q20",
+      "chapter": 3,
+      "category": "Events",
+      "question": "What had Miss Lucy told Tommy about his lack of creativity?",
+      "questionZh": "Miss Lucy最初对Tommy缺乏创造力的问题说了什么？",
+      "options": [
+        "He must win every Exchange to stay at Hailsham",
+        "He should abandon all school subjects immediately",
+        "If he has genuinely tried, he should not be blamed for finding creativity difficult",
+        "The other students are correct to punish him"
+      ],
+      "optionsZh": [
+        "他必须在每次Exchange获胜才能留校",
+        "他应立刻放弃所有学科",
+        "只要他确实努力过，就不该因创作困难而受责备",
+        "其他学生惩罚他是正确的"
+      ],
+      "correct": 2,
+      "explanation": "Her reassurance challenges the assumption that poor creative performance makes him a bad student. It helps him stop treating the bullying as proof of his own worthlessness.",
+      "explanationZh": "她说，真正努力过却难以创作，并不是他的过错，也不应成为被惩罚的理由。这挑战了“艺术不好＝学生不好”的评价方式，让Tommy不再把欺凌完全归咎于自己。",
+      "locator": "Chapter 3 · Tommy reports Miss Lucy’s reassurance",
+      "evidence": "Miss Lucy separates Tommy’s value as a student from his artistic achievement."
+    },
+    {
+      "id": "p1q21",
+      "chapter": 3,
+      "category": "Names & details",
+      "question": "Which child once praises young Kathy’s modelling work as good enough for the Gallery?",
+      "questionZh": "哪个孩子曾说年幼Kathy的泥塑好到可以进Gallery？",
+      "options": [
+        "Amanda C.",
+        "Midge A.",
+        "Charlotte F.",
+        "Moira B."
+      ],
+      "optionsZh": [
+        "Amanda C.",
+        "Midge A.",
+        "Charlotte F.",
+        "Moira B."
+      ],
+      "correct": 0,
+      "explanation": "Amanda C., a year older, makes the comment while they work with modelling clay. The memory shows how early the Gallery already structures the children’s ambitions.",
+      "explanationZh": "是大一岁的Amanda C.。这段小回忆说明，Gallery作为一种认可标准，早早就进入了孩子们的想象；他们未必知道其真实用途，却已渴望获得肯定。",
+      "locator": "Chapter 3 · Early memory of modelling clay",
+      "evidence": "Amanda C. praises Kathy’s clay work and mentions the Gallery."
+    },
+    {
+      "id": "p1q22",
+      "chapter": 3,
+      "category": "Names & details",
+      "question": "Which appearance is associated with Madame’s visits?",
+      "questionZh": "Madame来访时，哪项外貌描述与原文相符？",
+      "options": [
+        "A nurse’s uniform and long red hair",
+        "A purple satin dress identical to Judy’s",
+        "A football shirt covered in mud",
+        "A sharp grey suit and short hair"
+      ],
+      "optionsZh": [
+        "护士制服和红色长发",
+        "与Judy一样的紫色缎面裙",
+        "沾满泥的足球衫",
+        "利落的灰色套装和短发"
+      ],
+      "correct": 3,
+      "explanation": "Madame is described in a grey suit, with short hair and a distant manner. The purple satin dress belongs to the image on Kathy’s Judy Bridgewater cassette cover.",
+      "explanationZh": "Madame穿灰色套装、留短发，态度疏离。紫色缎面裙属于Judy Bridgewater磁带封面的形象，不是Madame来学校时的穿着。",
+      "locator": "Chapter 3 · Madame’s appearance",
+      "evidence": "Kathy describes Madame as a narrow, short-haired woman in a sharp grey suit."
+    },
+    {
+      "id": "p1q23",
+      "chapter": 3,
+      "category": "Interpretation",
+      "question": "What makes the children’s test of Madame especially disturbing?",
+      "questionZh": "孩子们试探Madame之后，为什么深受震动？",
+      "options": [
+        "She loudly announces that she will expel them",
+        "They experience her fear of them as if they were repellent creatures",
+        "She takes away all their tokens as a punishment",
+        "They learn that she cannot recognise any artwork"
+      ],
+      "optionsZh": [
+        "她大声宣布要开除他们",
+        "他们感到她像害怕令人厌恶的生物那样害怕他们",
+        "她把他们的tokens全部没收",
+        "他们得知她认不出任何艺术品"
+      ],
+      "correct": 1,
+      "explanation": "Madame freezes and seems afraid of physical contact. Kathy compares the feeling to being seen as spiders; the shock concerns how an outsider perceives their very existence.",
+      "explanationZh": "Madame没有大喊大叫，却僵住、害怕被碰到。Kathy把这种目光比作人看蜘蛛的恐惧；刺痛他们的不是一条惩罚规定，而是第一次感到“别人眼中的我们”竟如此陌生。",
+      "locator": "Chapter 3 · The courtyard experiment",
+      "evidence": "The children move around Madame and notice her suppressed shudder and dread of being touched."
+    },
+    {
+      "id": "p1q24",
+      "chapter": 3,
+      "category": "Interpretation",
+      "question": "What do the students actually know about the Gallery at this stage?",
+      "questionZh": "到第3章为止，学生真正知道Gallery的哪些情况？",
+      "options": [
+        "Madame takes selected work, but its destination and purpose remain uncertain",
+        "They have all visited it and know its full purpose",
+        "They know that every object is sold back to their parents",
+        "A guardian has publicly explained every rule governing it"
+      ],
+      "optionsZh": [
+        "Madame拿走精选作品，但去向和用途仍不清楚",
+        "他们都参观过，完全了解用途",
+        "他们知道所有物品都会卖回父母手中",
+        "guardian已公开解释其所有规则"
+      ],
+      "correct": 0,
+      "explanation": "They treat the Gallery as familiar but cannot explain it securely. Distinguish observed fact—Madame selects work—from inherited assumptions about what happens afterwards.",
+      "explanationZh": "可以确定的是Madame确实挑选并带走作品；Gallery是什么、为什么存在，他们并没有可靠答案。要把observed fact与学生群体传下来的assumption分开。",
+      "locator": "Chapter 3 · Rumours and unwritten rules",
+      "evidence": "Kathy says everyone spoke of the Gallery although nobody knew for sure what it was."
+    },
+    {
+      "id": "p1q25",
+      "chapter": 4,
+      "category": "Names & details",
+      "question": "Which student approaches Miss Emily about compensation for work taken by Madame?",
+      "questionZh": "哪位学生去找Miss Emily，提出作品被Madame拿走后应获得补偿？",
+      "options": [
+        "Christopher H.",
+        "Harry C.",
+        "Roy J.",
+        "Peter J."
+      ],
+      "optionsZh": [
+        "Christopher H.",
+        "Harry C.",
+        "Roy J.",
+        "Peter J."
+      ],
+      "correct": 2,
+      "explanation": "Roy J. has already had several items selected and takes the concern to the head guardian. The outcome is a small number of tokens, not unrestricted payment.",
+      "explanationZh": "是Roy J.，他已有多件作品被选走。最后学校同意给少量tokens，同时仍强调被选中是一种荣誉；不是完全按学生要求补偿。",
+      "locator": "Chapter 4 · The tokens controversy",
+      "evidence": "Roy J. goes to Miss Emily after students argue about receiving tokens for Madame’s selections."
+    },
+    {
+      "id": "p1q26",
+      "chapter": 4,
+      "category": "Names & details",
+      "question": "Which imaginary horse does Ruth first assign to Kathy, with a warning not to use a crop?",
+      "questionZh": "Ruth最初让Kathy骑哪匹想象中的马，并叮嘱不能用马鞭？",
+      "options": [
+        "Thunder",
+        "Bramble",
+        "Daffodil",
+        "Pegasus"
+      ],
+      "optionsZh": [
+        "Thunder",
+        "Bramble",
+        "Daffodil",
+        "Pegasus"
+      ],
+      "correct": 1,
+      "explanation": "Kathy first takes Bramble. Ruth initially says Thunder is too dangerous; Kathy is allowed to try him only later in the game.",
+      "explanationZh": "先骑的是Bramble，而且不能对它使用crop（马鞭）。Thunder最初被说成太危险，后来Kathy才获准尝试。先后顺序是这道题的关键。",
+      "locator": "Chapter 4 · Ruth’s imaginary horses",
+      "evidence": "Ruth offers Bramble and repeats the instruction not to use a crop."
+    },
+    {
+      "id": "p1q27",
+      "chapter": 4,
+      "category": "Names & details",
+      "question": "Which statement about Thunder is accurate?",
+      "questionZh": "关于Thunder，哪项说法准确？",
+      "options": [
+        "He is Ruth’s favourite, initially withheld but eventually ridden by Kathy",
+        "He is a real school horse that Kathy never sees",
+        "He belongs to Miss Geraldine and is sold at a Sale",
+        "He is the first horse Ruth assigns before mentioning Bramble"
+      ],
+      "optionsZh": [
+        "它是Ruth最喜欢的马，起初不让Kathy骑，后来让她骑了",
+        "它是学校的一匹真马，Kathy从未见过",
+        "它属于Miss Geraldine，后来在Sale被卖掉",
+        "Ruth在提到Bramble之前就先让Kathy骑它"
+      ],
+      "correct": 0,
+      "explanation": "Thunder is Ruth’s best/favourite imaginary horse. The important correction is that her initial refusal is not permanent: Kathy eventually gets a turn.",
+      "explanationZh": "Thunder是Ruth最好的、最喜欢的想象中的马。容易错在把“起初拒绝”记成“始终不让骑”；原文明确说Kathy后来也骑了Thunder。",
+      "locator": "Chapter 4 · Changing permission within the horse game",
+      "evidence": "Ruth first withholds Thunder as dangerous, then eventually lets Kathy try him."
+    },
+    {
+      "id": "p1q28",
+      "chapter": 4,
+      "category": "Names & details",
+      "question": "What instruction does Ruth give Kathy about Daffodil?",
+      "questionZh": "Ruth要求Kathy骑Daffodil时怎样做？",
+      "options": [
+        "Use the crop constantly",
+        "Stand in the saddle with eyes closed",
+        "Walk away and never ride her",
+        "Lean far back"
+      ],
+      "optionsZh": [
+        "不停使用马鞭",
+        "闭眼站在马鞍上",
+        "走开，永远不能骑它",
+        "身体尽量向后仰"
+      ],
+      "correct": 3,
+      "explanation": "Ruth insists that Kathy lean well back because Daffodil dislikes anything else. The changing instructions make Ruth the authority inside their shared imaginary world.",
+      "explanationZh": "Ruth要求Kathy向后仰得更多，说Daffodil不喜欢别的姿势。除了记名字，也可看出Ruth通过规定每匹马的“脾气”掌握游戏规则。",
+      "locator": "Chapter 4 · Daffodil’s imagined preferences",
+      "evidence": "Ruth calls out a specific instruction to lean back while Kathy rides Daffodil."
+    },
+    {
+      "id": "p1q29",
+      "chapter": 4,
+      "category": "Names & details",
+      "question": "What chiefly distinguishes the Sales from the Exchanges?",
+      "questionZh": "Sales与Exchanges最主要的区别是什么？",
+      "options": [
+        "Sales are secret meetings; Exchanges are medical examinations",
+        "Sales offer goods brought from outside; Exchanges centre on students’ creations",
+        "Sales happen only after leaving; Exchanges happen only in infancy",
+        "Sales use pounds; Exchanges use no currency at all"
+      ],
+      "optionsZh": [
+        "Sales是秘密会议；Exchanges是体检",
+        "Sales出售外界带来的物品；Exchanges以学生作品为主",
+        "Sales离校后才有；Exchanges只在幼儿时期举行",
+        "Sales用英镑；Exchanges完全不用货币"
+      ],
+      "correct": 1,
+      "explanation": "Both help students build collections, but the source of the objects differs. Outside clothes, toys and tapes arrive for Sales; creative work circulates through Exchanges.",
+      "explanationZh": "两者都帮助学生建立个人collection，但物品来源不同。Sales是外界运来的衣服、玩具、磁带等；Exchanges是学生创作的画、诗、手工等，不要混成同一种活动。",
+      "locator": "Chapter 4 · Outside goods and monthly deliveries",
+      "evidence": "Kathy contrasts outside goods at Sales with the students’ work at Exchanges."
+    },
+    {
+      "id": "p1q30",
+      "chapter": 4,
+      "category": "Interpretation",
+      "question": "What does the imaginary-horse episode reveal about Ruth and Kathy’s friendship?",
+      "questionZh": "想象中的马这一情节，如何展示Ruth与Kathy的友谊？",
+      "options": [
+        "Kathy rejects imaginative play from the beginning",
+        "Ruth has no interest in being accepted by anyone",
+        "The friendship is based only on buying real animals",
+        "Shared pleasure develops alongside Ruth’s control over rules and access"
+      ],
+      "optionsZh": [
+        "Kathy从一开始就拒绝想象游戏",
+        "Ruth完全不在乎他人的接受",
+        "友谊完全建立在购买真实动物上",
+        "共同的快乐与Ruth对规则、资格的控制同时出现"
+      ],
+      "correct": 3,
+      "explanation": "They genuinely lose themselves in play, but Ruth determines which horses Kathy may ride and abruptly ends the game. Affection and unequal power coexist.",
+      "explanationZh": "她们确实沉浸在游戏里、获得快乐；与此同时，Ruth决定能骑哪匹马、怎样骑、何时结束。分析不要只写“友谊虚假”或“Ruth坏”，而要看亲密与权力如何并存。",
+      "locator": "Chapter 4 · Beginning the friendship",
+      "evidence": "Kathy enjoys Ruth’s invitation, while Ruth controls permissions and ends the game by accusing Kathy of tiring the horses."
+    },
+    {
+      "id": "p1q31",
+      "chapter": 5,
+      "category": "Names & details",
+      "question": "Whom does the secret guard claim to protect?",
+      "questionZh": "secret guard声称要保护谁？",
+      "options": [
+        "Miss Geraldine",
+        "Madame",
+        "Nurse Trisha",
+        "Miss Emily"
+      ],
+      "optionsZh": [
+        "Miss Geraldine",
+        "Madame",
+        "Nurse Trisha",
+        "Miss Emily"
+      ],
+      "correct": 0,
+      "explanation": "The imaginary plot centres on Miss Geraldine being abducted. The guard gathers supposed evidence but avoids telling her or directly confronting the alleged conspirators.",
+      "explanationZh": "他们声称要保护Miss Geraldine，防止她被绑架。这个组织主要不断收集所谓证据，却避免真正对质或告诉她，说明游戏的维持比实际行动更重要。",
+      "locator": "Chapter 5 · The secret guard",
+      "evidence": "Ruth’s group imagines a plot to abduct Miss Geraldine and treats several people as conspirators."
+    },
+    {
+      "id": "p1q32",
+      "chapter": 5,
+      "category": "Names & details",
+      "question": "What false rule does Ruth give when pretending to teach chess?",
+      "questionZh": "Ruth装作会下棋时，教了哪条错误规则？",
+      "options": [
+        "Every piece moves in an L-shape",
+        "Every piece can move only one square forward",
+        "The king must remain outside the board",
+        "Players must swap colours after every move"
+      ],
+      "optionsZh": [
+        "每一种棋子都按L形走",
+        "每种棋子只能向前一格",
+        "国王必须一直放在棋盘外",
+        "每下一步双方必须交换颜色"
+      ],
+      "correct": 0,
+      "explanation": "Ruth seems to have generalised the knight’s move to all pieces. Kathy’s disappointment exposes the gap between Ruth’s confident performance and her actual knowledge.",
+      "explanationZh": "Ruth似乎把knight（马）的走法推广给全部棋子。Kathy意识到她并不真正懂棋；重点是Ruth表现出的expertise与实际知识之间存在落差。",
+      "locator": "Chapter 5 · The chess game",
+      "evidence": "Ruth describes an L-shaped movement for every piece and disputes Kathy’s supposedly too-straight move."
+    },
+    {
+      "id": "p1q33",
+      "chapter": 5,
+      "category": "Names & details",
+      "question": "Which expelled guard member calls the secret guard childish, provoking Kathy’s defence?",
+      "questionZh": "哪位被逐出secret guard的成员批评游戏幼稚，却引来Kathy强烈维护？",
+      "options": [
+        "Midge A.",
+        "Amanda C.",
+        "Charlotte F.",
+        "Moira B."
+      ],
+      "optionsZh": [
+        "Midge A.",
+        "Amanda C.",
+        "Charlotte F.",
+        "Moira B."
+      ],
+      "correct": 3,
+      "explanation": "Moira B. could have been Kathy’s ally after both were excluded. Instead, Kathy angrily defends the shared fantasy and invents personal evidence for it.",
+      "explanationZh": "是Moira B.。两人都曾受排斥，本可同病相怜，但Kathy反而愤怒维护游戏，甚至编造自己亲耳听见阴谋。这说明依恋群体未必符合表面的利益逻辑。",
+      "locator": "Chapter 5 · Kathy and Moira in the courtyard",
+      "evidence": "Moira criticises the secret guard, and Kathy claims to have overheard the kidnapping plan herself."
+    },
+    {
+      "id": "p1q34",
+      "chapter": 5,
+      "category": "Names & details",
+      "question": "Which monitor does Kathy name in her story about looking at the Sales Register?",
+      "questionZh": "Kathy声称查看Sales Register时，提到了哪位monitor？",
+      "options": [
+        "Christopher H.",
+        "Mr. Christopher",
+        "Roy J.",
+        "Christopher C."
+      ],
+      "optionsZh": [
+        "Christopher H.",
+        "Mr. Christopher",
+        "Roy J.",
+        "Christopher C."
+      ],
+      "correct": 3,
+      "explanation": "Kathy names Christopher C. in her bluff. Christopher H. is the student associated with the elbow story in Chapter 7; the initials matter.",
+      "explanationZh": "是Christopher C.。Christopher H.在第7章编造“肘部会拉开”的故事，Mr. Christopher则是成人guardian。遇到同名人物，要连首字母和身份一起记。",
+      "locator": "Chapter 5 · The pencil-case bluff",
+      "evidence": "Kathy says Christopher C. was a monitor while she pretended to browse the Sales Register."
+    },
+    {
+      "id": "p1q35",
+      "chapter": 5,
+      "category": "Events",
+      "question": "How does Kathy actually challenge Ruth’s implied story about the pencil case?",
+      "questionZh": "Kathy实际上怎样挑战Ruth关于笔袋来源的暗示？",
+      "options": [
+        "She produces a signed confession from Miss Geraldine",
+        "She bluffs that she has looked through the Sales Register",
+        "She buys the same pencil case from Madame",
+        "She steals Ruth’s collection chest and opens it"
+      ],
+      "optionsZh": [
+        "她拿出Miss Geraldine签名的承认书",
+        "她虚张声势，声称自己看过Sales Register",
+        "她向Madame买了同款笔袋",
+        "她偷走并打开Ruth的collection chest"
+      ],
+      "correct": 1,
+      "explanation": "Kathy realises she need not complete the investigation if Ruth believes she has checked the record. The narrative presents a bluff, not documentary proof shown to the group.",
+      "explanationZh": "Kathy只是bluff：让Ruth以为自己查过记录。她没有拿出实际登记证据。复习要分清“她考虑过的计划”与“最后真正做出的行动”。",
+      "locator": "Chapter 5 · Conversation under the eaves",
+      "evidence": "Kathy decides that bluffing about the register is enough and tells Ruth she has browsed it."
+    },
+    {
+      "id": "p1q36",
+      "chapter": 5,
+      "category": "Interpretation",
+      "question": "Why does Kathy feel regret when Ruth nearly cries over the pencil case?",
+      "questionZh": "Ruth因笔袋事件几乎落泪时，Kathy为什么后悔？",
+      "options": [
+        "She suddenly discovers the pencil case is dangerous",
+        "She recognises a friend’s vulnerable wish to feel specially loved",
+        "She learns Ruth has been ordered to leave Hailsham",
+        "She remembers she has never met Miss Geraldine"
+      ],
+      "optionsZh": [
+        "她突然发现笔袋有危险",
+        "她意识到朋友脆弱地渴望被特别关爱",
+        "她得知Ruth已被勒令离校",
+        "她想起自己从未见过Miss Geraldine"
+      ],
+      "correct": 1,
+      "explanation": "Kathy’s imagined triumph becomes the reality of hurting her friend. She understands Ruth’s claim as an intensified version of a shared longing for special affection.",
+      "explanationZh": "原本想象中的“揭穿胜利”，变成眼前朋友真实的受伤。Kathy想到她们都希望guardian特别喜欢自己；这让Ruth的炫耀显出脆弱，也使Kathy反思自己的残忍。",
+      "locator": "Chapter 5 · The emotional aftermath of the bluff",
+      "evidence": "Kathy is shocked by Ruth’s distress and recognises the common wish for a guardian’s special affection."
+    },
+    {
+      "id": "p1q37",
+      "chapter": 6,
+      "category": "Names & details",
+      "question": "Which pairing correctly identifies Kathy’s treasured cassette?",
+      "questionZh": "哪组“专辑名—歌手”正确对应Kathy珍爱的磁带？",
+      "options": [
+        "Songs After Dark — Judy Bridgewater",
+        "Twenty Classic Dance Tunes — Judy Bridgewater",
+        "Never Let Me Go — Miss Geraldine",
+        "Songs After Dark — Miss Lucy"
+      ],
+      "optionsZh": [
+        "Songs After Dark——Judy Bridgewater",
+        "Twenty Classic Dance Tunes——Judy Bridgewater",
+        "Never Let Me Go——Miss Geraldine",
+        "Songs After Dark——Miss Lucy"
+      ],
+      "correct": 0,
+      "explanation": "Songs After Dark is the cassette/album title and Judy Bridgewater is the singer. Never Let Me Go is the particular song; the dance-tunes tape is Ruth’s later gift.",
+      "explanationZh": "Songs After Dark是专辑名，Judy Bridgewater是歌手，Never Let Me Go是其中的歌曲。Twenty Classic Dance Tunes则是Ruth后来送的另一盘磁带。",
+      "locator": "Chapter 6 · The treasured recording",
+      "evidence": "Kathy names her cassette Songs After Dark by Judy Bridgewater."
+    },
+    {
+      "id": "p1q38",
+      "chapter": 6,
+      "category": "Names & details",
+      "question": "Which track on Kathy’s cassette is Never Let Me Go?",
+      "questionZh": "Never Let Me Go是Kathy那盘磁带的第几首？",
+      "options": [
+        "Track three",
+        "Track one",
+        "Track six",
+        "Track twelve"
+      ],
+      "optionsZh": [
+        "第3首",
+        "第1首",
+        "第6首",
+        "第12首"
+      ],
+      "correct": 0,
+      "explanation": "Kathy singles out track three and tries to keep the tape ready at that point. The precise detail shows repeated, private listening rather than general enthusiasm for the whole album.",
+      "explanationZh": "是track number three。她常把磁带停在这一位置，好随时播放。这个细节强调她与一首特定歌曲的私人情感，而不是对整盘音乐都同样喜爱。",
+      "locator": "Chapter 6 · Kathy’s favourite track",
+      "evidence": "Kathy identifies the song as track three and describes keeping the tape wound to it."
+    },
+    {
+      "id": "p1q39",
+      "chapter": 6,
+      "category": "Names & details",
+      "question": "Why does Kathy turn the cassette cover inside out?",
+      "questionZh": "Kathy为什么把磁带封面翻到里面？",
+      "options": [
+        "The cover shows a map of the forbidden woods",
+        "Ruth has written her own name across it",
+        "Madame has forbidden every picture of a singer",
+        "The cover shows Judy holding a cigarette"
+      ],
+      "optionsZh": [
+        "封面画了禁入树林的地图",
+        "Ruth在上面写满了自己的名字",
+        "Madame禁止所有歌手照片",
+        "封面上的Judy手里拿着香烟"
+      ],
+      "correct": 3,
+      "explanation": "The cigarette makes Kathy secretive because smoking is heavily condemned at Hailsham. The cover is not evidence that Kathy herself smokes.",
+      "explanationZh": "原因是封面有香烟，而Hailsham极严厉地反对吸烟。注意：Kathy隐藏的是图片，不代表她自己吸烟。学校对身体健康的强调使这个小图像都显得敏感。",
+      "locator": "Chapter 6 · Judy Bridgewater’s cover photograph",
+      "evidence": "Kathy hides the cover because Judy is pictured with a burning cigarette."
+    },
+    {
+      "id": "p1q40",
+      "chapter": 6,
+      "category": "Events",
+      "question": "What is Kathy doing when Madame sees her and cries?",
+      "questionZh": "Madame看见Kathy并哭泣时，Kathy正在做什么？",
+      "options": [
+        "Presenting a painting at an Exchange",
+        "Arguing with Ruth about a chessboard",
+        "Swaying to the song while holding a pillow as an imagined baby",
+        "Trying to climb the school fence"
+      ],
+      "optionsZh": [
+        "在Exchange展示画作",
+        "为棋盘与Ruth争吵",
+        "随歌曲摇摆，抱着枕头想象那是婴儿",
+        "试图翻越学校围栏"
+      ],
+      "correct": 2,
+      "explanation": "Kathy uses the pillow in her private interpretation of the song. Madame’s tears are observed, but their full meaning is not established for the children at this stage.",
+      "explanationZh": "Kathy把枕头想象成婴儿，跟着歌慢慢摇摆。到这里能够确定的是Madame看见并哭了；她为什么哭，孩子们并没有得到完整、可靠的解释，不应把猜测当事实。",
+      "locator": "Chapter 6 · The dormitory dance",
+      "evidence": "Kathy discovers Madame at the doorway while dancing with a pillow held to her breast."
+    },
+    {
+      "id": "p1q41",
+      "chapter": 6,
+      "category": "Interpretation",
+      "question": "Why does Norfolk become emotionally important to the children?",
+      "questionZh": "为什么Norfolk对孩子们有特殊的情感意义？",
+      "options": [
+        "They imagine lost possessions may be recoverable there",
+        "They have documentary proof that all stolen goods go there",
+        "It is the only place where guardians may live",
+        "It is the official name of their medical programme"
+      ],
+      "optionsZh": [
+        "他们想象丢失的珍贵物品也许可以在那里找回",
+        "他们有证据证明所有失窃物品都会运往那里",
+        "那是唯一允许guardians居住的地方",
+        "那是他们医疗计划的官方名称"
+      ],
+      "correct": 0,
+      "explanation": "A geographical description develops into a comforting fantasy about a national lost-property corner. Its emotional usefulness matters more to them than checking whether it is logical.",
+      "explanationZh": "他们把地理课上的“失落角落”发展成一种幻想：珍贵之物不是彻底消失，而是去了Norfolk。它提供的是loss中的comfort，并不是经核实的现实规律。",
+      "locator": "Chapter 6 · Norfolk as a place for lost things",
+      "evidence": "The children connect Norfolk with the lost-property idea and take comfort in imagining future recovery."
+    },
+    {
+      "id": "p1q42",
+      "chapter": 6,
+      "category": "Names & details",
+      "question": "What replacement gift does Ruth give Kathy after the cassette disappears?",
+      "questionZh": "Kathy的磁带丢失后，Ruth送她什么作为替代礼物？",
+      "options": [
+        "Another copy of Songs After Dark",
+        "A new Walkman with no tape",
+        "Twenty Classic Dance Tunes",
+        "A recording of Miss Emily’s speeches"
+      ],
+      "optionsZh": [
+        "另一盘Songs After Dark",
+        "一台没有磁带的新Walkman",
+        "Twenty Classic Dance Tunes",
+        "一盘Miss Emily演讲录音"
+      ],
+      "correct": 2,
+      "explanation": "Ruth gives a different recording containing ballroom-dance music. Kathy values the gesture of care, even though it is not the music she lost.",
+      "explanationZh": "Ruth送的是另一盘磁带Twenty Classic Dance Tunes，内容是舞厅舞曲。它没有真正替回原来的音乐，但Kathy珍视朋友用心补偿的举动；物品的意义来自关系。",
+      "locator": "Chapter 6 · Ruth’s gift on the hill",
+      "evidence": "Ruth explains that she could not find the lost tape and offers a different recording bought at a Sale."
+    },
+    {
+      "id": "p1q43",
+      "chapter": 7,
+      "category": "Names & details",
+      "question": "Which two boys’ conversation prompts Miss Lucy to interrupt on the pavilion veranda?",
+      "questionZh": "哪两个男孩在亭子走廊上的谈话，引发了Miss Lucy的打断？",
+      "options": [
+        "Christopher C. and Roy J.",
+        "Tommy and Harry C.",
+        "Peter J. and Gordon",
+        "Gary B. and Arthur H."
+      ],
+      "optionsZh": [
+        "Christopher C.和Roy J.",
+        "Tommy和Harry C.",
+        "Peter J.和Gordon",
+        "Gary B.和Arthur H."
+      ],
+      "correct": 2,
+      "explanation": "Peter J. is talking to Gordon about becoming actors, with America offering the best chance. Miss Lucy responds to this imagined future rather than merely to noisy behaviour.",
+      "explanationZh": "是Peter J.与Gordon，话题是当演员以及去美国的机会。Miss Lucy的反应针对他们想象中的未来，不只是因为他们吵闹或不守纪律。",
+      "locator": "Chapter 7 · The conversation about acting",
+      "evidence": "Miss Lucy asks Peter to repeat what he was saying to Gordon about an acting career."
+    },
+    {
+      "id": "p1q44",
+      "chapter": 7,
+      "category": "Names & details",
+      "question": "How old are the students during Miss Lucy’s direct speech about their futures?",
+      "questionZh": "Miss Lucy在亭子走廊直接说明未来时，学生们大约几岁？",
+      "options": [
+        "Eight",
+        "Ten",
+        "Fifteen",
+        "Thirty-one"
+      ],
+      "optionsZh": [
+        "8岁",
+        "10岁",
+        "15岁",
+        "31岁"
+      ],
+      "correct": 2,
+      "explanation": "They are fifteen and in their final Hailsham year. The chapter also recalls events at thirteen, so not every scene in Chapter 7 happens at the same age.",
+      "explanationZh": "这次讲话发生在15岁、Hailsham最后一年。第7章也回顾了13岁时的事情，所以不能因为同在一章，就把所有事件都放在同一年龄。",
+      "locator": "Chapter 7 · Shelter from the downpour",
+      "evidence": "Kathy locates the veranda speech when the students are fifteen."
+    },
+    {
+      "id": "p1q45",
+      "chapter": 7,
+      "category": "Events",
+      "question": "What central fact does Miss Lucy insist they face?",
+      "questionZh": "Miss Lucy坚持让他们直面的核心事实是什么？",
+      "options": [
+        "They may choose any profession after a final examination",
+        "Every student will become a guardian at Hailsham",
+        "Their assigned futures involve donating vital organs before middle age",
+        "Their future depends only on who wins at rounders"
+      ],
+      "optionsZh": [
+        "通过期末考试后他们可以自由选择任何职业",
+        "每个学生都会成为Hailsham的guardian",
+        "他们被安排在未到中年时开始捐献重要器官",
+        "他们的未来只取决于谁赢得rounders比赛"
+      ],
+      "correct": 2,
+      "explanation": "She directly rejects ordinary career expectations and describes a predetermined purpose. She is making the implications explicit, not offering a new career option.",
+      "explanationZh": "她否定演员、超市工作等普通职业想象，说明他们的未来早已被安排。重点是让学生真正面对已有信息的后果，而不是介绍一种可自由选择的职业。",
+      "locator": "Chapter 7 · Miss Lucy’s speech",
+      "evidence": "Miss Lucy states that the students were created for donations and that their futures have already been decided."
+    },
+    {
+      "id": "p1q46",
+      "chapter": 7,
+      "category": "Names & details",
+      "question": "Who starts the claim that Tommy’s injured elbow might unzip?",
+      "questionZh": "谁最先声称Tommy受伤的肘部可能像拉链一样打开？",
+      "options": [
+        "Christopher C.",
+        "Nurse Trisha",
+        "Miss Emily",
+        "Christopher H."
+      ],
+      "optionsZh": [
+        "Christopher C.",
+        "Nurse Trisha",
+        "Miss Emily",
+        "Christopher H."
+      ],
+      "correct": 3,
+      "explanation": "Christopher H., a student from the year above, presents the invented danger seriously. It is a prank, not a medical warning from Crow Face.",
+      "explanationZh": "是高一届的Christopher H.，他说得一本正经，其他人又跟着附和。它是恶作剧，不是Nurse Trisha的医学警告；Christopher C.则是笔袋事件里的monitor。",
+      "locator": "Chapter 7 · The elbow prank",
+      "evidence": "Christopher H. warns Tommy at lunch that bending the injured elbow could make it open up."
+    },
+    {
+      "id": "p1q47",
+      "chapter": 7,
+      "category": "Interpretation",
+      "question": "What does being told and not told mean most precisely?",
+      "questionZh": "“told and not told”最准确的含义是什么？",
+      "options": [
+        "The students have literally never heard the word donation",
+        "Miss Lucy gives them contradictory dates for an examination",
+        "Every student understands the whole system but refuses all care",
+        "The students possess information without fully grasping its implications"
+      ],
+      "optionsZh": [
+        "学生从未听过donation这个词",
+        "Miss Lucy告诉他们互相矛盾的考试日期",
+        "每人都完全理解制度并拒绝一切照顾",
+        "学生听过事实，却未充分理解其后果"
+      ],
+      "correct": 3,
+      "explanation": "Awareness is not the same as understanding. Timing, embarrassment, distraction and habits of avoidance can keep known facts emotionally distant.",
+      "explanationZh": "核心区别是knowing the facts与understanding the implications。信息可能早已进入脑中，却因年幼、羞耻、分心和回避而没有被认真消化；不是简单的“从未被告知”。",
+      "locator": "Chapter 7 · Reflecting on Miss Lucy’s phrase",
+      "evidence": "Kathy and Tommy consider how familiar information could remain insufficiently understood."
+    },
+    {
+      "id": "p1q48",
+      "chapter": 7,
+      "category": "Interpretation",
+      "question": "How does Kathy describe the change after Miss Lucy’s speech?",
+      "questionZh": "Kathy怎样描述Miss Lucy讲话之后的变化？",
+      "options": [
+        "Everyone immediately organises an escape",
+        "Donation jokes fade and the subject becomes serious and sombre",
+        "The students forget every earlier warning",
+        "Donations become an ordinary topic discussed freely all day"
+      ],
+      "optionsZh": [
+        "所有人立刻组织逃跑",
+        "捐献玩笑减少，这个话题变得严肃沉重",
+        "学生忘记所有以前的警告",
+        "捐献成为大家整天自由讨论的普通话题"
+      ],
+      "correct": 1,
+      "explanation": "Kathy says the joking diminishes and avoidance returns in a more serious form. The shift suggests greater recognition, but not unrestricted discussion or collective action.",
+      "explanationZh": "玩笑逐渐消失，但并不等于大家开始充分讨论。回避仍在，只是从原来的尴尬变成更沉重的沉默：有所认识，不等于已经能直接面对或采取行动。",
+      "locator": "Chapter 7 · The aftermath of the speech",
+      "evidence": "Kathy describes the donation subject becoming sombre rather than the focus of jokes."
+    },
+    {
+      "id": "p1q49",
+      "chapter": 8,
+      "category": "Names & details",
+      "question": "In which room does Kathy find Miss Lucy angrily covering pages?",
+      "questionZh": "Kathy在哪间教室发现Miss Lucy愤怒地涂划纸张？",
+      "options": [
+        "Room 18",
+        "Room 22",
+        "Room 5",
+        "The Dining Hall"
+      ],
+      "optionsZh": [
+        "Room 18",
+        "Room 22",
+        "Room 5",
+        "Dining Hall"
+      ],
+      "correct": 1,
+      "explanation": "The incident occurs in small, dim Room 22. Room 18 is associated with medical checks, and Room 5 with the earlier pencil-case display.",
+      "explanationZh": "是狭小、昏暗的Room 22。Room 18与体检有关，Room 5则是早先展示笔袋的教室。地点细节最好与事件成对记忆。",
+      "locator": "Chapter 8 · The hissing sound upstairs",
+      "evidence": "Kathy follows a repeated hissing noise to Room 22 and discovers Miss Lucy."
+    },
+    {
+      "id": "p1q50",
+      "chapter": 8,
+      "category": "Events",
+      "question": "What is Miss Lucy actually doing when Kathy hears the hissing sound?",
+      "questionZh": "Kathy听到嘶嘶声时，Miss Lucy实际上在做什么？",
+      "options": [
+        "Repairing a leaking gas pipe",
+        "Playing a damaged cassette",
+        "Scrubbing pencil lines over neat blue handwriting",
+        "Burning the students’ paintings"
+      ],
+      "optionsZh": [
+        "修理漏气管",
+        "播放损坏的磁带",
+        "用铅笔猛烈涂黑原本整齐的蓝色字迹",
+        "焚烧学生画作"
+      ],
+      "correct": 2,
+      "explanation": "The noise comes from her pencil moving furiously across paper. Kathy observes the action and her flushed face, but does not learn exactly what the writing contained.",
+      "explanationZh": "声音来自铅笔猛烈摩擦纸面。Kathy看见原本整齐的蓝字被覆盖，却不知道具体内容。分析可以讨论压抑或冲突，但不能声称自己知道她正在销毁哪份文件。",
+      "locator": "Chapter 8 · Miss Lucy’s pages",
+      "evidence": "Kathy sees heavy black lines being drawn over blue handwriting."
+    },
+    {
+      "id": "p1q51",
+      "chapter": 8,
+      "category": "Names & details",
+      "question": "Who makes the small calendar that Kathy proudly shows Tommy?",
+      "questionZh": "Kathy骄傲地拿给Tommy看的小日历是谁制作的？",
+      "options": [
+        "Patricia C.",
+        "Christy",
+        "Amanda C.",
+        "Miss Emily"
+      ],
+      "optionsZh": [
+        "Patricia C.",
+        "Christy",
+        "Amanda C.",
+        "Miss Emily"
+      ],
+      "correct": 0,
+      "explanation": "Patricia C.’s calendar contains pencil sketches of Hailsham life. It is different from Miss Emily’s county calendars and from Christy’s celebrated poetry.",
+      "explanationZh": "是Patricia C.制作的，里面画着Hailsham生活的铅笔小画。它不同于Miss Emily展示各郡的彩色日历，也不是Christy的诗集。",
+      "locator": "Chapter 8 · The calendar beside the sycamore",
+      "evidence": "Kathy shows Tommy a calendar of Hailsham scenes made by Patricia C."
+    },
+    {
+      "id": "p1q52",
+      "chapter": 8,
+      "category": "Names & details",
+      "question": "Which boy does Kathy consider approaching because she sees him as experienced, quiet and discreet?",
+      "questionZh": "Kathy认为哪个男孩有经验、安静而不会到处议论，因此考虑与他接近？",
+      "options": [
+        "Harry C.",
+        "Roy J.",
+        "Christopher H.",
+        "Arthur H."
+      ],
+      "optionsZh": [
+        "Harry C.",
+        "Roy J.",
+        "Christopher H.",
+        "Arthur H."
+      ],
+      "correct": 0,
+      "explanation": "Kathy selects Harry C. partly because she expects him to be considerate and unlikely to gossip. Her choice also reflects anxiety about experience and social expectations.",
+      "explanationZh": "是Harry C.。Kathy觉得他较体贴、不会散播私事。这段情节既显示她试图谨慎掌控自己的选择，也暴露她对同伴经验和群体期待的焦虑。",
+      "locator": "Chapter 8 · Kathy’s plans and social pressure",
+      "evidence": "Kathy explains that Harry seems decent, quiet and unlikely to gossip."
+    },
+    {
+      "id": "p1q53",
+      "chapter": 8,
+      "category": "Interpretation",
+      "question": "Why is Tommy’s angry response to Laura’s comment about mud significant?",
+      "questionZh": "Tommy对Laura指出他衣服上有泥的玩笑反应强烈，为什么值得注意？",
+      "options": [
+        "It proves Laura has deliberately resumed a long bullying campaign",
+        "It suggests renewed inner distress that Kathy initially misreads",
+        "It proves Tommy has become a guardian",
+        "It proves the mud contains dangerous chemicals"
+      ],
+      "optionsZh": [
+        "它证明Laura故意重启长期欺凌计划",
+        "它提示Tommy内心又出现困扰，但Kathy起初理解错了",
+        "它证明Tommy已成为guardian",
+        "它证明泥里含危险化学物质"
+      ],
+      "correct": 1,
+      "explanation": "Kathy presents the comment as friendly teasing but is surprised by Tommy’s intensity. She initially associates his difficulties with relationship trouble, overlooking other possible causes.",
+      "explanationZh": "Kathy把这次玩笑描述为友好的打趣，因此Tommy强烈的反应显得异常。她最初只从恋爱冲突理解他的情绪，忽视了另有原因的可能，体现叙述者认识的局限。",
+      "locator": "Chapter 8 · Laura notices mud on Tommy’s shirt",
+      "evidence": "Tommy abruptly turns on Laura’s friendly remark and then stalks away."
+    },
+    {
+      "id": "p1q54",
+      "chapter": 8,
+      "category": "Interpretation",
+      "question": "How does Kathy connect adolescent pressure about experience with earlier pressure about creativity?",
+      "questionZh": "Kathy怎样把青春期的“经验压力”与早年的creativity压力联系起来？",
+      "options": [
+        "Both are official competitive school examinations",
+        "Both guarantee that rumours are always true",
+        "Both make the students completely independent of others",
+        "Both can become tests of belonging and social worth"
+      ],
+      "optionsZh": [
+        "两者都是正式的竞争性学校考试",
+        "两者都证明传言一定真实",
+        "两者都使学生彻底不受他人影响",
+        "两者都可能成为衡量归属感与个人价值的群体标准"
+      ],
+      "correct": 3,
+      "explanation": "Kathy feels that being inexperienced marks her out, much as poor creativity previously affected status. She also questions whether classmates’ confident claims are reliable.",
+      "explanationZh": "她觉得没有经验会显得落后，正如以前“不够有创造力”会损害地位。这种比较揭示peer pressure；同时她也怀疑同学的自信宣称，不应把所有吹嘘当作事实。",
+      "locator": "Chapter 8 · Growing up and fitting in",
+      "evidence": "Kathy explicitly compares the new pressure to earlier expectations about being creative."
+    },
+    {
+      "id": "p1q55",
+      "chapter": 9,
+      "category": "Names & details",
+      "question": "Who first calls Kathy Tommy’s natural successor after his break-up with Ruth?",
+      "questionZh": "Tommy与Ruth分手后，谁先说Kathy会自然接替Ruth的位置？",
+      "options": [
+        "Charlotte F.",
+        "Cynthia E.",
+        "Midge A.",
+        "Miss Lucy"
+      ],
+      "optionsZh": [
+        "Charlotte F.",
+        "Cynthia E.",
+        "Midge A.",
+        "Miss Lucy"
+      ],
+      "correct": 1,
+      "explanation": "Cynthia E. makes the remark in the Art Room. Hannah later hints at a similar assumption; the initial explicit comment comes from Cynthia.",
+      "explanationZh": "是Cynthia E.在美术教室说的。Hannah后来也通过暗示表达类似想法，但最先明确说出“natural successor”的是Cynthia。",
+      "locator": "Chapter 9 · Conversation during the still-life lesson",
+      "evidence": "Cynthia E. comments on Kathy as a likely successor while they work in the Art Room."
+    },
+    {
+      "id": "p1q56",
+      "chapter": 9,
+      "category": "Events",
+      "question": "What does Ruth ask Kathy to do after the break-up?",
+      "questionZh": "分手后，Ruth请Kathy做什么？",
+      "options": [
+        "Warn Miss Emily about a stolen tape",
+        "Ask Madame to take Tommy’s calendar",
+        "Teach Tommy the rules of chess",
+        "Talk to Tommy and help them get back together"
+      ],
+      "optionsZh": [
+        "向Miss Emily举报磁带被偷",
+        "请Madame带走Tommy的日历",
+        "教Tommy国际象棋规则",
+        "与Tommy谈谈，帮两人复合"
+      ],
+      "correct": 3,
+      "explanation": "Ruth appeals to Kathy’s special ability to talk to Tommy and to her loyalty. The request places Kathy inside the relationship rather than leaving her free to consider her own wishes.",
+      "explanationZh": "Ruth希望Kathy劝Tommy复合，并强调Tommy信任她、她是可靠的朋友。这既认可Kathy，又把她放进为两人修补关系的角色中，使她自己的感情更难表达。",
+      "locator": "Chapter 9 · Ruth’s request in the dorm",
+      "evidence": "Ruth asks Kathy to speak to Tommy on her behalf."
+    },
+    {
+      "id": "p1q57",
+      "chapter": 9,
+      "category": "Events",
+      "question": "How does Miss Lucy’s new advice reverse her earlier reassurance to Tommy?",
+      "questionZh": "Miss Lucy给Tommy的新建议，怎样推翻了早先的安慰？",
+      "options": [
+        "She now says all guardians should stop teaching art",
+        "She now tells him that football is forbidden",
+        "She now denies ever having spoken to him",
+        "She now insists that his art matters, including for his own sake"
+      ],
+      "optionsZh": [
+        "她现在说所有guardians都应停止教美术",
+        "她现在说足球已被禁止",
+        "她现在否认曾与他说过话",
+        "她现在坚持艺术很重要，也对他自己有益"
+      ],
+      "correct": 3,
+      "explanation": "She apologises for having discouraged his concern about creativity and urges him to make up lost time. Her reference to art as evidence remains unexplained at this point.",
+      "explanationZh": "她为先前让他不用担心创作而道歉，要求他补回时间，并强调艺术对他自身也重要。她提到evidence，却没有解释清楚；到第9章不要提前补入后文答案。",
+      "locator": "Chapter 9 · Tommy reports the second conversation",
+      "evidence": "Miss Lucy tells Tommy that his art is important and that she did him a disservice before."
+    },
+    {
+      "id": "p1q58",
+      "chapter": 9,
+      "category": "Names & details",
+      "question": "What are the Culture Briefings designed to practise?",
+      "questionZh": "Culture Briefings主要让学生练习什么？",
+      "options": [
+        "Judging which works Madame will select",
+        "Training as professional opera singers",
+        "Role-playing people and situations they may encounter outside Hailsham",
+        "Memorising imaginary horse pedigrees"
+      ],
+      "optionsZh": [
+        "判断Madame会选哪些作品",
+        "训练成为专业歌剧演员",
+        "扮演离开Hailsham后可能遇到的人与情境",
+        "背诵想象中的马的血统"
+      ],
+      "correct": 2,
+      "explanation": "Students role-play encounters involving figures such as café waiters and police officers. The sessions combine anticipation of outside life with anxiety about unfamiliar rules.",
+      "explanationZh": "他们扮演咖啡馆服务员、警察等角色，预演外界生活。这既让人期待，也让人担心：学校在训练他们适应外面，但他们对真实社会仍相当陌生。",
+      "locator": "Chapter 9 · The Culture Briefing",
+      "evidence": "Kathy explains the briefings immediately before the news of Miss Lucy’s departure spreads."
+    },
+    {
+      "id": "p1q59",
+      "chapter": 9,
+      "category": "Names & details",
+      "question": "Who rushes in with the news that Miss Lucy has left?",
+      "questionZh": "谁跑进来带来Miss Lucy离校的消息？",
+      "options": [
+        "Cynthia E.",
+        "Charlotte F.",
+        "Polly T.",
+        "Marge K."
+      ],
+      "optionsZh": [
+        "Cynthia E.",
+        "Charlotte F.",
+        "Polly T.",
+        "Marge K."
+      ],
+      "correct": 1,
+      "explanation": "Charlotte F. spreads the news after another class has heard it from Miss Emily. Cynthia is associated with the earlier relationship comment, not this announcement.",
+      "explanationZh": "传来消息的是Charlotte F.。消息源头是Miss Emily向另一个班宣布；Cynthia E.是先前评论Kathy与Tommy关系的人，不要混淆。",
+      "locator": "Chapter 9 · News after the Culture Briefing",
+      "evidence": "Charlotte F. rushes into the room and reports Miss Lucy’s departure."
+    },
+    {
+      "id": "p1q60",
+      "chapter": 9,
+      "category": "Interpretation",
+      "question": "Which conclusion best respects what the end of Chapter 9 actually establishes?",
+      "questionZh": "哪项结论最尊重第9章结尾真正提供的证据？",
+      "options": [
+        "Kathy is officially credited by the guardians with arranging everything",
+        "Tommy proves that his only concern was his break-up",
+        "Miss Lucy leaves, and Ruth and Tommy reunite that evening; the exact cause of her departure is not explained to the students",
+        "Miss Lucy publicly announces her full reasons in person"
+      ],
+      "optionsZh": [
+        "guardians正式表扬Kathy安排好了一切",
+        "Tommy证明自己唯一担心的是分手",
+        "Miss Lucy离开，Ruth与Tommy当晚复合；学生并未获知她离开的确切原因",
+        "Miss Lucy亲自公开解释所有离开原因"
+      ],
+      "correct": 2,
+      "explanation": "Ruth thanks Kathy, but Kathy doubts how much her intervention achieved. The sequence is clear; claims that Kathy caused every outcome or that the departure’s full explanation is already known go beyond the evidence.",
+      "explanationZh": "时间顺序很清楚：Miss Lucy离开，当晚Ruth与Tommy复合。但Ruth感谢Kathy，不等于Kathy就能确定自己起了决定作用；离校原因也没有向学生完整解释。要区分顺序、人物归因与确证事实。",
+      "locator": "Chapter 9 · Final days at Hailsham",
+      "evidence": "Kathy reports the announcement, the same-evening reunion, and her doubt about her own influence."
+    }
+  ],
+  "part1Reference": [
+    {
+      "id": "p1-background",
+      "title": "Background without the date trap",
+      "titleZh": "背景：别混淆版本日期与首次出版",
+      "chapter": 0,
+      "facts": [
+        {
+          "en": "Author: Kazuo Ishiguro. First publication: 2005.",
+          "zh": "作者：Kazuo Ishiguro（石黑一雄）；首次出版：2005年。"
+        },
+        {
+          "en": "The supplied Vintage EPUB records a 2006 edition date and ISBN 9781400078776.",
+          "zh": "你提供的Vintage EPUB标注2006年的版本日期，ISBN为9781400078776；版本日期不等于首次出版日期。"
+        },
+        {
+          "en": "Kathy is an adult first-person narrator recalling childhood at Hailsham. The order of memories is not a straight timeline.",
+          "zh": "成年Kathy以第一人称回忆Hailsham童年；叙述常随联想跳转，章节顺序不等于完全直线的事件顺序。"
+        },
+        {
+          "en": "The childhood setting is a secluded school in the English countryside, within an invented social system.",
+          "zh": "童年主要发生在英格兰乡间的Hailsham；小说的制度是虚构的，不能当成真实历史。"
+        }
+      ]
+    },
+    {
+      "id": "p1-adults",
+      "title": "The adults: who does what?",
+      "titleZh": "成人角色：身份与作用",
+      "chapter": 0,
+      "facts": [
+        {
+          "en": "Miss Emily: head guardian; authority, assemblies, and several major lessons.",
+          "zh": "Miss Emily：head guardian（首席监护人）；代表权威，主持训话，也亲自教授重要课程。"
+        },
+        {
+          "en": "Miss Geraldine: gentle and popular guardian; Ruth wants to feel specially favoured by her.",
+          "zh": "Miss Geraldine：温柔、受欢迎；Ruth渴望被她特别偏爱。"
+        },
+        {
+          "en": "Miss Lucy: questions how much the students understand; gives the direct speech about donations and changes her advice on art.",
+          "zh": "Miss Lucy：担心学生未真正理解命运；明确谈论donations，并改变了对Tommy艺术问题的建议。"
+        },
+        {
+          "en": "Madame: outside visitor who collects selected work; she is not one of the ordinary classroom guardians. Her precise nationality is disputed by the children.",
+          "zh": "Madame：从外界来挑选作品的人，不是普通授课guardian；孩子们争论她是法国人还是比利时人，不能把其猜测写成确证。"
+        },
+        {
+          "en": "Nurse Trisha: Crow Face, associated with frequent medical examinations. Miss Jody is mentioned about getting Tommy’s shirt clean.",
+          "zh": "Nurse Trisha：绰号Crow Face，负责体检；Miss Jody则与清洗Tommy的衣服有关。"
+        }
+      ]
+    },
+    {
+      "id": "p1-horses",
+      "title": "Bramble, Thunder, and Daffodil",
+      "titleZh": "三匹马：名字、规则与顺序",
+      "chapter": 4,
+      "facts": [
+        {
+          "en": "All the horses belong to a shared imaginary game, not a real school stable.",
+          "zh": "这些马都属于共同的make-believe游戏，并非学校真的养了马。"
+        },
+        {
+          "en": "Bramble: the first horse Kathy is offered; Ruth says not to use a crop.",
+          "zh": "Bramble：Kathy最初获准骑的马；Ruth强调不能用crop（马鞭）。"
+        },
+        {
+          "en": "Thunder: Ruth’s best/favourite horse. She first says he is too dangerous, but eventually lets Kathy ride him.",
+          "zh": "Thunder：Ruth最好的、最喜欢的马。最初说太危险不让Kathy骑，后来还是让她骑了。"
+        },
+        {
+          "en": "Daffodil: Ruth tells Kathy to lean much farther back while riding her.",
+          "zh": "Daffodil：Ruth要求Kathy骑它时身体更向后仰。"
+        },
+        {
+          "en": "The game mixes real enjoyment with Ruth’s authority to grant access, dictate rules, and stop the play.",
+          "zh": "游戏里有真实的快乐，也有Ruth决定资格、规则与结束时间的权力；亲密和控制并存。"
+        }
+      ]
+    },
+    {
+      "id": "p1-exchanges",
+      "title": "Exchanges, Sales, Gallery, collections",
+      "titleZh": "四个概念：来源与用途不要混",
+      "chapter": 4,
+      "facts": [
+        {
+          "en": "Exchanges: four per year; students’ creative work circulates through a token system.",
+          "zh": "Exchanges：每年四次；以学生创作为物品，用tokens交换。"
+        },
+        {
+          "en": "Sales: outside goods such as clothes, toys and tapes; a delivery van comes monthly. The goods arrive before the Sale itself.",
+          "zh": "Sales：外界的衣服、玩具、磁带等；运货车每月来。物品运到与正式Sale之间有时间间隔。"
+        },
+        {
+          "en": "Gallery: Madame takes selected work; its full purpose remains uncertain within Chapters 1–9.",
+          "zh": "Gallery：Madame拿走精选作品；在第1—9章范围内，真实用途仍未获得完整解释。"
+        },
+        {
+          "en": "Collections: personal possessions kept in named wooden chests under beds.",
+          "zh": "Collections：学生珍藏的个人物品，通常放在床下写有名字的木箱中。"
+        },
+        {
+          "en": "Roy J. approaches Miss Emily about tokens; Polly T. asks Miss Lucy why Madame takes the work.",
+          "zh": "Roy J.就tokens问题找Miss Emily；Polly T.向Miss Lucy问为什么Madame要拿走作品。"
+        }
+      ]
+    },
+    {
+      "id": "p1-names",
+      "title": "Similar names, different incidents",
+      "titleZh": "易混名字：连首字母与事件一起记",
+      "chapter": 0,
+      "facts": [
+        {
+          "en": "Christopher C.: the Sales monitor Kathy names in her pencil-case bluff (Chapter 5).",
+          "zh": "Christopher C.：Kathy在笔袋事件中虚称自己与之交谈的Sales monitor（第5章）。"
+        },
+        {
+          "en": "Christopher H.: starts the elbow-unzipping story (Chapter 7).",
+          "zh": "Christopher H.：编造Tommy肘部会像拉链打开的故事（第7章）。"
+        },
+        {
+          "en": "Moira B.: former secret-guard member; Kathy angrily rejects her criticism (Chapter 5).",
+          "zh": "Moira B.：被排除的secret guard成员；批评游戏时受到Kathy反驳（第5章）。"
+        },
+        {
+          "en": "Midge A.: innocently asks where Ruth got her pencil case (Chapter 6).",
+          "zh": "Midge A.：无意中追问Ruth笔袋来源（第6章）。"
+        },
+        {
+          "en": "Cynthia E.: calls Kathy the likely successor to Ruth; Charlotte F.: brings the news about Miss Lucy (Chapter 9).",
+          "zh": "Cynthia E.：说Kathy会接替Ruth的位置；Charlotte F.：带来Miss Lucy离校消息（第9章）。"
+        },
+        {
+          "en": "Amanda C.: praises young Kathy’s modelling clay (Chapter 3); Patricia C.: makes the illustrated calendar (Chapter 8).",
+          "zh": "Amanda C.：夸Kathy的泥塑（第3章）；Patricia C.：制作有Hailsham图画的小日历（第8章）。"
+        }
+      ]
+    },
+    {
+      "id": "p1-guard",
+      "title": "The secret guard and the pencil case",
+      "titleZh": "secret guard与笔袋：别把暗示当证据",
+      "chapter": 5,
+      "facts": [
+        {
+          "en": "The secret guard claims to protect Miss Geraldine from a kidnapping plot; the plot is a shared fantasy.",
+          "zh": "secret guard声称保护Miss Geraldine免遭绑架；阴谋是共同维持的幻想。"
+        },
+        {
+          "en": "Ruth pretends to know chess and gives every piece an L-shaped move. Kathy’s withdrawal is followed by exclusion from the group.",
+          "zh": "Ruth装作懂棋，让全部棋子按L形走；Kathy不满离开，之后被排除在小组之外。"
+        },
+        {
+          "en": "Ruth implies that the pencil case is a special gift without openly naming Miss Geraldine as its source.",
+          "zh": "Ruth暗示笔袋是特殊礼物，却没有公开明确说是Miss Geraldine送的。"
+        },
+        {
+          "en": "Kathy bluffs about consulting the Sales Register. She does not produce an actual record as proof.",
+          "zh": "Kathy虚称查过Sales Register，并没有拿出真实登记记录作证。"
+        },
+        {
+          "en": "When Midge asks later, Kathy protects Ruth’s mystery; neither friend can easily discuss the earlier hurt openly.",
+          "zh": "后来Midge询问时，Kathy帮Ruth维持“秘密”；两人都难以直接说清先前的伤害与补偿。"
+        }
+      ]
+    },
+    {
+      "id": "p1-tape",
+      "title": "The cassette: five facts to keep separate",
+      "titleZh": "磁带：五项事实分开记",
+      "chapter": 6,
+      "facts": [
+        {
+          "en": "Singer: Judy Bridgewater. Album: Songs After Dark. Recording date given by Kathy: 1956.",
+          "zh": "歌手：Judy Bridgewater；专辑：Songs After Dark；Kathy提到录制日期为1956年。"
+        },
+        {
+          "en": "Never Let Me Go is track three; it is a song title, not the album title.",
+          "zh": "Never Let Me Go是第3首歌，注意歌曲名与专辑名不同。"
+        },
+        {
+          "en": "Judy is pictured in a purple satin dress with a cigarette; the cigarette makes Kathy hide the cover.",
+          "zh": "封面Judy穿紫色缎面裙、拿香烟；Kathy因香烟图片而隐藏封面。"
+        },
+        {
+          "en": "Kathy imagines a woman holding a longed-for baby, using a pillow. Madame sees her and cries; the children’s explanations remain guesses.",
+          "zh": "Kathy抱枕头想象一个女人终于拥有渴望的婴儿。Madame看到后哭了；孩子们对原因的解释仍是猜测。"
+        },
+        {
+          "en": "Ruth’s replacement is Twenty Classic Dance Tunes, not another copy of Judy’s album.",
+          "zh": "Ruth送的替代品是Twenty Classic Dance Tunes，不是另一盘Judy的专辑。"
+        },
+        {
+          "en": "The original tape disappears later; Kathy says she has no reason to link its loss to Madame’s visit.",
+          "zh": "原磁带后来丢失；Kathy明确说没有理由把失窃与Madame来访联系起来。"
+        }
+      ]
+    },
+    {
+      "id": "p1-knowledge",
+      "title": "Told, understood, avoided",
+      "titleZh": "知道、理解与回避",
+      "chapter": 7,
+      "facts": [
+        {
+          "en": "Peter J. speaks with Gordon about acting and America; this prompts Miss Lucy’s interruption.",
+          "zh": "Peter J.与Gordon谈演员梦想和美国，引发Miss Lucy打断。"
+        },
+        {
+          "en": "The students are fifteen during the direct speech; the elbow prank recalled in the same chapter belongs to an earlier period.",
+          "zh": "直接讲话时学生15岁；同章回忆的肘部恶作剧发生得更早。"
+        },
+        {
+          "en": "The elbow story is a student prank. It later becomes an unzipping joke about donations, not a factual medical description.",
+          "zh": "肘部故事是学生恶作剧，后来变成donations的“拉拉链”玩笑，并不是医学事实。"
+        },
+        {
+          "en": "Knowing a term or fact does not mean understanding what it will do to one’s life.",
+          "zh": "知道一个词或事实，并不等于理解它将怎样影响自己的一生。"
+        },
+        {
+          "en": "After the speech, jokes fade and donation talk becomes sombre; silence can remain even when understanding grows.",
+          "zh": "讲话后玩笑减少，话题变沉重；即使认识增加，沉默也可能继续。"
+        }
+      ]
+    },
+    {
+      "id": "p1-ending",
+      "title": "Chapters 8–9: the final Hailsham summer",
+      "titleZh": "第8—9章：Hailsham最后一个夏天",
+      "chapter": 9,
+      "facts": [
+        {
+          "en": "Room 22: Miss Lucy scribbles over blue handwriting. Kathy does not know exactly what the papers say.",
+          "zh": "Room 22：Miss Lucy涂黑蓝字；Kathy并不知道纸上具体写着什么。"
+        },
+        {
+          "en": "Patricia C.’s calendar unsettles Tommy; Kathy initially explains his mood mainly through his break-up with Ruth.",
+          "zh": "Patricia C.的日历令Tommy不安；Kathy最初主要用他与Ruth分手来解释情绪。"
+        },
+        {
+          "en": "Miss Lucy reverses her earlier art advice; Tommy is troubled by this, not only by his relationship.",
+          "zh": "Miss Lucy推翻早先的艺术建议；Tommy烦恼的不只是恋爱问题。"
+        },
+        {
+          "en": "Culture Briefings rehearse outside encounters. Charlotte F. brings the news that Miss Lucy has left; Miss Emily has announced it to another class.",
+          "zh": "Culture Briefings预演外界情境。Charlotte F.传来离校消息；Miss Emily已向另一个班宣布。"
+        },
+        {
+          "en": "Ruth and Tommy reunite that evening. Ruth credits Kathy, while Kathy is uncertain how much her intervention caused it.",
+          "zh": "Ruth与Tommy当晚复合。Ruth归功于Kathy，但Kathy不确定自己的劝说究竟起了多大作用。"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "part1-publication",
+      "title": "The Morgan Library & Museum · First-publication record",
+      "url": "https://www.themorgan.org/printed-books/317913",
+      "note": "Confirms the original London publication in 2005; distinct from the supplied Vintage edition date."
+    },
+    {
+      "id": "part1-publisher",
+      "title": "Penguin Random House · Book information and author discussion",
+      "url": "https://www.penguinrandomhouse.com/books/85609/never-let-me-go-by-kazuo-ishiguro-with-a-new-introduction/9781400044832/",
+      "note": "Publication and English-countryside background reference. Plot details in this quiz were checked directly against the supplied EPUB."
+    }
+  ]
+}

@@ -1,0 +1,2648 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "part": 1,
+      "title": "A voice looking back",
+      "summary": "Kathy H., aged thirty-one, introduces herself as a carer with more than eleven years of experience. She takes pride in keeping donors calm, yet repeatedly qualifies her claims so that she will not sound boastful. Her references to donations, recovery centres and choosing donors initially receive little explanation: she speaks as though her listener already knows this world. Remembering a donor who wanted to borrow her happy childhood memories helps explain why Hailsham remains so important to her. Familiar buildings and landscapes still draw her back to it in her imagination. The narrative then moves to the school’s sports pavilion, where Kathy and her friends watch boys deliberately exclude Tommy from a football team, although he is a talented player. Laura imitates his expressions and the group finds excuses for the bullying. Kathy notices his treasured light-blue polo shirt and worries that his angry stamping will cover it in mud. She approaches him despite Ruth’s warning. Tommy accidentally hits her while flailing his arms, then becomes embarrassed. Their awkward encounter introduces both Kathy’s attentiveness and the pressure she feels from the watching group.",
+      "events": [
+        "Kathy describes her work with donors.",
+        "Memories return her to Hailsham.",
+        "Tommy is excluded; Kathy approaches him."
+      ],
+      "analysis": [
+        {
+          "method": "Retrospective first-person narration",
+          "detail": "Kathy pauses to question whether she felt sympathy at the time.",
+          "effect": "The older narrator distinguishes what she now understands from what her younger self may have felt. This uncertainty asks readers to evaluate her memory without assuming that every hesitation is a lie.",
+          "zh": "retrospective narration 让成年判断与童年反应并存。她承认不确定，反而提醒读者：记忆是重建，不是录像；不能把 limited perspective 直接等同于故意撒谎。"
+        },
+        {
+          "method": "Delayed explanation",
+          "detail": "Professional words appear before the reader learns their full implications.",
+          "effect": "The opening makes institutional routines sound familiar. Unease grows because the reader has to work out what those routines mean, experiencing the difference between hearing a term and understanding it.",
+          "zh": "作者先给词汇、后给含义。读者知道字面内容，却暂时不懂制度后果；这种阅读经验与小说中 knowledge 和 understanding 的距离相呼应。"
+        },
+        {
+          "method": "A small symbolic object",
+          "detail": "Kathy repeatedly notices Tommy’s treasured shirt.",
+          "effect": "The shirt makes his vulnerability personal: what the crowd treats as a spectacle belongs to someone with ordinary attachments. Kathy’s attention begins to restore individuality to a boy reduced to a group joke.",
+          "zh": "polo shirt 是具体的情感证据。群体只看见发脾气的笑柄，Kathy 却记得他珍惜的东西；这种细节把 Tommy 重新呈现为有感情的个人。"
+        }
+      ],
+      "themes": [
+        "Memory",
+        "Care",
+        "Exclusion"
+      ],
+      "question": "Why does Kathy focus on Tommy’s shirt rather than simply describing his tantrum?",
+      "answer": "The shirt reveals an ordinary attachment that the watching group ignores. Her attention makes Tommy an individual and opens a small connection, while her embarrassment shows the limits of her independence from the group.",
+      "zh": "这一章先由31岁的 Kathy H. 介绍自己：她已经做了十一年多 carer，还要继续八个月。她为自己能让 donors 保持平静而自豪，却又不断补充、修正，怕听起来像在炫耀。作者没有立刻解释 donation 等词，而是让 Kathy 像对熟悉制度的人一样说话。随后，一个病重 donor 想把她的 Hailsham 回忆当成自己的童年，这说明记忆能够安慰人，也解释她为什么反复回到过去。叙述转到十二三岁时：女孩们在 sports pavilion 看男孩故意不选 Tommy 踢球。Tommy 明明球技很好，却受到集体排斥；Laura 模仿他的表情，其他人把责任推给他的脾气和缺乏创造力。Kathy 注意到他珍爱的浅蓝 polo shirt，担心被泥弄脏，于是走近提醒。他挥动手臂时意外碰到她的脸。重点不只是 Kathy 善良：她也曾旁观、受同伴眼光影响。这个不完全光彩的回忆让她显得复杂而真实。",
+      "sourceIds": [
+        "lc1",
+        "sp1",
+        "user-epub"
+      ],
+      "titleZh": "回望过去的声音",
+      "orientation": {
+        "en": "Adult Kathy introduces her work, then moves back to Hailsham at twelve or thirteen. The chapter deliberately mixes the narrating present with remembered childhood.",
+        "zh": "先分清两个时间层：31岁的 Kathy 正在讲述；她回忆中的学生大约十二三岁。开头的 carer 工作与后面的校园事件不是同时发生。"
+      },
+      "summaryZh": "这一章先由31岁的 Kathy H. 介绍自己：她已经做了十一年多 carer，还要继续八个月。她为自己能让 donors 保持平静而自豪，却又不断补充、修正，怕听起来像在炫耀。作者没有立刻解释 donation 等词，而是让 Kathy 像对熟悉制度的人一样说话。随后，一个病重 donor 想把她的 Hailsham 回忆当成自己的童年，这说明记忆能够安慰人，也解释她为什么反复回到过去。叙述转到十二三岁时：女孩们在 sports pavilion 看男孩故意不选 Tommy 踢球。Tommy 明明球技很好，却受到集体排斥；Laura 模仿他的表情，其他人把责任推给他的脾气和缺乏创造力。Kathy 注意到他珍爱的浅蓝 polo shirt，担心被泥弄脏，于是走近提醒。他挥动手臂时意外碰到她的脸。重点不只是 Kathy 善良：她也曾旁观、受同伴眼光影响。这个不完全光彩的回忆让她显得复杂而真实。",
+      "scenes": [
+        {
+          "title": "A reassuring introduction with unsettling gaps",
+          "titleZh": "平静开场里的信息空缺",
+          "text": "Kathy presents her job through competence, patience and professional recognition. She can choose some donors, and she anticipates other carers resenting this privilege. Because she does not explain the larger system, readers must notice the tension between her reassuring vocabulary and the references to repeated donations. Her concern with being judged also establishes a narrator who carefully manages how her account sounds.",
+          "zh": "Kathy 先讲职业能力、耐心和成绩，使 carer 听起来很普通；但多次 donation、身体恢复等细节逐渐带来不安。她预想别人会嫉妒自己的选择权，因此不断解释。这既是信息延迟，也是人物塑造：她很在意自己在听者眼中是否公平、是否值得信任。"
+        },
+        {
+          "title": "A childhood someone else wants to remember",
+          "titleZh": "别人也想拥有的童年",
+          "text": "A seriously ill donor asks Kathy to describe Hailsham repeatedly. She realises he wants more than entertaining stories: he wants the memories to feel like his own. This gives Hailsham emotional value before readers understand it institutionally. It also complicates nostalgia, because Kathy’s conviction that she was fortunate partly grows out of comparing her childhood with another person’s more painful experience.",
+          "zh": "病重的 donor 反复要求听 Hailsham 的大小事情，并非单纯忘记了，而是想把那些画面变成自己的回忆。记忆像一种心理庇护。Kathy 对学校的感激也具有比较性：因为别人经历更差，她觉得自己幸运；这种感激不能自动证明学校没有问题。"
+        },
+        {
+          "title": "The group turns cruelty into entertainment",
+          "titleZh": "群体怎样把伤害变成笑话",
+          "text": "The girls watch a planned humiliation from the pavilion windows. Tommy expects selection because he plays football well; the boys instead leave him alone and move to another field. When his anger continues, the spectators become uncomfortable and explain why he deserves it. Notice how these explanations protect the observers from admitting that watching and laughing have helped make the cruelty possible.",
+          "zh": "女孩们处在旁观者的位置，似乎没有亲自设计恶作剧；但观看、模仿与笑声让伤害成为群体娱乐。Tommy 发怒太久后，她们开始不舒服，于是强调他不努力、脾气差。这是自我辩护：把问题变成受害者的缺点，便不必面对自己的参与。"
+        },
+        {
+          "title": "The shirt creates a small connection",
+          "titleZh": "一件衣服建立的联系",
+          "text": "Kathy approaches Tommy through a concrete concern rather than a speech about bullying: his favourite shirt may be ruined. He is surprised that she has understood its importance. His accidental blow interrupts the attempt at kindness, and Kathy eventually withdraws under the others’ gaze. The scene creates a tentative connection while showing that sympathy does not remove embarrassment, irritation or social pressure.",
+          "zh": "Kathy 没有发表大道理，而是记得他珍惜什么。衣服让抽象的同情变成具体的关心。不过，她也会恼火，也怕别人观看；Tommy 则因受伤的自尊说出不友善的话。两人的联系并不完美，正因为如此，才具有真实的人际复杂性。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Kathy’s age",
+          "value": "Thirty-one in the narrating present.",
+          "zh": "讲述时31岁，不是校园回忆中的年龄。"
+        },
+        {
+          "label": "Length of caring",
+          "value": "More than eleven years; eight months remain, bringing the total close to twelve.",
+          "zh": "已做十一年多，还剩八个月；不要把开头说成已经做满十二年。"
+        },
+        {
+          "label": "The two playing fields",
+          "value": "The boys choose teams on the North Playing Field, then run towards the South Playing Field.",
+          "zh": "先在 North Playing Field 选队，再向 South Playing Field 跑去。"
+        },
+        {
+          "label": "Tommy’s shirt",
+          "value": "A light-blue polo shirt bought at a Sale the previous month.",
+          "zh": "浅蓝色 polo shirt，来自上个月的 Sale。"
+        },
+        {
+          "label": "Laura",
+          "value": "The friend who mimics Tommy’s changing facial expressions.",
+          "zh": "Laura 模仿 Tommy 表情，使旁观者发笑。"
+        },
+        {
+          "label": "Miss Jody",
+          "value": "Kathy suggests asking her for help if the mud will not wash out.",
+          "zh": "Kathy 提到洗不掉泥点时可以找 Miss Jody。"
+        }
+      ],
+      "pitfall": {
+        "en": "Tommy does not deliberately punch Kathy. She understands the contact as accidental. Kathy is also a participant in the watching group before she intervenes.",
+        "zh": "不要写 Tommy 故意殴打 Kathy；她认为那是挥臂时的意外。也不要把 Kathy 写成从未参与群体冷漠的完美英雄。"
+      },
+      "questionZh": "为什么 Kathy 反复注意 Tommy 的衣服，而不只描述他的发怒？",
+      "answerZh": "衣服显示他有普通而具体的珍爱之物。Kathy 因为记得这一点而看见群体忽略的个人；但她仍怕同伴目光，所以同情并不等于完全摆脱群体压力。"
+    },
+    {
+      "id": 2,
+      "part": 1,
+      "title": "Creativity as a social test",
+      "summary": "Tommy apologises to Kathy on the crowded staircase while students pass to and from their regular medical examinations. His awkward sincerity makes her pay closer attention to his treatment. She learns that the bullying is sustained and often cruel, yet when she raises it in the dormitory, Ruth argues that Tommy must change his attitude towards creative work. Kathy explains the Exchanges: students submit artwork, receive tokens assessed by the guardians, and buy work made by others in their own year. Creativity therefore affects possessions, reputation and friendship. A later conversation with Ruth reveals how uncertain their supposedly sophisticated artistic judgments were. The narrative traces Tommy’s difficulties back to a deliberately childish elephant painting in Miss Geraldine’s class. Her exaggerated praise, intended to protect him, increases classmates’ resentment. His defensive refusal to try and their ridicule reinforce one another. Eventually the teasing weakens, although his artwork has not improved. His new calm and self-confidence change the group’s response. Kathy asks what happened and discovers that Miss Lucy privately told him he need not blame himself for lacking artistic ability. The chapter ends with the promise of a fuller conversation.",
+      "events": [
+        "Tommy apologises for the accident.",
+        "The Exchanges link art, possessions and status.",
+        "Miss Lucy’s reassurance helps Tommy control his reactions."
+      ],
+      "analysis": [
+        {
+          "method": "Explanatory digression",
+          "detail": "Kathy interrupts the bullying account to explain Exchanges.",
+          "effect": "The apparent detour shows that Tommy’s treatment is connected to the school’s values. His suffering becomes a consequence of a social system, not just a personal disagreement with a few boys.",
+          "zh": "叙事的 digression 有解释作用：Exchanges 说明为什么艺术能力能影响人际待遇。Tommy 的困境由学校价值观与同伴行为共同形成，而非几个孩子之间的孤立冲突。"
+        },
+        {
+          "method": "Irony",
+          "detail": "Miss Geraldine’s attempt to protect Tommy makes other children resent him.",
+          "effect": "Kind intentions do not guarantee helpful effects. The irony encourages a more careful account of care: adults may respond compassionately while misunderstanding the group dynamics that shape a child’s vulnerability.",
+          "zh": "irony 在于善意造成更坏后果。作者让读者区分 intention 与 effect：关爱真实存在，但成人可能不了解孩子群体中的嫉妒与权力。"
+        },
+        {
+          "method": "Contrast",
+          "detail": "Tommy becomes more accepted although his artwork remains weak.",
+          "effect": "This separates artistic talent from personal worth. The group’s changing response reveals how reputations are sustained through repeated behaviour and expectations, rather than being objective measures of a person.",
+          "zh": "艺术没有进步，社会待遇却改善，说明受欢迎程度并非能力的客观反映。名声也由期待、反应和群体习惯维持；认可能够改变人的自我理解。"
+        }
+      ],
+      "themes": [
+        "Art",
+        "Identity",
+        "Belonging"
+      ],
+      "question": "Why is the Exchange system relevant to Tommy’s bullying?",
+      "answer": "Because creative work becomes a source of possessions and status, weak artwork is treated as a failure of character. The group mistakes conformity to its artistic values for personal worth.",
+      "zh": "Tommy 在去接受体检的楼梯上向 Kathy 道歉。他表达真诚，却不懂十三岁同伴眼中的社交分寸，令 Kathy 有点尴尬，也使她开始更仔细地留意他的遭遇。欺凌并非偶发事件，而是长期排斥、嘲笑与恶作剧。Kathy 在宿舍说这样不公平，Ruth 却认为他应该先改变不认真创作的态度。接着，Kathy 解释 Exchanges：学生作品换取 tokens，再用 tokens 买同年级同学的作品。艺术因此不只是兴趣，还决定个人收藏、名声与归属。Tommy 的问题可追溯到一幅幼稚的大象水彩画：Miss Geraldine 为保护他而过度表扬，反而激起其他学生的不满。越被嘲笑，他越用故意敷衍保护自己。后来，他的作品并未进步，但脾气和自信改变，群体逐渐失去欺负他的兴趣。原来 Miss Lucy 私下告诉他，不擅长创作不等于他有错。关键是自我价值的改变，而非突然获得艺术天赋。",
+      "sourceIds": [
+        "lc2",
+        "sp1",
+        "user-epub"
+      ],
+      "titleZh": "创造力怎样决定一个人的地位",
+      "orientation": {
+        "en": "At about thirteen, Kathy becomes more interested in Tommy’s exclusion. Her account moves back to the childhood incident that began it and forward to a later conversation with Ruth.",
+        "zh": "主要关注十三岁左右的 Tommy，但叙述会追溯更小的时候，也会插入成年 Kathy 与 Ruth 的回忆比较；不要把这些事件当成同一天发生。"
+      },
+      "summaryZh": "Tommy 在去接受体检的楼梯上向 Kathy 道歉。他表达真诚，却不懂十三岁同伴眼中的社交分寸，令 Kathy 有点尴尬，也使她开始更仔细地留意他的遭遇。欺凌并非偶发事件，而是长期排斥、嘲笑与恶作剧。Kathy 在宿舍说这样不公平，Ruth 却认为他应该先改变不认真创作的态度。接着，Kathy 解释 Exchanges：学生作品换取 tokens，再用 tokens 买同年级同学的作品。艺术因此不只是兴趣，还决定个人收藏、名声与归属。Tommy 的问题可追溯到一幅幼稚的大象水彩画：Miss Geraldine 为保护他而过度表扬，反而激起其他学生的不满。越被嘲笑，他越用故意敷衍保护自己。后来，他的作品并未进步，但脾气和自信改变，群体逐渐失去欺负他的兴趣。原来 Miss Lucy 私下告诉他，不擅长创作不等于他有错。关键是自我价值的改变，而非突然获得艺术天赋。",
+      "scenes": [
+        {
+          "title": "An apology on the staircase",
+          "titleZh": "楼梯上的道歉",
+          "text": "Students moving between medical checks create a crowded public setting for Tommy’s apology. Kathy accepts that he did not mean to hit her, but feels uncomfortable with his openly enthusiastic manner. Her response is not rejection of his kindness: it shows how adolescent codes regulate even friendly behaviour. Afterwards, she investigates incidents she hears about rather than treating his isolation as a passing joke.",
+          "zh": "楼梯是公开场合，Tommy 大声而热情地道歉，Kathy 觉得这不像十三岁男孩女孩之间应有的样子。这里体现 adolescent social codes，而不是说明她不原谅他。之后她主动追问恶作剧的细节，开始看见他承受的是长期排斥。"
+        },
+        {
+          "title": "The Exchanges create a social economy",
+          "titleZh": "Exchanges 也是一种地位制度",
+          "text": "Four seasonal Exchanges turn student creations into possessions purchased with tokens. Guardians decide each work’s token value, and students can buy only from their own year. This encourages mutual appreciation, but also makes artistic production a public measure of worth. Kathy’s later questions about poetry expose a gap between enjoying literature and accepting that a respected poet must deserve social authority.",
+          "zh": "一年四次 Exchanges，教师决定作品值多少 tokens，学生只买同年级作品。它确实能培养欣赏，也把创作变成公开排名。Kathy 后来回想诗歌地位，发现大家未必真正理解作品，却把诗写得好的人视为更值得尊重；艺术评价与群体权力混在一起。"
+        },
+        {
+          "title": "The elephant and the cycle of humiliation",
+          "titleZh": "大象画与恶性循环",
+          "text": "Tommy describes making an intentionally childish elephant painting. Kathy suspects that his joking covered anxiety about not keeping up. Miss Geraldine praises it to protect him, but the class resents this apparent indulgence. Later attempts are watched so critically that he retreats into pretending not to care. The chapter explains behaviour through a cycle of shame, rather than accepting the simple label of laziness.",
+          "zh": "Tommy 说大象画是开玩笑，成年 Kathy 认为这也可能掩饰落后的不安。Miss Geraldine 的好意被同学理解为偏袒；他努力时受嘲笑，便退回不在乎的姿态。分析要看到羞耻、防卫与群体反应的循环，不能只用 lazy 概括他。"
+        },
+        {
+          "title": "A change without better artwork",
+          "titleZh": "没有变成艺术家，却开始改变",
+          "text": "Kathy notices that Tommy no longer gives tormentors the outbursts they expect. Arthur H. tries to restart the mockery during football, but the others do not join in. Because Tommy’s creative work is still weak, Kathy recognises that something deeper has changed. Miss Lucy’s reassurance has given him a different basis for valuing himself, reducing his dependence on the group’s judgments.",
+          "zh": "Arthur H. 再次模仿 Tommy 时，其他男孩不再配合。改变并非艺术水平提升，而是他不再完全接受集体对他的评价。Miss Lucy 的认可提供另一种 self-worth：缺乏某项能力，不等于整个人没有价值。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Medical examinations",
+          "value": "Usually almost weekly in Room 18, with Nurse Trisha.",
+          "zh": "通常几乎每周体检，地点 Room 18，护士 Nurse Trisha。"
+        },
+        {
+          "label": "Nurse’s nickname",
+          "value": "Crow Face is the students’ nickname for Nurse Trisha.",
+          "zh": "Crow Face 指 Nurse Trisha，不是另一名 guardian。"
+        },
+        {
+          "label": "Exchange frequency",
+          "value": "Four times yearly: spring, summer, autumn and winter.",
+          "zh": "一年四次，每个季节一次。"
+        },
+        {
+          "label": "Buying rule",
+          "value": "Students may buy work made by students in their own year.",
+          "zh": "只能购买同年级学生的作品。"
+        },
+        {
+          "label": "The painting",
+          "value": "An elephant standing in tall grass, made in Miss Geraldine’s class.",
+          "zh": "画的是站在高草中的大象；上课教师是 Miss Geraldine。"
+        },
+        {
+          "label": "Poetry and craft names",
+          "value": "Christy is admired for poetry; Jackie makes giraffes.",
+          "zh": "Christy 以诗歌出名，Jackie 制作长颈鹿。"
+        },
+        {
+          "label": "Arthur H.",
+          "value": "One of Tommy’s persistent tormentors.",
+          "zh": "Arthur H. 是经常欺负 Tommy 的学生之一。"
+        }
+      ],
+      "pitfall": {
+        "en": "The Exchanges are not the Sales. Exchanges circulate students’ own work; Sales bring objects from outside. Miss Lucy’s reassurance does not suddenly improve Tommy’s art.",
+        "zh": "不要把 Exchanges 与 Sales 混淆：前者交易学生作品，后者带来外界物品。Miss Lucy 改变的是 Tommy 的自我评价，不是突然提高他的绘画技能。"
+      },
+      "questionZh": "为什么分析 Tommy 被欺凌时必须提到 Exchanges？",
+      "answerZh": "因为创作能力通过 tokens、收藏和名声影响地位。群体把不符合艺术标准误解成性格有问题，令能力差异变成人际排斥的理由。"
+    },
+    {
+      "id": 3,
+      "part": 1,
+      "title": "Madame’s recoil",
+      "summary": "Tommy explains his conversation with Miss Lucy in greater detail. She had insisted that genuine difficulty with creativity was not his fault, while showing an anger that seemed directed elsewhere. She also suggested that students were not being taught enough about their futures. Kathy tries to connect these remarks to Madame’s visits and the removal of their best artwork. The Gallery is familiar as an idea, but its existence and purpose are uncertain; students have inherited the story and avoid mentioning it directly to guardians. Kathy then recalls Ruth’s theory that Madame is afraid of them rather than merely unfriendly. At about eight, six children arrange to surround her politely as she arrives. They expect the result to settle their own disagreement. Instead, Madame’s stiff recoil makes them feel that she fears physical contact with them. The children are shaken by seeing themselves through an outsider’s disturbed gaze. Kathy remembers this as a moment when vague knowledge of being different acquired an emotional reality. The chapter deepens the questions about art and education without providing their answers.",
+      "events": [
+        "Tommy reports Miss Lucy’s concern about their education.",
+        "The purpose of Madame’s art collection remains uncertain.",
+        "The children test Madame’s reaction to their presence."
+      ],
+      "analysis": [
+        {
+          "method": "Simile and a shift in perspective",
+          "detail": "Kathy compares Madame’s fear to fear of spiders.",
+          "effect": "The comparison makes the children experience themselves as objects of involuntary disgust. Its force comes from changing who is looking and who is being looked at, rather than from any physical attack.",
+          "zh": "spider simile 将孩子放进令人本能畏惧的位置。震撼来自 gaze 的变化：原本他们在观察 Madame，现在被迫想象她眼里的自己。"
+        },
+        {
+          "method": "Contrast in atmosphere",
+          "detail": "A playful experiment ends in collective silence and distress.",
+          "effect": "The abrupt emotional change marks the movement from curiosity to painful understanding. Learning how someone sees you can matter more than learning a new factual statement about yourself.",
+          "zh": "由玩笑、挑战转向沉默，表现从 curiosity 到 emotional understanding。并非增加一条新知识就等于理解；这次遭遇让“不同”成为切身感受。"
+        },
+        {
+          "method": "Unspoken social rules",
+          "detail": "Students invoke the Gallery among themselves but avoid questioning guardians.",
+          "effect": "Control operates through embarrassment and collective expectations as well as explicit instructions. The students help preserve the boundary between what can be repeated and what can be investigated.",
+          "zh": "沉默不只来自成人命令，也来自学生的尴尬与默契。他们可以反复说 Gallery，却不能追究它是什么；knowledge 与 questioning 被分隔开。"
+        }
+      ],
+      "themes": [
+        "Otherness",
+        "Knowledge and control",
+        "Art"
+      ],
+      "question": "Why does the successful test of Ruth’s theory make the children unhappy?",
+      "answer": "They expected to settle a disagreement, but Madame’s response makes them see themselves as frightening outsiders. The experiment turns an abstract suspicion into a painful experience of being different.",
+      "zh": "池塘边，Tommy 更详细地讲述 Miss Lucy 的话：如果他确实努力过仍不擅长创作，就不应该责怪自己。她说话时压抑着怒气，却不是对他生气；她还认为学生对自身未来了解得不够。Kathy 开始把这件事与 Madame 收走优秀作品联系起来。Gallery 虽然人人谈论，却来自学生间代代相传的说法，教师并未正式解释，学生自己也遵守不向教师提问的默契。随后，Kathy 回忆八岁左右的测试：Ruth 怀疑 Madame 不是高傲，而是害怕他们。六个孩子等她到校，故意礼貌地迎面围上去。结果她僵住，仿佛害怕被他们碰到。原本带游戏性质的挑战，变成一次痛苦的自我认识：他们第一次强烈感受到，外界可能把自己看成令人恐惧的异类。重点是情感理解的突然到来，而不是本章已经揭晓了所有秘密。",
+      "sourceIds": [
+        "lc3",
+        "sp2",
+        "user-epub"
+      ],
+      "titleZh": "从 Madame 的目光中看见自己",
+      "orientation": {
+        "en": "The pond conversation continues at around thirteen, then Kathy remembers the children testing Madame when they were about eight. The Gallery’s real purpose is still unknown here.",
+        "zh": "先继续十三岁左右的池塘谈话，再回到八岁左右测试 Madame 的事件。此时学生还不知道 Gallery 的真正用途，分析必须保留这种未知。"
+      },
+      "summaryZh": "池塘边，Tommy 更详细地讲述 Miss Lucy 的话：如果他确实努力过仍不擅长创作，就不应该责怪自己。她说话时压抑着怒气，却不是对他生气；她还认为学生对自身未来了解得不够。Kathy 开始把这件事与 Madame 收走优秀作品联系起来。Gallery 虽然人人谈论，却来自学生间代代相传的说法，教师并未正式解释，学生自己也遵守不向教师提问的默契。随后，Kathy 回忆八岁左右的测试：Ruth 怀疑 Madame 不是高傲，而是害怕他们。六个孩子等她到校，故意礼貌地迎面围上去。结果她僵住，仿佛害怕被他们碰到。原本带游戏性质的挑战，变成一次痛苦的自我认识：他们第一次强烈感受到，外界可能把自己看成令人恐惧的异类。重点是情感理解的突然到来，而不是本章已经揭晓了所有秘密。",
+      "scenes": [
+        {
+          "title": "A guardian’s anger without an explanation",
+          "titleZh": "有怒气，却没有完整解释",
+          "text": "Tommy distinguishes Miss Lucy’s anger from anger at him. This matters because he is used to adults telling him to try harder. Her reassurance changes that familiar pattern, but her remarks about what students are taught introduce a larger uncertainty. Kathy listens actively, asking what links artistic creativity and donations. Neither child can yet turn these clues into a complete explanation.",
+          "zh": "Tommy 特别强调 Lucy 不是对他生气，因为他早已习惯被要求再努力。她第一次改变了责备他的逻辑，却又提到教育不足。Kathy 追问 art 和 donations 为什么同时出现；这种主动联系很重要，但读者不能把线索误写成两人已经知道答案。"
+        },
+        {
+          "title": "Everyone knows about something nobody has seen",
+          "titleZh": "人人知道、却无人确证的 Gallery",
+          "text": "Kathy remembers Amanda C. praising her childhood work as suitable for the Gallery. Years later, Carole H. accidentally mentions it to Mr. Roger and immediately recognises the social mistake. The contrast shows how the Gallery can organise ambition without being openly discussed. Its power rests partly on inherited stories and partly on students’ own caution around adults.",
+          "zh": "Amanda C. 早年用 Gallery 夸奖 Kathy；Carole H. 在 Mr. Roger 面前提起它却立刻意识到失言。Gallery 因而既是荣誉标准，又是禁忌话题。权威不必天天明令禁止，学生之间传承的习惯也会维持沉默。"
+        },
+        {
+          "title": "Ruth turns a theory into a test",
+          "titleZh": "Ruth 把猜想变成测试",
+          "text": "The children prepare by watching the selection of artwork in the billiards room and then tracking Madame’s arrival. Their plan involves no attack: they will walk towards her together and politely separate. This careful construction matters because the emotional damage comes from a minimal response. Madame need only freeze and recoil for the children to recognise a feeling they had not expected to confront.",
+          "zh": "他们通过 billiards room 里的作品准备判断 Madame 何时来访，再轮流望风。计划不是袭击她，而是突然一起迎面走去、礼貌经过。她没有大喊大叫；正是那种克制却明显的畏缩，使孩子感到自己被当成异类。"
+        },
+        {
+          "title": "The experiment changes the observers",
+          "titleZh": "测试者也被测试改变",
+          "text": "Once Madame has passed, the children no longer feel triumphant. Hannah looks close to tears, and even Ruth is shaken. The question shifts from whether Ruth was right to what it feels like to be seen this way. Kathy’s adult narration describes the encounter as a new, troubling reflection of the self: familiar identity becomes strange when filtered through someone else’s fear.",
+          "zh": "结果证明 Ruth 猜对了，却没有带来胜利感。Hannah 几乎哭出来，Ruth 也受到震动。问题从“她是否怕我们”变成“被别人这样看待是什么感觉”。这是 othering 的心理后果：别人眼里的自己，突然与一直熟悉的自己不一样。"
+        }
+      ],
+      "details": [
+        {
+          "label": "The pond",
+          "value": "Kathy and Tommy connect Miss Lucy’s comments with questions about the Gallery.",
+          "zh": "池塘谈话连接 Lucy 的话、未来与 Gallery。"
+        },
+        {
+          "label": "Amanda C.",
+          "value": "A child one year older who praises young Kathy’s modelling-clay work.",
+          "zh": "比 Kathy 大一岁，曾夸她的黏土作品。"
+        },
+        {
+          "label": "Carole H.",
+          "value": "Accidentally refers to the Gallery in front of Mr. Roger.",
+          "zh": "在 Mr. Roger 面前无意提到 Gallery 的学生。"
+        },
+        {
+          "label": "Madame’s visits",
+          "value": "Usually twice yearly, sometimes three or four times.",
+          "zh": "通常一年两次，有时三四次。"
+        },
+        {
+          "label": "Madame’s clothes",
+          "value": "A sharp grey suit; on the test day she carries a briefcase.",
+          "zh": "灰色套装；测试当天带着公文包。"
+        },
+        {
+          "label": "The test group",
+          "value": "Six children, about eight years old, led by Ruth.",
+          "zh": "六名孩子，约八岁，Ruth 带头。"
+        },
+        {
+          "label": "The lesson before the test",
+          "value": "Mr. Frank teaches spelling in Room 9.",
+          "zh": "测试前是 Mr. Frank 在 Room 9 上的拼写课。"
+        }
+      ],
+      "pitfall": {
+        "en": "The scene proves that Madame recoils from contact, not that she consciously wants to hurt the children. Her nationality is disputed by the students here; the Gallery’s purpose remains unresolved.",
+        "zh": "本章能确定的是 Madame 对接触感到畏惧，不能直接断言她想伤害孩子。她是法国人还是比利时人，学生有争论；Gallery 用途此时仍是谜。"
+      },
+      "questionZh": "为什么成功证明 Ruth 的猜想，反而让孩子们难过？",
+      "answerZh": "他们原本只想证明谁对谁错，却从 Madame 的反应中看见自己被视为令人畏惧的异类。抽象的“我们不同”变成切身的被排斥感。"
+    },
+    {
+      "id": 4,
+      "part": 1,
+      "title": "Small possessions, small freedoms",
+      "summary": "Kathy explains why childhood memories are necessary for understanding her later relationships. After the unsettling encounter with Madame, students avoid probing her activities, but a dispute about tokens briefly raises questions of ownership. Some argue that work taken for the Gallery should earn compensation. Roy J. approaches Miss Emily, and the school eventually awards a small number of tokens. During discussion, Polly T. asks why Madame takes the work at all; Miss Lucy says the reason is important but does not explain it. Kathy then distinguishes the monthly Sales, which bring outside goods, from the Exchanges of student artwork. Miss Emily appears both protective and intimidating: students respect her authority even when they cannot understand her speeches. Finally, Kathy recalls Ruth inviting her to ride imaginary horses. Ruth first offers Bramble, forbids use of a crop, gives instructions for other horses such as Daffodil, and eventually allows Kathy to ride her favourite, Thunder. The enjoyable game establishes Ruth’s power to grant access and set rules. It ends with an invitation for Kathy to join Miss Geraldine’s secret guards, connecting friendship with shared fantasy and loyalty.",
+      "events": [
+        "Students seek tokens for art selected by Madame.",
+        "The Sales bring second-hand possessions into Hailsham.",
+        "Kathy joins Ruth’s imaginative games."
+      ],
+      "analysis": [
+        {
+          "method": "Juxtaposition of authority",
+          "detail": "Miss Emily controls school rules; Ruth controls entry to imaginary games.",
+          "effect": "Placing these relationships in the same chapter invites comparison without making them identical. Both forms of authority combine security, belonging and unequal access to decisions, helping explain how dependence can feel comforting as well as restrictive.",
+          "zh": "学校权威与儿童游戏并置，可比较但不能简单画等号：它们都通过安全感、归属和资格建立关系。控制并不总以暴力出现，也可能存在于令人珍惜的亲密关系中。"
+        },
+        {
+          "method": "Material culture",
+          "detail": "Tokens make students calculate the value of art and outside possessions.",
+          "effect": "Objects provide ways to personalise a highly communal life. The controversy shows a developing sense of ownership, while also revealing how little power students have over the larger purpose for which their work is collected.",
+          "zh": "共同生活中，物品帮助学生建立私人身份。tokens controversy 说明他们已懂得所有权与公平，却只能影响补偿多少，仍不了解作品被使用的总体目的。"
+        },
+        {
+          "method": "Symbolic play",
+          "detail": "Ruth’s horses have distinct names, rules and levels of permitted access.",
+          "effect": "The detailed make-believe is not empty decoration. It offers freedom of imagination while rehearsing hierarchy: Kathy gains favour by accepting Ruth’s knowledge and following her instructions. Genuine pleasure and power coexist.",
+          "zh": "马的名字、性格和规则让 make-believe 变成社会秩序。想象带来乐趣，也让 Kathy 通过遵守 Ruth 的规定获得认可；分析应同时看到快乐与权力。"
+        }
+      ],
+      "themes": [
+        "Possessions",
+        "Make-believe",
+        "Control"
+      ],
+      "question": "How does the horse game establish the pattern of Kathy and Ruth’s friendship?",
+      "answer": "It gives both girls genuine pleasure and makes Kathy feel specially chosen, but Ruth controls the horses, rules and invitation. Affection and dependence develop together.",
+      "zh": "Kathy 解释：要理解后来的人际关系，就必须先整理 Hailsham 的童年。学生因 Madame 的反应而不愿继续深究，但 tokens controversy 暂时让所有权问题浮现：最优秀、最值钱的作品被拿走，是否应该得到补偿？Roy J. 向 Miss Emily 提出要求，最后学校同意给少量 tokens。Polly T. 进一步问 Madame 为什么拿作品，Miss Lucy 只说原因重要，将来希望有人解释。接着必须区分 Sales 与 Exchanges：Sales 每月带来外界物品，Exchanges 交易学生自己的作品。Miss Emily 一方面令人害怕，一方面使学生觉得安全，她的权威并不依赖频繁惩罚。最后叙述回到七八岁：Ruth 邀 Kathy 骑想象中的马，先给她 Bramble，要求不能用马鞭；Daffodil 要向后仰；最喜欢的 Thunder 起初不许骑，后来才允许。游戏充满快乐，也由 Ruth 控制规则与资格。之后她邀请 Kathy 加入保护 Miss Geraldine 的 secret guard，友谊、归属与服从由此交织。",
+      "sourceIds": [
+        "lc4",
+        "sp2",
+        "user-epub"
+      ],
+      "titleZh": "所有权、权威与想象中的马",
+      "orientation": {
+        "en": "Kathy revisits the tokens controversy at about ten, describes the Sales and Miss Emily, then goes further back to the start of her friendship with Ruth at seven or eight.",
+        "zh": "本章不是顺时序：先讲约十岁的 tokens controversy，再讲学校日常与 Miss Emily，最后回到七八岁时 Kathy 与 Ruth 成为朋友的经过。"
+      },
+      "summaryZh": "Kathy 解释：要理解后来的人际关系，就必须先整理 Hailsham 的童年。学生因 Madame 的反应而不愿继续深究，但 tokens controversy 暂时让所有权问题浮现：最优秀、最值钱的作品被拿走，是否应该得到补偿？Roy J. 向 Miss Emily 提出要求，最后学校同意给少量 tokens。Polly T. 进一步问 Madame 为什么拿作品，Miss Lucy 只说原因重要，将来希望有人解释。接着必须区分 Sales 与 Exchanges：Sales 每月带来外界物品，Exchanges 交易学生自己的作品。Miss Emily 一方面令人害怕，一方面使学生觉得安全，她的权威并不依赖频繁惩罚。最后叙述回到七八岁：Ruth 邀 Kathy 骑想象中的马，先给她 Bramble，要求不能用马鞭；Daffodil 要向后仰；最喜欢的 Thunder 起初不许骑，后来才允许。游戏充满快乐，也由 Ruth 控制规则与资格。之后她邀请 Kathy 加入保护 Miss Geraldine 的 secret guard，友谊、归属与服从由此交织。",
+      "scenes": [
+        {
+          "title": "Who owns the best work?",
+          "titleZh": "最优秀的作品属于谁？",
+          "text": "The children have learned to value objects through tokens, so having their best work removed becomes both an honour and a material loss. Roy J. takes the demand for compensation to Miss Emily. The eventual small payment compromises between the two positions. The students can debate the price of what is taken while still lacking an explanation of why it is taken at all.",
+          "zh": "作品既是荣誉，也是可换取物品的资源，学生因此产生矛盾。Roy J. 争取补偿，学校以少量 tokens 妥协。但他们能讨论“值多少钱”，却不知道“为什么拿走”；可商量的局部问题，掩盖了仍无法追问的根本问题。"
+        },
+        {
+          "title": "A question everyone wants and fears",
+          "titleZh": "人人好奇、却害怕有人问的问题",
+          "text": "Polly T. directly asks Miss Lucy why Madame takes their creations. Others resent the breach of an unwritten rule even while eagerly awaiting the answer. Lucy offers reassurance about an important purpose instead of explaining it. The group soon returns to safer discussion of tokens. Their relief reveals that the desire for knowledge competes with a desire to avoid unsettling the familiar school order.",
+          "zh": "Polly T. 问出大家想知道的问题，其他人却先责怪她破坏默契，再期待答案。Lucy 没有解答，话题回到 tokens 后大家反而松口气。这里不是孩子完全不想知道，而是好奇与维护安全感同时存在，后者常压过前者。"
+        },
+        {
+          "title": "The outside arrives in boxes",
+          "titleZh": "装在箱子里的外界",
+          "text": "Monthly Sales allow students to obtain clothes, toys and other items not made at Hailsham. A white van promises novelty, though the actual goods often disappoint. The noise and occasional fighting contrast with the Exchanges’ more restrained atmosphere. Miss Emily’s later lectures frame behaviour in terms of privilege and responsibility, but the children often respond to her authority more clearly than to her actual meaning.",
+          "zh": "白色货车每月带来外界衣服、玩具等物品；希望往往大于实际收获。Sales 的喧闹与 Exchanges 的安静形成对比。发生争抢后，Miss Emily 强调 privilege；学生感到自己让她失望，却不一定听懂论述，说明情感服从可以先于理解。"
+        },
+        {
+          "title": "The imaginary stable",
+          "titleZh": "想象中的马厩与友谊规则",
+          "text": "Ruth singles Kathy out from other children and offers access to her imaginary horses. Kathy’s decision not to invent horses of her own lets Ruth retain expertise and control. The two genuinely enjoy themselves, but Ruth can also stop the game and accuse Kathy of handling the horses badly. The later secret-guard invitation extends the same pattern: inclusion feels special because Ruth controls its conditions.",
+          "zh": "Ruth 特意选择 Kathy，使她感到被看重。Kathy 说自己没有马，让 Ruth 保持拥有者与指导者的位置。两人确实玩得投入，但 Ruth 也能突然终止、指责她。加入 secret guard 延续同一结构：被接纳令人幸福，资格却由 Ruth 掌握。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Roy J.",
+          "value": "The student a year above Kathy who takes the tokens issue to Miss Emily.",
+          "zh": "Roy J. 比 Kathy 大一年级，代表提出 tokens 要求。"
+        },
+        {
+          "label": "Polly T.",
+          "value": "Asks Miss Lucy why Madame takes their artwork.",
+          "zh": "Polly T. 直接问 Madame 为什么拿作品。"
+        },
+        {
+          "label": "Sales",
+          "value": "Monthly, in the Dining Hall; outside goods arrive in a large white van.",
+          "zh": "每月一次，在 Dining Hall；外界物品由白色大货车送来。"
+        },
+        {
+          "label": "Bramble",
+          "value": "The first horse Ruth offers Kathy; she must not use her crop on him.",
+          "zh": "第一匹给 Kathy 骑的马；不能对他用 crop（马鞭）。"
+        },
+        {
+          "label": "Thunder",
+          "value": "Ruth’s best and favourite horse; initially described as too dangerous, later offered to Kathy.",
+          "zh": "Ruth 最喜欢的马；先说太危险，后来才让 Kathy 骑。"
+        },
+        {
+          "label": "Daffodil",
+          "value": "Ruth tells Kathy to lean much farther back when riding her.",
+          "zh": "骑 Daffodil 时要明显向后仰；原文以 she 指这匹马。"
+        },
+        {
+          "label": "The secret guard invitation",
+          "value": "Ruth asks whether Miss Geraldine is Kathy’s special favourite before inviting her.",
+          "zh": "Ruth 先确认 Kathy 是否特别喜欢 Miss Geraldine，再邀请加入。"
+        }
+      ],
+      "pitfall": {
+        "en": "Bramble, Thunder and Daffodil are imaginary horses. Thunder is initially withheld but Kathy eventually rides him. Do not state that she is never allowed to ride Thunder.",
+        "zh": "Bramble、Thunder、Daffodil 都是想象中的马。Thunder 起初不让骑，但 Kathy 后来确实骑到；不要把前半段限制误当成最终结果。"
+      },
+      "questionZh": "骑马游戏怎样建立 Kathy 与 Ruth 友谊的基本模式？",
+      "answerZh": "Kathy 因被选中而快乐，两人也真心投入游戏；同时，马匹、规则、结束时间和加入资格都由 Ruth 决定，所以亲密与不平等并存。"
+    },
+    {
+      "id": 5,
+      "part": 1,
+      "title": "The rules of make-believe",
+      "summary": "Kathy describes the secret guard, a shifting group led by Ruth that claims to protect Miss Geraldine from kidnapping. Frightening stories about the woods make the imagined danger plausible, although the guardians dismiss those stories. The group collects suspicious-looking incidents rather than confronting anyone, keeping its fantasy safe from testing. Ruth’s claim to possess earlier knowledge gives her authority to include or expel members. When Kathy discovers that Ruth cannot really teach chess, she walks away from their game and is subsequently excluded from the guard. Yet Kathy angrily defends the group when another former member, Moira B., calls it childish. She even invents evidence, revealing that the fantasy’s survival is not Ruth’s responsibility alone. The chapter then moves to Ruth’s new pencil case. Ruth hints that Miss Geraldine gave it to her, making Kathy resent the apparent claim to special affection. Kathy pretends to have examined the Sales register, hoping to expose the story. Ruth’s distress, however, changes the emotional meaning of the victory. Kathy recognises a shared desire to be loved specially by a guardian and regrets hurting her friend.",
+      "events": [
+        "The secret guard invents threats around Miss Geraldine.",
+        "Ruth excludes Kathy after the chess disagreement.",
+        "Kathy challenges the story behind Ruth’s pencil case."
+      ],
+      "analysis": [
+        {
+          "method": "Fantasy and collective complicity",
+          "detail": "Kathy supplies invented evidence even after being excluded.",
+          "effect": "The episode prevents readers from blaming only a manipulative leader. The group survives because members gain comfort and identity from believing, so they help maintain the very structure that can injure them.",
+          "zh": "Kathy 主动补造证据，说明不能只责怪 Ruth 操纵。成员从幻想得到身份和安慰，也帮助维持会伤害自己的结构；complicity 可以源于需要归属。"
+        },
+        {
+          "method": "Retrospective qualification",
+          "detail": "Kathy offers more than one explanation for rejecting Moira.",
+          "effect": "The narrator does not reduce childhood motives to a single neat cause. Her uncertainty makes room for contradictory impulses and demonstrates the difficulty of understanding one’s former self.",
+          "zh": "成年 Kathy 没有给出唯一动机，保留忠诚、害怕、羞耻等可能。这种 qualification 显示自我解释的困难，而不是分析上的弱点。"
+        },
+        {
+          "method": "A turning point in emotional perspective",
+          "detail": "Kathy’s triumph collapses when she sees Ruth’s distress.",
+          "effect": "The pencil case shifts from a symbol of unfair superiority to evidence of a wish for special care. The change encourages readers to understand Ruth’s need without denying that her hints hurt other people.",
+          "zh": "pencil case 先象征偏爱与炫耀，后显露被爱的渴望。读者可以理解 Ruth 的脆弱，同时承认她的暗示确实伤人；同情不等于替行为免责。"
+        }
+      ],
+      "themes": [
+        "Make-believe",
+        "Power",
+        "Friendship"
+      ],
+      "question": "Why does Kathy defend the secret guard after Ruth has excluded her?",
+      "answer": "The group still represents belonging and a protected shared world. Kathy’s loyalty and reluctance to abandon that world outweigh the chance to join Moira in exposing it; the narrator deliberately leaves more than one motive possible.",
+      "zh": "secret guard 是 Ruth 领导、人数会变化的小团体，自称保护 Miss Geraldine 免遭绑架。树林传说虽然被 guardians 否认，却让孩子觉得危险真实存在。他们不断搜集所谓证据，却总避免当面对质，因此幻想不会轻易被事实推翻。Ruth 利用“以前就知道的秘密”决定谁能加入、谁被赶走。Kathy 买了棋具，希望 Ruth 教她 chess，却发现她把所有棋子都说成走 L 形。Kathy 生气离开，后来也被排除。但另一个被排除的 Moira B. 说 secret guard 幼稚时，Kathy 反而激烈辩护，甚至编造自己偷听到绑架计划的证据：维持幻想的并不只有 Ruth。接着，几年后的 pencil case 事件显示 Ruth 渴望 Miss Geraldine 的特殊关爱。Kathy 假称查过 Sales register，试图拆穿文具盒来源；看到 Ruth 几乎哭出来后，她意识到自己攻击的是朋友脆弱的被爱愿望。真相、嫉妒、忠诚与同情因而发生冲突。",
+      "sourceIds": [
+        "lc5",
+        "sp3",
+        "user-epub"
+      ],
+      "titleZh": "明知脆弱，仍要守住的幻想",
+      "orientation": {
+        "en": "The secret guard belongs to the girls’ childhood around seven or eight. The pencil-case episode occurs roughly three years later. Kathy links them through Ruth’s attachment to Miss Geraldine.",
+        "zh": "secret guard 发生在约七八岁；pencil case 事件约晚三年。Kathy 以两件事都涉及 Miss Geraldine 为联系，而不是按同一时段连续讲述。"
+      },
+      "summaryZh": "secret guard 是 Ruth 领导、人数会变化的小团体，自称保护 Miss Geraldine 免遭绑架。树林传说虽然被 guardians 否认，却让孩子觉得危险真实存在。他们不断搜集所谓证据，却总避免当面对质，因此幻想不会轻易被事实推翻。Ruth 利用“以前就知道的秘密”决定谁能加入、谁被赶走。Kathy 买了棋具，希望 Ruth 教她 chess，却发现她把所有棋子都说成走 L 形。Kathy 生气离开，后来也被排除。但另一个被排除的 Moira B. 说 secret guard 幼稚时，Kathy 反而激烈辩护，甚至编造自己偷听到绑架计划的证据：维持幻想的并不只有 Ruth。接着，几年后的 pencil case 事件显示 Ruth 渴望 Miss Geraldine 的特殊关爱。Kathy 假称查过 Sales register，试图拆穿文具盒来源；看到 Ruth 几乎哭出来后，她意识到自己攻击的是朋友脆弱的被爱愿望。真相、嫉妒、忠诚与同情因而发生冲突。",
+      "scenes": [
+        {
+          "title": "A guard that gathers evidence but never acts",
+          "titleZh": "一直搜证，却从不行动的 guard",
+          "text": "Members interpret ordinary conversations among adults as signs of a kidnapping plot. Ruth can appeal to information from before Kathy joined whenever her leadership is challenged. Yet they postpone confronting supposed conspirators and keep Miss Geraldine uninformed. These choices protect the group’s belief from contradiction. The guard provides a feeling of purpose and importance even though its evidence remains unreliable.",
+          "zh": "成人普通的交谈被解释为阴谋；Ruth 还可诉诸 Kathy 加入前的秘密。大家却不断推迟对质，也不告诉 Miss Geraldine。这样的规则保护幻想不被验证，让团体持续拥有使命感。不要把这些孩子的“证据”当作小说确认的真实绑架计划。"
+        },
+        {
+          "title": "The woods as an inherited fear",
+          "titleZh": "被代代传下来的树林恐惧",
+          "text": "Stories of death, punishment and exclusion surround the woods beyond Hailsham. Guardians deny them, but older students insist that younger children will learn the terrible truth later. The fear becomes a tool within the children’s own society when they force Marge K. to look towards the trees. The scene shows how vulnerable children can reproduce cruelty using beliefs they have inherited.",
+          "zh": "树林故事由学生流传，教师反而否认。年长学生声称将来才会知道真相，使恐惧难被消除。孩子们还强迫 Marge K. 看树林惩罚她。被恐惧控制的人也会利用恐惧控制别人；不能直接声称所有传说都是教师编造的。"
+        },
+        {
+          "title": "Why Kathy will not side with Moira",
+          "titleZh": "为什么 Kathy 不愿与 Moira 联手",
+          "text": "After the chess dispute, Kathy is excluded from a conversation in Room 20. Moira B., expelled earlier, seems a natural ally. Kathy instead invents a claim that she personally overheard the kidnappers. Her adult account considers different explanations: loyalty to Ruth, or unwillingness to step beyond a comforting framework. The uncertainty preserves the emotional complexity of defending a group that has hurt her.",
+          "zh": "Kathy 被排除后，Moira 理应是同伴，但她却编造亲耳听到阴谋的证据反驳 Moira。成年叙述提出不止一种解释：对 Ruth 的忠诚，或害怕放弃熟悉的安全框架。这种不确定使人物更复杂；她既知道幻想脆弱，又需要它带来的归属。"
+        },
+        {
+          "title": "Winning the argument, losing the satisfaction",
+          "titleZh": "赢了揭穿，却没有胜利感",
+          "text": "Ruth’s pencil-case story is conveyed through hints rather than a direct claim, which makes it difficult to challenge. Kathy devises a bluff involving the Sales register instead of actually checking it. When Ruth appears close to tears, Kathy’s anger turns into remorse. The episode asks whether exposing an untruth is always a simple moral victory when that untruth expresses a vulnerable wish for affection.",
+          "zh": "Ruth 用暗示而非直接陈述，难以被正面质问；Kathy 也并未真正查到记录，而是在诈她。看到 Ruth 受伤后，她不再享受揭穿。这里不是说欺骗永远合理，而是让读者思考：事实正确与行为体贴未必总能同时满足。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Membership",
+          "value": "Roughly six to ten members; Ruth controls admission and expulsion.",
+          "zh": "约六到十人，人数随 Ruth 决定变化。"
+        },
+        {
+          "label": "Person protected",
+          "value": "Miss Geraldine, not Miss Lucy or Miss Emily.",
+          "zh": "保护的是 Miss Geraldine。"
+        },
+        {
+          "label": "Suspected adults",
+          "value": "Miss Eileen is suspected; Mr. Roger is later added after a conversation is watched.",
+          "zh": "孩子怀疑 Miss Eileen，后来因观察到交谈也怀疑 Mr. Roger；只是猜测。"
+        },
+        {
+          "label": "Chess mistake",
+          "value": "Ruth says every piece moves in an L-shape.",
+          "zh": "Ruth 把骑士的 L 形走法错误推广到所有棋子。"
+        },
+        {
+          "label": "Moira B.",
+          "value": "A former secret-guard member who challenges the fantasy.",
+          "zh": "Moira B. 是先前已被排除的成员。"
+        },
+        {
+          "label": "Pencil case",
+          "value": "Deep tan with circled red dots and a furry pom-pom on the zip.",
+          "zh": "深黄褐色，有红色圆点，拉链带毛绒小球。"
+        },
+        {
+          "label": "Sales register bluff",
+          "value": "Kathy pretends to have browsed the register while talking to monitor Christopher C.",
+          "zh": "Kathy 假称与 monitor Christopher C. 聊天时翻过记录；没有真正证明来源。"
+        }
+      ],
+      "pitfall": {
+        "en": "Kathy never verifies the register before confronting Ruth; she bluffs. The kidnapping plot and woodland stories are children’s beliefs, not established facts.",
+        "zh": "Kathy 用的是 bluff，并非已经查证文具盒来源。绑架和树林传说都要标明为儿童想象或传闻，不能写成事实。"
+      },
+      "questionZh": "为什么被 Ruth 排除后，Kathy 仍保护 secret guard 的幻想？",
+      "answerZh": "那个团体仍代表归属与熟悉的安全世界。忠诚、害怕失去幻想以及不愿接受被排除的身份，都可能使她维护它；叙述刻意保留多重动机。"
+    },
+    {
+      "id": 6,
+      "part": 1,
+      "title": "A song, a tape, a lost corner",
+      "summary": "Kathy tries to repair the damage from exposing Ruth’s pencil-case story, but their shared habit of indirectness makes a straightforward apology difficult. When Midge A. innocently asks about the pencil case, Kathy protects Ruth by suggesting that its origin must remain secret. Ruth begins looking for a way to return the kindness. Kathy then explains the students’ belief that lost possessions end up in Norfolk, a comforting misunderstanding of Miss Emily’s geography lesson. Her own precious possession is a Judy Bridgewater cassette, Songs After Dark. She hides the cover because it shows a cigarette, while Hailsham’s strong warnings about smoking make even the image feel dangerous. The song that matters to her is track three, Never Let Me Go. Kathy privately imagines a woman holding a longed-for baby, although she knows this is not the literal story of the lyrics. Madame sees her dancing with a pillow and cries, leaving Kathy confused. Later the cassette disappears for unknown reasons. Ruth searches and gives her a different recording, Twenty Classic Dance Tunes. Its musical mismatch matters less than the care behind it: the gift becomes a treasured sign of friendship.",
+      "events": [
+        "Kathy supports Ruth after their dispute.",
+        "Madame sees Kathy’s private dance and cries.",
+        "The tape disappears; Ruth offers another recording."
+      ],
+      "analysis": [
+        {
+          "method": "Symbolism of possessions",
+          "detail": "The two tapes matter for different emotional reasons.",
+          "effect": "One recording holds Kathy’s private fantasy; the other preserves Ruth’s effort to help. Their value exceeds usefulness or price, showing how ordinary objects become containers for otherwise hard-to-express attachment.",
+          "zh": "两盘磁带分别承载私人渴望与朋友关爱。物品价值不等于用途或价格；symbolism 来自人物赋予它们的关系意义，而不是物品天然具有某种固定含义。"
+        },
+        {
+          "method": "Misinterpretation as emotional truth",
+          "detail": "The Norfolk theory and Kathy’s reading of the song are factually inaccurate.",
+          "effect": "Their inaccuracy does not make them emotionally empty. Each gives shape to a wish: that loss may be reversible, or that something precious can be held safely. The novel asks what imaginative stories help people endure.",
+          "zh": "Norfolk 想象与歌曲解读都未必正确，却表达真实需要：希望失去可以挽回、珍贵之物可以留住。分析可以区分 factual truth 与 emotional truth。"
+        },
+        {
+          "method": "Restricted perspective",
+          "detail": "Kathy observes Madame’s crying but cannot explain it.",
+          "effect": "The reader receives the scene through the child’s uncertainty and the adult narrator’s controlled disclosure. Tears suggest an inner response, but their meaning remains open at this point, resisting a premature claim about Madame’s motives.",
+          "zh": "limited perspective 使读者看见泪水，却暂时不能确定原因。不要用后文答案替代本章孩子的未知；延迟解释本身就是叙事效果。"
+        }
+      ],
+      "themes": [
+        "Memory",
+        "Loss",
+        "Care"
+      ],
+      "question": "Why does Kathy treasure a replacement tape whose music she does not particularly like?",
+      "answer": "Its value comes from Ruth’s recognition of her distress and attempt to help. Kathy reads the gift as evidence of care, so its emotional significance outweighs its musical suitability.",
+      "zh": "文具盒事件后，Kathy 想修复关系，却因为双方一直靠暗示交流，难以直接道歉。Midge A. 天真地问起 pencil case 时，Kathy 说来源必须保密，替 Ruth 维护了颜面；Ruth 因而寻找回报关爱的机会。接下来，Norfolk 被误认为全国遗失物会去的地方：孩子把地理课中的 lost corner 与校内失物招领处联系起来，这种误读提供“失去的东西仍可能找回”的安慰。Kathy 珍爱的磁带是 Judy Bridgewater 的 Songs After Dark。封面有香烟，她因学校严格禁烟而把封面翻转藏起。真正吸引她的是第三首 Never Let Me Go：她把它想象成终于得到孩子的母亲紧抱婴儿，尽管知道这不完全符合歌词。Madame 看见她抱着枕头跳舞后落泪，却没有解释。磁带后来不知为何消失；Ruth 找不到，便送她 Twenty Classic Dance Tunes。音乐并不相似，但礼物的价值来自朋友的用心。",
+      "sourceIds": [
+        "lc6",
+        "sp3",
+        "user-epub"
+      ],
+      "titleZh": "丢失的磁带与保留下来的关爱",
+      "orientation": {
+        "en": "The chapter follows the pencil-case quarrel, explains the Norfolk belief, and returns to Kathy’s treasured cassette at eleven. Later recollections are signposted by the narrator.",
+        "zh": "本章把友谊修复、Norfolk 想象和十一岁时的磁带记忆连在一起。叙述偶尔提及成年后的回想，核心仍是这些童年事件怎样获得情感意义。"
+      },
+      "summaryZh": "文具盒事件后，Kathy 想修复关系，却因为双方一直靠暗示交流，难以直接道歉。Midge A. 天真地问起 pencil case 时，Kathy 说来源必须保密，替 Ruth 维护了颜面；Ruth 因而寻找回报关爱的机会。接下来，Norfolk 被误认为全国遗失物会去的地方：孩子把地理课中的 lost corner 与校内失物招领处联系起来，这种误读提供“失去的东西仍可能找回”的安慰。Kathy 珍爱的磁带是 Judy Bridgewater 的 Songs After Dark。封面有香烟，她因学校严格禁烟而把封面翻转藏起。真正吸引她的是第三首 Never Let Me Go：她把它想象成终于得到孩子的母亲紧抱婴儿，尽管知道这不完全符合歌词。Madame 看见她抱着枕头跳舞后落泪，却没有解释。磁带后来不知为何消失；Ruth 找不到，便送她 Twenty Classic Dance Tunes。音乐并不相似，但礼物的价值来自朋友的用心。",
+      "scenes": [
+        {
+          "title": "An apology expressed through protection",
+          "titleZh": "通过保护面子来道歉",
+          "text": "Kathy cannot easily say that she regrets the register bluff because the original claim was never openly stated. She instead supports Ruth’s suggestion of special favour. When Midge asks about the pencil case, Kathy intervenes before Ruth must explain. The repair is emotionally effective but depends on sustaining the misleading story, showing how honesty and care can pull in different directions within friendship.",
+          "zh": "原来的谎言是暗示式的，所以道歉也难以直接说清。Kathy 选择在 Midge 追问时帮 Ruth 保住面子。关系确实得到修复，但代价是继续维持误导；friendship 中 honesty 与 care 并不总能轻易协调。"
+        },
+        {
+          "title": "Norfolk turns geography into hope",
+          "titleZh": "Norfolk：地理被改造成希望",
+          "text": "Miss Emily lacks a calendar photograph of Norfolk and describes the county’s isolated position on England’s east coast. Students connect this with Hailsham’s own lost-property corner and imagine a national destination for missing things. Kathy and Ruth remember believing it literally at first, while Tommy later thinks it was always a joke. The disagreement itself shows how adult memory reshapes childhood belief.",
+          "zh": "Miss Emily 没有 Norfolk 的日历照片，又谈到它偏在东边。孩子联想到校内 Lost Corner，便想象遗失物都运到那里。Kathy 与 Ruth 记得最初真信过，Tommy 却觉得一直是玩笑；同一往事在不同人的记忆中意义会改变。"
+        },
+        {
+          "title": "The song becomes a private story",
+          "titleZh": "歌曲变成 Kathy 的私人故事",
+          "text": "Kathy listens for a repeated phrase and builds her own scene of a mother holding a desperately wanted baby. She recognises that her interpretation does not fit all the lyrics, yet keeps it because it expresses something important to her. Madame’s tears introduce another interpretation that Kathy cannot access. The episode presents art as a meeting point for feelings that remain difficult to explain openly.",
+          "zh": "Kathy 不是认真逐句理解歌词，而是抓住一句话创造自己的母亲故事。她知道解释不完全符合歌词，却仍需要它。Madame 的泪水提示别人可能看到另一层意义，但本章尚未说明。art 因而承载私密情感，也暴露人与人之间理解的距离。"
+        },
+        {
+          "title": "A different tape, a meaningful gift",
+          "titleZh": "不同的磁带，同样重要的礼物",
+          "text": "When the cassette vanishes, Kathy hides the extent of her distress. Ruth notices anyway, searches discreetly, and eventually gives her a substitute from a Sale. Kathy is initially disappointed because it is ballroom orchestra music, but understands that Ruth lacks the musical knowledge to recognise the difference. Gratitude grows from recognising intention, turning an unsuitable recording into a valuable emotional object.",
+          "zh": "Kathy 不想公开自己有多难过，Ruth 却注意到了，并低调帮忙。替代磁带是舞厅管弦乐，Kathy 一开始失望，随后意识到 Ruth 不懂音乐类型差异。价值因此不在音乐是否合适，而在朋友认真尝试弥补失去。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Midge A.",
+          "value": "Asks innocently about Ruth’s pencil case during Mr. Roger’s art lesson.",
+          "zh": "Midge A. 是在 Mr. Roger 的美术课上问起文具盒的人。"
+        },
+        {
+          "label": "Norfolk",
+          "value": "A county on England’s east coast, associated by the children with lost property.",
+          "zh": "英格兰东岸郡；“失物都去那里”是孩子的误解。"
+        },
+        {
+          "label": "Album and singer",
+          "value": "Songs After Dark by Judy Bridgewater; recording dated 1956.",
+          "zh": "专辑 Songs After Dark，歌手 Judy Bridgewater，录音年份1956。"
+        },
+        {
+          "label": "Favourite track",
+          "value": "Track three: Never Let Me Go.",
+          "zh": "最珍爱的歌曲是第三首 Never Let Me Go。"
+        },
+        {
+          "label": "The cover",
+          "value": "Judy wears a purple satin dress and holds a burning cigarette.",
+          "zh": "紫色缎面裙、手持点燃的香烟；Kathy 因香烟藏起封面。"
+        },
+        {
+          "label": "Madame’s visit",
+          "value": "Kathy holds a pillow as an imagined baby while dancing in the dormitory.",
+          "zh": "Kathy 在宿舍抱枕头当婴儿；Madame 在门外看到并哭泣。"
+        },
+        {
+          "label": "Ruth’s replacement",
+          "value": "Twenty Classic Dance Tunes, orchestral ballroom music.",
+          "zh": "Ruth 送的是 Twenty Classic Dance Tunes，不是原专辑的另一份。"
+        }
+      ],
+      "pitfall": {
+        "en": "Ruth does not recover the original tape or give Kathy another copy of it. The original disappears for an unknown reason; Kathy explicitly says there is no basis for linking that loss to Madame.",
+        "zh": "Ruth 没找回原带，也没送同专辑副本。原带为什么消失仍不明；Kathy 明说没有理由把失踪与 Madame 联系起来。"
+      },
+      "questionZh": "为什么 Kathy 会珍惜一盘自己并不喜欢其音乐的替代磁带？",
+      "answerZh": "它证明 Ruth 注意到她的痛苦并努力帮忙。礼物承载关系中的关爱，所以情感价值超过音乐是否合适。"
+    },
+    {
+      "id": 7,
+      "part": 1,
+      "title": "Knowing without understanding",
+      "summary": "Kathy describes the final Hailsham years as more serious than the warm blur of earlier childhood. After her conversation with Tommy, she watches Miss Lucy for clues and notices remarks that the rest of the class overlook. The central incident occurs when students shelter from rain at the pavilion. Hearing Peter J. and Gordon discuss becoming actors in America, Miss Lucy interrupts. She explicitly tells the students that their futures are already organised around donating vital organs, and insists that hearing facts without understanding them is inadequate. Kathy then explores how this state of partial knowledge developed. Lessons about sex and health also contained information about donation, while students’ attention often remained elsewhere. Tommy later proposes a deliberate strategy of telling children things before they could understand; Kathy treats this as a theory, not a proven explanation. An earlier prank about Tommy’s elbow supposedly unzipping illustrates how frightening bodily ideas became jokes. Kathy’s failure to correct the lie also exposes the uneasy relationship between protecting feelings and telling truth. After Lucy’s speech, donation jokes fade and the subject becomes sombre, although sustained open discussion remains difficult.",
+      "events": [
+        "Miss Lucy directly challenges the students’ career fantasies.",
+        "Kathy distinguishes earlier partial knowledge from genuine understanding.",
+        "After the speech, donation jokes fade and the subject becomes sombre."
+      ],
+      "analysis": [
+        {
+          "method": "Paradox",
+          "detail": "The students can possess information while failing to grasp its implications.",
+          "effect": "The central contradiction distinguishes knowledge from understanding. It suggests that a system can disclose facts and still limit genuine awareness through timing, context and emotional habits; this is more complex than a simple claim that every adult always lies.",
+          "zh": "told and not told 的 paradox 区分知道与理解。时间、情境、注意力与情绪都能让事实被听见却不被消化，因此不能只把 Hailsham 概括为从未说过真话。"
+        },
+        {
+          "method": "Humour as emotional distance",
+          "detail": "Imagined unzipping becomes a recurring donation joke.",
+          "effect": "Joking acknowledges the body’s vulnerability while preventing sustained attention to it. When the jokes fade, the same subject becomes harder to dismiss, showing that silence can mean different things at different stages of understanding.",
+          "zh": "humour 让学生接触可怕事实，却不必停留思考。笑话消失后，沉默不再只是尴尬，也可能是认识重量后的沉重；同一种 silence 可以有不同含义。"
+        },
+        {
+          "method": "Parallel between personal and institutional care",
+          "detail": "Kathy withholds the truth about the prank to avoid upsetting Tommy.",
+          "effect": "This smaller dilemma echoes the larger problem of protection through partial knowledge. Kathy’s concern is sincere, yet the omission leaves Tommy exposed to humiliation. The parallel invites scrutiny of care’s effects without claiming the situations are identical.",
+          "zh": "Kathy 为保护感情而不说真相，缩小呈现 protection 与 truth 的矛盾。她的好意真实，但隐瞒仍有伤害；这种 parallel 帮助分析制度，不是把她与所有成人简单等同。"
+        }
+      ],
+      "themes": [
+        "Knowledge and control",
+        "Fate",
+        "Denial"
+      ],
+      "question": "How can students know about donations and still be “told and not told”?",
+      "answer": "Facts may be familiar without being emotionally or practically understood. Distraction, jokes and awkward silences keep their implications at a distance; Lucy tries to connect the information to the students’ own possible lives.",
+      "zh": "Kathy 把最后几年与早年的金色回忆区分开：十三岁后，她开始主动观察 Miss Lucy 的异常言行。十五岁左右，学生躲雨时，Peter J. 与 Gordon 谈论去美国当演员；Lucy 突然打断，明确说明他们的未来已被安排，要捐出重要器官。核心是 told and not told：听过事实，不等于真正理解它对自己人生的意义。Kathy 随后回顾知识怎样进入他们脑中：性教育、健康与 donation 常被放在一起，学生更关注性与同伴关系，未来命运便退到背景。Tommy 后来认为教师故意在他们太小时提供信息，但 Kathy 没有把这个解释当作已证实的阴谋。较早的手肘恶作剧也显示，身体恐惧如何被转化成笑话；Kathy 不愿使 Tommy 难过，反而没告诉他真相。Lucy 讲话后，donation 笑话减少，话题变得严肃沉重。不是一切毫无变化，而是理解加深后仍难坦然面对。",
+      "sourceIds": [
+        "lc7",
+        "sp4",
+        "user-epub"
+      ],
+      "titleZh": "听说了，却没有真正理解",
+      "orientation": {
+        "en": "Kathy surveys ages thirteen to sixteen. The central pavilion speech occurs when they are fifteen; the elbow prank is an earlier memory from around thirteen, not a later consequence of the speech.",
+        "zh": "本章总览十三至十六岁。Miss Lucy 的 pavilion speech 发生在十五岁左右；“手肘会拉开”的恶作剧是十三岁左右的较早记忆，不是演说之后发生。"
+      },
+      "summaryZh": "Kathy 把最后几年与早年的金色回忆区分开：十三岁后，她开始主动观察 Miss Lucy 的异常言行。十五岁左右，学生躲雨时，Peter J. 与 Gordon 谈论去美国当演员；Lucy 突然打断，明确说明他们的未来已被安排，要捐出重要器官。核心是 told and not told：听过事实，不等于真正理解它对自己人生的意义。Kathy 随后回顾知识怎样进入他们脑中：性教育、健康与 donation 常被放在一起，学生更关注性与同伴关系，未来命运便退到背景。Tommy 后来认为教师故意在他们太小时提供信息，但 Kathy 没有把这个解释当作已证实的阴谋。较早的手肘恶作剧也显示，身体恐惧如何被转化成笑话；Kathy 不愿使 Tommy 难过，反而没告诉他真相。Lucy 讲话后，donation 笑话减少，话题变得严肃沉重。不是一切毫无变化，而是理解加深后仍难坦然面对。",
+      "scenes": [
+        {
+          "title": "Learning to notice what others miss",
+          "titleZh": "开始注意别人忽略的细节",
+          "text": "Kathy now watches Miss Lucy rather than simply joining the class mood. During a discussion of wartime prison camps, classmates turn electric fences into a joke, while Lucy briefly looks disturbed. The reader sees the contrast between children’s playful response and an adult’s troubling associations. Kathy’s later narration also admits that she may now organise these scattered incidents more coherently than she understood them then.",
+          "zh": "讨论战争中的 prison camps 时，学生拿电网开玩笑，Lucy 却短暂流露不安。Kathy 开始观察成人情绪，但成年叙述也承认：今天看起来连贯的线索，当年未必已被她理解。要分清 noticing 与 understanding。"
+        },
+        {
+          "title": "Peter’s imagined future meets Lucy’s intervention",
+          "titleZh": "想象中的演员人生遇上直接说明",
+          "text": "Peter J. explains that he and Gordon were imagining becoming actors; Lucy points out that they had discussed America. She broadens her response to everyone and rejects ordinary career expectations, including supermarket work. Her intervention is meant to make their prospects comprehensible, not merely to add a new rule. The students’ discomfort shows how difficult it is to connect known information with an imagined personal future.",
+          "zh": "Peter J. 与 Gordon 只是想象当演员，Lucy 却指出连普通职业路线也不属于他们既定的人生。她要处理的是理解，不是宣布新的纪律。学生会说早就知道，却仍能想象完全不同的未来，正暴露 knowledge 尚未转化成自我认识。"
+        },
+        {
+          "title": "The elbow prank turns anxiety into entertainment",
+          "titleZh": "手肘恶作剧怎样利用身体焦虑",
+          "text": "Christopher H. tells Tommy that a cut on the elbow can open dramatically if he bends it. Others reinforce the claim until Tommy asks Kathy to help keep his arm straight at night. She knows the warning is false, but agrees because she cannot bear to disappoint him. He discovers the deception before she acts. The incident turns a concern for health into both social humiliation and a language for joking about donation.",
+          "zh": "Christopher H. 利用 Tommy 对身体健康的担忧编造手肘会拉开的说法。别人不断附和，Tommy 便请 Kathy 帮忙固定手臂。她知道是假话，却因怕伤害他的感情而没说实话；结果关心与欺骗纠缠，身体焦虑又成为群体取笑的材料。"
+        },
+        {
+          "title": "What changes after the speech?",
+          "titleZh": "演说之后究竟改变了什么？",
+          "text": "Kathy says classmates initially discuss Lucy’s behaviour more than her message. Yet she later identifies a real change: the running donation jokes fade, and avoidance becomes serious rather than merely embarrassed. This distinction matters. The speech does not produce an easy, complete understanding or shared plan, but neither does it leave everyone untouched. Emotional recognition develops unevenly and may make speech harder instead of easier.",
+          "zh": "起初，学生更谈论 Lucy 是否失态，而非她讲的内容；但 Kathy 也明确说后来笑话减少，回避变得沉重严肃。应避免“一点作用也没有”的简化。理解加深可能使人更难开口，因为现在回避的已经是知道其重量的事情。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Age during the speech",
+          "value": "About fifteen, in their last year at Hailsham.",
+          "zh": "演说时约十五岁，处于离校前最后一年。"
+        },
+        {
+          "label": "Triggering conversation",
+          "value": "Peter J. and Gordon discuss becoming actors, with America as a possible destination.",
+          "zh": "Peter J. 与 Gordon 想象去美国当演员。"
+        },
+        {
+          "label": "Location and weather",
+          "value": "The pavilion veranda during a downpour.",
+          "zh": "大雨中，在 pavilion 的 veranda（廊台）躲雨。"
+        },
+        {
+          "label": "The elbow prank",
+          "value": "Christopher H., from the year above, starts the false warning.",
+          "zh": "比他们高一年级的 Christopher H. 发起谣言。"
+        },
+        {
+          "label": "Proposed splint",
+          "value": "Tommy brings a thick ruler and asks Kathy to help strap his arm.",
+          "zh": "Tommy 拿来厚尺子，想让 Kathy 帮忙固定手臂。"
+        },
+        {
+          "label": "Gary B.",
+          "value": "His third helping of pudding becomes the target of the imaginary organ joke.",
+          "zh": "Gary B. 食量很大，第三份布丁成为恶作剧式想象的对象。"
+        },
+        {
+          "label": "Tommy’s later theory",
+          "value": "Information may have been timed before children could understand; Kathy does not fully endorse this.",
+          "zh": "Tommy 提出“故意太早告知”的解释，Kathy 并未完全认可。"
+        }
+      ],
+      "pitfall": {
+        "en": "Do not say the speech reveals every fact for the first time, or that it changes nothing. Kathy records both earlier partial knowledge and a later, more serious attitude. Tommy’s explanation of deliberate timing remains a theory.",
+        "zh": "不要说 Lucy 第一次透露全部事实，也不要说演说毫无影响。学生此前已有零散知识，此后态度更沉重；Tommy 的“精心安排时间”说仍是解释，不是证实事实。"
+      },
+      "questionZh": "为什么学生知道 donation，却仍可以说是 told and not told？",
+      "answerZh": "他们熟悉事实，却未把后果与自己的人生真正连接。分心、笑话、尴尬和沉默维持距离；Lucy 要促成的是理解，而不只是再增加一个知识点。"
+    },
+    {
+      "id": 8,
+      "part": 1,
+      "title": "Uneasy adolescence",
+      "summary": "Kathy begins by describing a private game in which she imagines Hailsham as a quiet home shared with only a few people. While looking for such an empty view, she hears a strange hissing sound and discovers Miss Lucy in Room 22, furiously covering handwritten pages with pencil marks. Kathy feels ashamed and disturbed but cannot explain what she has witnessed. She also notices Tommy becoming unusually sensitive. A joke about mud on his shirt nearly provokes an outburst, and he abruptly withdraws when she shows him Patricia C.’s admired calendar. Kathy assumes his difficulties mainly concern his breakup with Ruth, overlooking a possible connection with art and Miss Lucy. The chapter then examines adolescents’ confusion about relationships. Guardians speak positively about intimacy while rules make privacy difficult, and students exaggerate their experience without questioning one another closely. Kathy feels pressure to catch up and considers Harry C. because she thinks he would be considerate and discreet. She prepares anxiously, treating experience almost like a skill to master before a more important relationship. Ruth and Tommy’s separation interrupts this plan, leaving Kathy’s feelings less settled than her practical approach suggested.",
+      "events": [
+        "Kathy witnesses Miss Lucy’s unexplained distress.",
+        "Tommy’s troubled behaviour returns.",
+        "Kathy reflects on sexual expectations and Harry C."
+      ],
+      "analysis": [
+        {
+          "method": "Visual contrast",
+          "detail": "An imagined peaceful Hailsham gives way to Lucy’s dark, agitated room.",
+          "effect": "The contrast makes emotional disturbance emerge from within familiar safety. The school is not simply presented as either comforting or threatening; Kathy’s attachment coexists with experiences she cannot explain.",
+          "zh": "安静想象与黑暗房间形成 contrast，使不安从熟悉的安全内部出现。学校不是纯粹天堂或纯粹恐怖场所；依恋与困惑同时存在。"
+        },
+        {
+          "method": "Restricted knowledge and retrospective irony",
+          "detail": "Kathy misreads Tommy’s behaviour mainly through the breakup.",
+          "effect": "Readers see the older narrator recognise a connection her younger self missed. This creates distance between experiencing and narrating, reminding us that an event’s meaning often becomes clear only after other information arrives.",
+          "zh": "成年 Kathy 看出年轻时错过的联系，形成 experiencing self 与 narrating self 的距离。并非每个反应当场就能解释，后来的信息会重组意义。"
+        },
+        {
+          "method": "Recurring social pattern",
+          "detail": "Relationship experience replaces creativity as a measure of belonging.",
+          "effect": "The repeated structure shows that changing ages do not remove the desire for approval. Kathy’s anxieties belong to ordinary adolescence, while the school’s inconsistent guidance makes that familiar uncertainty sharper.",
+          "zh": "评价标准从艺术转成青春期经验，群体认可的需求却不变。这个 recurring pattern 既呈现普通青春期，也显示 Hailsham 矛盾指导带来的特殊困惑。"
+        }
+      ],
+      "themes": [
+        "Growing up",
+        "Knowledge and control",
+        "Identity"
+      ],
+      "question": "Why does Kathy fail to connect Tommy’s reaction to the calendar with Miss Lucy?",
+      "answer": "She assumes his old artistic difficulties are behind him and interprets his mood through the more immediate breakup. Her later account exposes this missed connection and the limits of her younger understanding.",
+      "zh": "这一章先写 Kathy 的私人游戏：她寻找没有人的视角，短暂想象 Hailsham 是只有少数人居住的安静家园。随后，她循着嘶嘶声来到 Room 22，看见 Miss Lucy 用铅笔愤怒地涂黑原本整齐的蓝色字迹，却不知道文字内容和原因。她感到羞耻、困惑，选择不立即告诉别人。Tommy 也变得敏感：别人开泥点玩笑时他差点发作；Kathy 展示 Patricia C. 的精美日历，他也突然离开。Kathy 把这些反应主要归因于他与 Ruth 分手，没想到还可能涉及创作和 Lucy。后半章转向青春期：教师说亲密关系自然美好，学校规则却几乎不给私人空间；学生又夸大经验，彼此不追问。Kathy 因而觉得自己落后，考虑与安静、可靠的 Harry C. 建立身体关系，并把它当作将来重要关系前的准备。重点是同伴比较、成人信息矛盾与情感不确定，而不是把她简化成轻浮。",
+      "sourceIds": [
+        "lc8",
+        "sp4",
+        "user-epub"
+      ],
+      "titleZh": "成人世界尚未解释清楚，青春期已经到来",
+      "orientation": {
+        "en": "Many students have turned sixteen. Kathy observes Miss Lucy privately, notices Tommy’s instability, and looks back on the pressures surrounding relationships and sexual maturity.",
+        "zh": "许多学生此时已满十六岁。Kathy 同时面对 Lucy 的异常、Tommy 的情绪变化与青春期的同伴压力；这些线索互相遮蔽，而非各自独立。"
+      },
+      "summaryZh": "这一章先写 Kathy 的私人游戏：她寻找没有人的视角，短暂想象 Hailsham 是只有少数人居住的安静家园。随后，她循着嘶嘶声来到 Room 22，看见 Miss Lucy 用铅笔愤怒地涂黑原本整齐的蓝色字迹，却不知道文字内容和原因。她感到羞耻、困惑，选择不立即告诉别人。Tommy 也变得敏感：别人开泥点玩笑时他差点发作；Kathy 展示 Patricia C. 的精美日历，他也突然离开。Kathy 把这些反应主要归因于他与 Ruth 分手，没想到还可能涉及创作和 Lucy。后半章转向青春期：教师说亲密关系自然美好，学校规则却几乎不给私人空间；学生又夸大经验，彼此不追问。Kathy 因而觉得自己落后，考虑与安静、可靠的 Harry C. 建立身体关系，并把它当作将来重要关系前的准备。重点是同伴比较、成人信息矛盾与情感不确定，而不是把她简化成轻浮。",
+      "scenes": [
+        {
+          "title": "A quiet house inside a crowded school",
+          "titleZh": "在拥挤学校中想象一个安静的家",
+          "text": "Kathy’s private game requires her to find an empty view and temporarily block out surrounding noise. She imagines sharing the house with only five or six others. The fantasy is small and ordinary, yet revealing: she seeks a form of domestic privacy within institutional life. It also prepares the interruption, when her attempt to create calm leads her to an adult’s concealed distress.",
+          "zh": "她寻找无人画面、屏蔽声音，想象只与五六个人共同生活。这个幻想不像宏大逃跑计划，更像对普通家庭式私密空间的向往。紧接着她撞见 Lucy 的痛苦，使“安静之家”的愿望与学校隐藏的不安形成对照。"
+        },
+        {
+          "title": "The pages in Room 22",
+          "titleZh": "Room 22 里被涂黑的字迹",
+          "text": "The sound Kathy follows is Miss Lucy’s pencil repeatedly scraping over written sheets. Kathy can identify anger and concealment, but not the content of the writing or its exact significance. Neither person begins an open conversation. Kathy leaves wishing she had not seen it. The scene shows a breakdown in communication across the child–guardian boundary, even when evidence of distress is physically visible.",
+          "zh": "声音来自铅笔用力划过纸张。Kathy 看得出愤怒，却不知道内容；两人也没有谈清。可见的痛苦不自动产生理解：child 与 guardian 之间有一道不知如何跨越的沟通边界。不要编造被涂黑的文件内容。"
+        },
+        {
+          "title": "A calendar becomes a missed clue",
+          "titleZh": "日历成为被错过的线索",
+          "text": "Patricia C.’s small calendar contains carefully observed Hailsham scenes and is much admired. Kathy proudly shows it to Tommy, expecting shared pleasure, but he closes off and leaves. Her adult account recognises that this should have pointed towards his old insecurity about creativity. At the time, however, the breakup seemed the more obvious explanation, demonstrating how an available story can obscure another cause.",
+          "zh": "Patricia C. 的小日历画着校园场景，Kathy 因买到而自豪；Tommy 却不愿看。成年她明白这应指向 creativity 的旧伤，当时却只想到分手。limited perspective 也包括解释习惯：一个看似合理的原因，会遮住另一个原因。"
+        },
+        {
+          "title": "Growing up becomes another comparison",
+          "titleZh": "成长也变成必须赶上的标准",
+          "text": "Students maintain a tacit agreement not to challenge claims about relationship experience. Kathy feels left behind even while suspecting exaggeration. The pressure resembles the earlier requirement to be creative: personal development becomes something measured against peers. Her choice of Harry is practical and cautious, showing a desire for control and preparedness, but the changing relationship between Ruth and Tommy unsettles that apparently orderly plan.",
+          "zh": "大家默契地不追问经验真假，Kathy 即使怀疑夸张，仍觉得自己落后。这与早年必须 creative 的压力相似：个人成长被群体变成标准。她选择 Harry 时考虑可靠、体贴与保密，显示控制不确定性的愿望，而关系变化又打乱计划。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Room 22",
+          "value": "The small, dim room where Kathy discovers Miss Lucy.",
+          "zh": "小而昏暗的 Room 22；不能与常规体检的 Room 18 混淆。"
+        },
+        {
+          "label": "Writing materials",
+          "value": "Neat blue handwriting is covered with heavy black pencil marks.",
+          "zh": "整齐蓝色字迹被黑色铅笔线条覆盖。"
+        },
+        {
+          "label": "Patricia C.",
+          "value": "Two years younger than Kathy; admired for drawing.",
+          "zh": "比 Kathy 低两个年级，以绘画受到赞赏。"
+        },
+        {
+          "label": "Calendar subject",
+          "value": "Small pencil sketches of Hailsham life, not photographs of English counties.",
+          "zh": "画的是 Hailsham 生活素描，不是 Miss Emily 用的英国各郡照片日历。"
+        },
+        {
+          "label": "Ruth and Tommy",
+          "value": "They had been publicly a couple for about six months before the breakup.",
+          "zh": "分手前公开交往约六个月。"
+        },
+        {
+          "label": "Harry C.",
+          "value": "The boy Kathy considers because he seems experienced, quiet, decent and discreet.",
+          "zh": "Kathy 认为 Harry 有经验、安静可靠、不爱传播私事。"
+        },
+        {
+          "label": "The peer-pressure parallel",
+          "value": "Kathy compares pressure to have experience with earlier pressure to be creative.",
+          "zh": "她明确把青春期经验压力与早年 creativity 压力联系起来。"
+        }
+      ],
+      "pitfall": {
+        "en": "The content of Lucy’s crossed-out pages is never identified in this scene. The chapter describes Kathy considering and postponing a plan involving Harry, not a completed encounter.",
+        "zh": "被 Lucy 涂黑的文字内容不明，不能说已知是某种报告。Kathy 对 Harry 的想法是计划与推迟，不是本章已经发生的行动。"
+      },
+      "questionZh": "为什么 Kathy 当时没有把 Tommy 对日历的反应与 Miss Lucy 联系起来？",
+      "answerZh": "她以为艺术方面的旧问题已经过去，把当下情绪主要理解为分手造成。成年叙述回头指出这个误判，显示年轻视角的局限。"
+    },
+    {
+      "id": 9,
+      "part": 1,
+      "title": "A departure without an explanation",
+      "summary": "After Ruth and Tommy separate, Cynthia E. remarks that Kathy seems the natural person to take Ruth’s place. Hannah’s hints reinforce the possibility, confusing Kathy’s earlier plans involving Harry C. Ruth then asks Kathy to persuade Tommy to reunite with her, stressing Kathy’s special ability to reach him. Kathy agrees, although her concern for Tommy and her own uncertain feelings make the role complicated. When she finds him practising football, she assumes that his troubled behaviour comes from the breakup. Tommy explains that the deeper cause is Miss Lucy. During a recent private conversation, Lucy reversed her earlier reassurance and insisted that art mattered, both as evidence and for Tommy’s own benefit. She also admitted that he did not understand important things about Hailsham and the wider world, without explaining them. Kathy listens, then returns to Ruth’s request, while Tommy argues that their approaching departure makes careful choices more important. The next day Charlotte F. spreads the news that Miss Lucy has left permanently. Miss Emily had announced this unexpectedly during another class’s Music Appreciation lesson. That evening Tommy and Ruth reunite, but their reconciliation does not resolve the disturbing questions raised by Lucy’s departure.",
+      "events": [
+        "Ruth asks Kathy to speak to Tommy.",
+        "Miss Lucy revises her advice about creativity.",
+        "Miss Lucy leaves; Ruth and Tommy reunite."
+      ],
+      "analysis": [
+        {
+          "method": "Dialogue and emotional pressure",
+          "detail": "Ruth praises Kathy’s special understanding of Tommy while asking her to restore the couple.",
+          "effect": "The language of trust makes refusal difficult. Rather than treating Ruth as a simple villain, examine how genuine dependence and self-interest can operate together, and how Kathy’s loyalty complicates her own uncertain desires.",
+          "zh": "trust 与 compliment 使拒绝变难。Ruth 可以真实依赖 Kathy，同时也为自己争取关系；分析应看两者并存，不把人物扁平化成纯粹恶人。"
+        },
+        {
+          "method": "Reversal and delayed revelation",
+          "detail": "Miss Lucy changes her advice but leaves the meaning of evidence unexplained.",
+          "effect": "The reversal destabilises Tommy’s recovered self-worth and enlarges the mystery of creativity. Information produces further uncertainty because it arrives without enough context to guide his choices.",
+          "zh": "reversal 动摇 Tommy 好不容易建立的自信。新信息没有带来清楚方向，反而扩大谜团；这延续全书对“告知了多少”与“能理解多少”的区分。"
+        },
+        {
+          "method": "Structural ending",
+          "detail": "Part One closes with an unexplained adult departure and an apparently repaired relationship.",
+          "effect": "The outward return to order does not resolve the underlying conflict. Readers leave Hailsham with the students while questions about education, art and identity remain open, giving the transition an unsettled rather than reassuring quality.",
+          "zh": "表面秩序恢复：两人复合、生活继续；深层问题却未解决。第一部这种 ending 使离校不是圆满毕业，而是带着未解疑问进入下一阶段。"
+        }
+      ],
+      "themes": [
+        "Art",
+        "Love and friendship",
+        "Silence"
+      ],
+      "question": "Why is the ending of Part One unresolved even though Ruth and Tommy reunite?",
+      "answer": "Their outward reconciliation leaves Lucy’s reversal and departure unexplained. The students must prepare to leave Hailsham without understanding the purpose of their art or all the forces shaping their relationships.",
+      "zh": "Ruth 与 Tommy 分手后，Cynthia E. 认为 Kathy 很自然会成为下一任女友；Hannah 的暗示也强化这一可能，使 Kathy 对 Harry 的计划变得混乱。Ruth 随后请求她说服 Tommy 复合，强调只有 Kathy 最懂他、最值得信任。Kathy 同意，却同时担心 Tommy 再受伤。她找到练球的 Tommy，以为他的烦恼都是分手造成；Tommy 却说真正困扰他的是 Miss Lucy。Lucy 在一次私人谈话中推翻以前“不必担心创作”的安慰，强调艺术既是 evidence，也对他本人有价值，但仍不解释证据究竟证明什么。Kathy 听完又回到复合任务，Tommy 则表示正因为快离校，更不能仓促决定。次日，Charlotte F. 传来 Lucy 永久离开的消息；原来 Miss Emily 在另一班的 Music Appreciation 课上突然宣布。当天晚上 Tommy 与 Ruth 复合，Ruth 感谢 Kathy；然而关系恢复并不意味着学校的谜团或人物的内在困惑已经解决。",
+      "sourceIds": [
+        "lc9",
+        "sp4",
+        "user-epub"
+      ],
+      "titleZh": "离开前，关系与秘密都未解决",
+      "orientation": {
+        "en": "During their final summer at Hailsham, Kathy is pulled between possible closeness to Tommy and loyalty to Ruth. News of Miss Lucy’s departure closes Part One.",
+        "zh": "最后一个夏天，Kathy 一方面可能更接近 Tommy，一方面被 Ruth 请求帮助复合。Miss Lucy 离开的消息使第一部结束，却没有解开艺术与学校的秘密。"
+      },
+      "summaryZh": "Ruth 与 Tommy 分手后，Cynthia E. 认为 Kathy 很自然会成为下一任女友；Hannah 的暗示也强化这一可能，使 Kathy 对 Harry 的计划变得混乱。Ruth 随后请求她说服 Tommy 复合，强调只有 Kathy 最懂他、最值得信任。Kathy 同意，却同时担心 Tommy 再受伤。她找到练球的 Tommy，以为他的烦恼都是分手造成；Tommy 却说真正困扰他的是 Miss Lucy。Lucy 在一次私人谈话中推翻以前“不必担心创作”的安慰，强调艺术既是 evidence，也对他本人有价值，但仍不解释证据究竟证明什么。Kathy 听完又回到复合任务，Tommy 则表示正因为快离校，更不能仓促决定。次日，Charlotte F. 传来 Lucy 永久离开的消息；原来 Miss Emily 在另一班的 Music Appreciation 课上突然宣布。当天晚上 Tommy 与 Ruth 复合，Ruth 感谢 Kathy；然而关系恢复并不意味着学校的谜团或人物的内在困惑已经解决。",
+      "scenes": [
+        {
+          "title": "A possible future suggested by other people",
+          "titleZh": "别人先替 Kathy 想好了下一步",
+          "text": "Cynthia E.’s offhand remark matters because she stands outside Kathy’s close circle and seems perceptive rather than manipulative. Hannah’s nudge then suggests that the same expectation is circulating among friends. Kathy begins to imagine a different possibility with Tommy. Her later reflections on Harry show that her apparently clear plan was never as emotionally detached as she had presented it.",
+          "zh": "Cynthia E. 不属于核心小团体，因此一句随口判断反而像旁观者的客观眼光。Hannah 再次暗示后，Kathy 开始意识到自己与 Tommy 的可能性。她原本看似理性的 Harry 计划因此动摇，显示感情未必能按事先设计推进。"
+        },
+        {
+          "title": "Ruth asks the person who understands Tommy",
+          "titleZh": "Ruth 请求最懂 Tommy 的人帮忙",
+          "text": "Ruth tells Kathy she trusts her and praises her courage through Tommy’s reported admiration. The request honours Kathy’s closeness to Tommy while using that closeness to restore Ruth’s relationship with him. Kathy asks whether Ruth is serious and will avoid hurting him again. The conversation is therefore both intimate cooperation and a source of pressure, not a simple agreement without emotional cost.",
+          "zh": "Ruth 以信任与赞美请求 Kathy，承认她最能与 Tommy 沟通，却又借这种亲近来恢复自己的关系。Kathy 追问她是否认真、是否还会伤害他，说明答应不是毫无顾虑。亲密合作与情感压力在同一场对话里同时存在。"
+        },
+        {
+          "title": "Lucy reverses the reassurance",
+          "titleZh": "Lucy 推翻曾经给予的安慰",
+          "text": "While helping Lucy carry materials towards the Orangery, Tommy is invited into her study. She says her earlier advice did him a disservice and urges him to begin creating seriously. The new word evidence makes the Gallery seem more important, but does not explain its purpose. Tommy tries to reassure her by promising physical fitness for donation; this answer fails to meet the concern she is struggling to express.",
+          "zh": "Tommy 帮 Lucy 搬东西，进入 Orangery 的 study 后听到新的要求。evidence 使艺术似乎与某个重大目的有关，但用途仍未知。他强调自己身体好、能做好 donation，反而显示两人理解不在同一层面：他用制度规定的价值回答她对更广阔人生的忧虑。"
+        },
+        {
+          "title": "A departure followed by reconciliation",
+          "titleZh": "离开消息之后的复合",
+          "text": "Charlotte F. brings news just after Mr. Chris’s Culture Briefing. Another class had expected Miss Lucy for Music Appreciation, but Miss Emily took over and unexpectedly announced her permanent departure during discussion of Beethoven. Kathy wants to tell Tommy herself, but arrives too late. His empty expression contrasts with others’ excitement. He reunites with Ruth that evening, leaving the reader to consider the emotional pressure surrounding that choice.",
+          "zh": "消息在 Mr. Chris 的 Culture Briefing 后传来。另一班本等 Lucy 上 Music Appreciation，却由 Emily 代课，并在谈 Beethoven 时突然宣布离职。Kathy 想亲口告诉 Tommy，却发现他已知道、神情空洞。当天的复合不能轻率归功于她劝说成功；Lucy 的离开改变了情绪背景。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Cynthia E.",
+          "value": "Suggests Kathy is the natural successor after Ruth and Tommy separate.",
+          "zh": "Cynthia E. 首先直接提出 Kathy 可能接替 Ruth。"
+        },
+        {
+          "label": "Walkmans",
+          "value": "Students share one headset in groups during the final summer.",
+          "zh": "最后一个夏天，学生围坐轮流听同一个 Walkman 耳机。"
+        },
+        {
+          "label": "Ruth’s request",
+          "value": "She asks Kathy to help her get back together with Tommy.",
+          "zh": "Ruth 请 Kathy 帮她与 Tommy 复合。"
+        },
+        {
+          "label": "Lucy’s study",
+          "value": "In the Orangery; Tommy helps carry flipcharts and box files.",
+          "zh": "study 位于 Orangery；Tommy 帮搬 flipcharts 与 box files。"
+        },
+        {
+          "label": "A new word about art",
+          "value": "Lucy calls art evidence but does not explain what it proves.",
+          "zh": "Lucy 说艺术是 evidence，但没有说明证明什么。"
+        },
+        {
+          "label": "Charlotte F.",
+          "value": "Brings news that Miss Lucy has left Hailsham.",
+          "zh": "Charlotte F. 传来 Miss Lucy 离开的消息。"
+        },
+        {
+          "label": "Two different lessons",
+          "value": "Mr. Chris teaches Culture Briefing; Miss Emily announces the departure during Music Appreciation while discussing Beethoven.",
+          "zh": "Mr. Chris 教 Culture Briefing；Miss Emily 在 Music Appreciation 谈 Beethoven 时宣布离开，别把两个课堂混为一谈。"
+        }
+      ],
+      "pitfall": {
+        "en": "Miss Lucy’s mention of evidence does not yet reveal the Gallery’s purpose. Kathy also cannot prove her persuasion caused the reunion; Lucy’s departure intervenes before Ruth and Tommy get back together.",
+        "zh": "本章 evidence 仍未揭示 Gallery 用途。也不能确定复合就是 Kathy 劝说的成果：中间发生了 Lucy 离开的重大事件。"
+      },
+      "questionZh": "既然 Ruth 与 Tommy 已复合，为什么第一部结尾仍有未解决感？",
+      "answerZh": "复合只恢复了表面关系，Lucy 为什么改口与离开仍未解释；学生即将离校，却仍不清楚艺术用途，也未完全理解影响自己关系的力量。"
+    },
+    {
+      "id": 10,
+      "part": 2,
+      "title": "Rehearsing adulthood",
+      "summary": "Part Two begins after Kathy, Ruth, Tommy and five other Hailsham students move to the Cottages, a former farm. They expect another version of school, but there are no guardians: Keffers maintains the property without offering the personal guidance they miss. The newcomers initially stay together, frightened by freedoms they have little experience using. Their unfinished essays provide a reassuring connection to Hailsham; Kathy’s subject is Victorian novels. Over time, reading, conversation and relationships make the place feel more familiar. Ruth works especially hard to look mature. She changes her public behaviour with Tommy to match older residents, whom the newcomers call veterans. Kathy notices that these models of adulthood have themselves borrowed gestures from television. When Ruth interrupts Kathy’s reading of Daniel Deronda by explaining its plot, Kathy challenges both her pretended knowledge and her imitation of the couples. Ruth retaliates with a remark about Kathy’s relationships with veterans. The disagreement matters because both girls feel that an unspoken loyalty has been broken. Growing up creates new performances and new insecurities rather than a clean break with childhood.",
+      "events": [
+        "The friends move into the Cottages.",
+        "Veterans provide models of adult behaviour.",
+        "Kathy questions Ruth’s imitation of those models."
+      ],
+      "analysis": [
+        {
+          "method": "Irony and imitation",
+          "detail": "The supposedly mature residents borrow gestures from fictional television couples.",
+          "effect": "The model of authentic adulthood turns out to be another performance. This does not make the students emotionless copies: it reveals a recognisable human need to learn belonging from the available examples.",
+          "zh": "irony 在于被奉为真实、成熟的榜样本身也是模仿。不能因此说学生没有真实感情；相反，寻找行为范本表现了普遍的人类归属需求。"
+        },
+        {
+          "method": "Retrospective comparison",
+          "detail": "Adult Kathy places the frightened arrival beside later memories of relaxed intellectual life.",
+          "effect": "Her contrasting images resist a simple story of successful independence. Comfort develops, but underneath it she recognises a continuing dependence on the group.",
+          "zh": "成年 Kathy 把最初害怕的画面与后来的轻松生活并置。变化确实发生了，但她同时看见：他们始终依赖彼此，独立并不完整。"
+        },
+        {
+          "method": "Objects as emotional anchors",
+          "detail": "The unfinished essay acquires value after the move.",
+          "effect": "A school task becomes a link to a lost community. Its changing significance shows that the importance of an object or activity depends on memory and relationships, not only on practical achievement.",
+          "zh": "essay 的象征意义来自关系的变化。它从任务变成了 emotional anchor，说明回忆可以赋予普通物品和活动新的价值。"
+        }
+      ],
+      "themes": [
+        "Identity",
+        "Growing up",
+        "Performance"
+      ],
+      "question": "What is ironic about Ruth’s idea of mature behaviour?",
+      "answer": "She imitates veterans whose own mannerisms come from fictional television relationships.",
+      "zh": "The Cottages 是 liminal space：看似更自由，未来却仍然被安排。",
+      "sourceIds": [
+        "lc10",
+        "sp5",
+        "user-epub"
+      ],
+      "titleZh": "排练一种借来的成年生活",
+      "summaryZh": "第二部分从 Hailsham 到 Cottages 的过渡开始。Kathy、Ruth、Tommy 等八名学生来到一座改建的农场，以为这里会是“高年级版 Hailsham”，却发现没有 guardians 照顾他们。负责设施的 Keffers 冷淡而不愿解释规则，旧 essay 因而成为连接过去的精神支点。表面上，他们可以外出、阅读和建立关系，但刚来时仍紧紧聚在一起，不知道如何使用自由。Ruth 最努力学习 veterans 的“成熟”：她改变与 Tommy 告别的方式，却没有发现老生的动作也是从电视里学来的。Kathy 看穿这种 imitation，在读 Daniel Deronda 时被 Ruth 指点情节，终于反击。Ruth 随即拿 Kathy 与老生交往的事情刺她。关键不只是两人吵架，而是她们都觉得对方破坏了默契：Ruth 需要朋友支持自己的新形象，Kathy 则需要私人信任不被用来攻击自己。成年生活因此延续了童年对身份、地位与归属的焦虑。",
+      "orientation": {
+        "en": "The first months at the Cottages, remembered by adult Kathy. Eight students arrive from Hailsham; the residents already there become their social models.",
+        "zh": "时间来到离开 Hailsham 后的最初几个月。成年 Kathy 回忆当时的陌生感；八名新生把先到的 veterans 当作学习对象。"
+      },
+      "scenes": [
+        {
+          "title": "Freedom without reassurance",
+          "titleZh": "有自由，却没有安全感",
+          "text": "The Cottages offer more movement and less supervision than Hailsham, but the newcomers hardly leave at first. They have never learned ordinary distances, journeys or independent routines through experience. Keffers expects chores to be done yet refuses the emotional role of a guardian. Their hesitation therefore shows how a protected upbringing can continue to shape behaviour even when visible restrictions are reduced.",
+          "zh": "Cottages 的监管减少了，可学生最初几乎不出门。他们在地图上学过地方，却没有真正安排过生活。Keffers 只管事务，不提供 guardian 式的安慰。这里说明：外在限制变少，并不等于内心已经具备自由行动的信心。"
+        },
+        {
+          "title": "An essay as a connection",
+          "titleZh": "essay 成为情感上的连接",
+          "text": "At Hailsham the leaving essays had seemed unimportant. At the Cottages, the same task gains value because it comes from a familiar world. Kathy’s later daydreams about improving her Victorian-novel essay show that its meaning survives beyond academic usefulness. The essay offers continuity: it lets her imagine herself as a student with intellectual interests rather than only as someone carrying out an assigned role.",
+          "zh": "离校前似乎不重要的 essay，到新环境反而变得珍贵，因为它来自熟悉的 Hailsham。Kathy 成年后仍会想如何重写它。它的价值超出作业本身：它保存了一个爱阅读、有思想的自我，而不只是制度安排给她的身份。"
+        },
+        {
+          "title": "Imitating the imitators",
+          "titleZh": "模仿那些也在模仿的人",
+          "text": "Ruth adopts the veterans’ understated couple behaviour, including a light touch near Tommy’s elbow when parting. Kathy has identified other veterans’ mannerisms on television and suspects the same source here. Their quarrel while Kathy reads exposes different needs: Ruth wants her performance supported, while Kathy resents being treated as inferior. The chapter makes social learning look ordinary and moving, while showing how easily it becomes competitive.",
+          "zh": "Ruth 学老生轻拍手肘的告别方式，Tommy 起初甚至不知道该如何配合。Kathy 发现部分老生动作来自电视，也怀疑这个动作如此。两人的争执揭示不同需求：Ruth 想得到支持，Kathy 不愿被轻视。模仿既是成长的尝试，也是争夺地位的方式。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Kathy’s essay",
+          "value": "Victorian novels.",
+          "zh": "Kathy 的 essay 主题是 Victorian novels，不是现代诗。"
+        },
+        {
+          "label": "Book in the argument",
+          "value": "Daniel Deronda, by George Eliot.",
+          "zh": "争执时 Kathy 正在读 George Eliot 的 Daniel Deronda。"
+        },
+        {
+          "label": "Keffers",
+          "value": "The grumpy man responsible for practical upkeep at the Cottages.",
+          "zh": "Keffers 负责设施与杂务，并不是新的 guardian。"
+        },
+        {
+          "label": "Veteran couple",
+          "value": "Susie and Greg help Kathy notice television-derived mannerisms.",
+          "zh": "Susie 与 Greg 的互动使 Kathy 看出部分“成熟表现”来自电视。"
+        }
+      ],
+      "pitfall": {
+        "en": "Kathy verifies some television imitations, but the elbow gesture’s exact source is her inference; do not present every suspicion as established fact.",
+        "zh": "Kathy 确认部分动作来自电视，但手肘动作的来源仍是她的推测。分析时要区分观察与 inference。"
+      },
+      "questionZh": "Ruth 对“成熟”的理解有什么反讽之处？",
+      "answerZh": "她模仿 veterans，以为那是真实成年人的行为；Kathy 却发现老生的许多动作又来自虚构的电视人物。"
+    },
+    {
+      "id": 11,
+      "part": 2,
+      "title": "Intimacy and insecurity",
+      "summary": "Kathy explains why Ruth’s remark in the previous chapter felt like betrayal. Despite daytime arguments, the girls had continued private evening conversations over hot drinks in Kathy’s attic room. Kathy trusted that their disclosures would not become weapons. She had confided anxieties about her sexual feelings, and Ruth’s response made her feel unusually troubled. Using that confidence during an argument crosses an important boundary. Adult Kathy nevertheless considers an alternative explanation: Ruth may have felt betrayed first when Kathy exposed her attempts to impress the veterans. A later conversation with Ruth reveals how painful it had been to give up her Hailsham collection in order to seem grown up. Kathy then notices the Cottages’ awkward silence around former residents and people leaving for carer training. Departed students survive mainly through objects and anecdotes, including magazines attributed to Steve. When Kathy secretly searches these magazines, she concentrates on faces. Tommy recognises that she is looking for something rather than simply seeking entertainment. She does not yet explain, but his concern makes her feel protected. The chapter contrasts judgement, secrecy and the possibility of attentive friendship.",
+      "events": [
+        "Ruth uses private knowledge during conflict.",
+        "Their different attachments to Hailsham become apparent.",
+        "Tommy notices Kathy’s intense attention to magazine images."
+      ],
+      "analysis": [
+        {
+          "method": "Self-correction in retrospective narration",
+          "detail": "Kathy first describes betrayal, then offers Ruth’s possible perspective.",
+          "effect": "Her later interpretation complicates the earlier emotion without cancelling it. This is evidence of a narrator revising her judgement, not automatically evidence that she is deliberately lying.",
+          "zh": "retrospective narration 让 Kathy 重新评估旧冲突。理解对方并不等于否认自己受伤，也不等于她故意撒谎；它表现判断随时间变化。"
+        },
+        {
+          "method": "Material traces of absent people",
+          "detail": "Former residents become attached to a repair method, a stump and a pile of magazines.",
+          "effect": "Objects preserve fragments of identity while direct discussion of departing friends is uncomfortable. The pattern suggests a community coping with separation through indirect forms of memory.",
+          "zh": "物品替离开的人留下痕迹，直接谈论却令人不安。这样的 indirect memory 既保存关系，也暴露了大家回避失去的倾向。"
+        },
+        {
+          "method": "Delayed explanation",
+          "detail": "Kathy’s search through faces is described before her motive is disclosed.",
+          "effect": "Readers are invited to interpret the behaviour cautiously. Tommy models a sympathetic response by noticing distress rather than settling immediately on an embarrassing explanation.",
+          "zh": "作者先写行为、延迟解释，提醒读者不要仓促判断。Tommy 关注她的忧虑，提供了一种比嘲笑更有同理心的阅读方式。"
+        }
+      ],
+      "themes": [
+        "Identity",
+        "Friendship",
+        "Memory"
+      ],
+      "question": "Why does Ruth’s judgement have particular power over Kathy?",
+      "answer": "It uses doubts shared in confidence and makes Kathy feel abnormal compared with her friend.",
+      "zh": "Intimacy 也会带来 vulnerability；Ruth 知道 Kathy 的不安，因此她的话特别伤人。",
+      "sourceIds": [
+        "lc11",
+        "sp5",
+        "user-epub"
+      ],
+      "titleZh": "亲密、羞耻与被利用的信任",
+      "summaryZh": "Kathy 接着解释上一章为什么会那么受伤。白天她与 Ruth 常常争执，晚上却仍并肩坐在阁楼房间里喝热饮、谈心；她相信这种私人空间中的秘密不会变成争吵的武器。Kathy 曾不安地谈到自己的欲望，Ruth 的回答让她觉得自己“不正常”。当 Ruth 在争执中影射这件事，Kathy 便觉得信任被背叛。不过成年叙述者也重新考虑自己的责任：她揭穿 Ruth 在 veterans 面前的模仿，也可能先伤害了对方。插入后来的回忆，Ruth 承认自己为了适应新环境，把 Hailsham 收藏交给 Keffers 带走，如今后悔。随后，Kathy 注意到大家很少提离开 Cottages、开始 carer 训练的人；他们似乎只通过物品留下痕迹。Kathy 偷看归于 Steve 名下的成人杂志时，实际上只在寻找脸孔。Tommy 看出她带着忧虑，不是单纯好奇。她暂时没有解释，却因他的关心感到被保护。这里的重点是：同样的脆弱，可以被朋友利用，也可以被朋友温柔接住。",
+      "orientation": {
+        "en": "Kathy revisits the quarrel at the Cottages, interrupts it with a later memory of Ruth, then returns to her private search in the boiler hut.",
+        "zh": "叙述先补充 Cottages 争执的原因，再插入日后照顾 Ruth 的回忆，最后回到锅炉棚。时间并非直线推进。"
+      },
+      "scenes": [
+        {
+          "title": "Two versions of Ruth",
+          "titleZh": "两个不同的 Ruth",
+          "text": "Kathy separates the socially ambitious Ruth of the daytime from the trusted companion of their evening talks. This division allows the friendship to continue despite conflict. The hurt arrives when Ruth uses private knowledge in public-facing rivalry, making those compartments collapse. Adult Kathy then questions her own simple account of victimhood, acknowledging that exposing Ruth’s performance may itself have violated another unspoken agreement between them.",
+          "zh": "Kathy 把白天爱表现的 Ruth 与夜里可信赖的 Ruth 分开看，这使友谊还能继续。私人秘密被拿来攻击时，这种区分崩塌了。但成年 Kathy 也承认：自己揭穿 Ruth 的表演，也可能违背了朋友应当支持她的默契。"
+        },
+        {
+          "title": "What happened to the collection",
+          "titleZh": "收藏去了哪里？",
+          "text": "In a later recovery-centre conversation, Ruth recalls noticing that veterans did not keep childhood collections. She eventually handed her possessions to Keffers, asking him to take them to a charity shop. She suspected he may have thrown them away, but could not bear to know. This is not proof of their final destination; the emotional fact is her regret at sacrificing continuity with Hailsham.",
+          "zh": "Ruth 发现 veterans 没有童年收藏，于是把东西交给 Keffers，希望送去慈善商店。她怀疑他可能扔掉了，却宁愿不知道。文本没有证实物品的最终去向；确定的是 Ruth 后悔为了融入而放弃与 Hailsham 的联系。"
+        },
+        {
+          "title": "Tommy notices the face behind the action",
+          "titleZh": "Tommy 看见行为背后的焦虑",
+          "text": "Students treat the magazines as a joke and associate them with the absent Steve. Kathy studies faces rapidly and privately, however, so Tommy realises the usual explanation does not fit. His repeated question is intrusive enough to embarrass her, yet she also feels comforted. The scene prepares a later disclosure by showing that he attends to her expression and purpose rather than merely judging the object she holds.",
+          "zh": "别人把杂志当笑料，Kathy 却迅速而专注地查看脸孔。Tommy 因此知道她在寻找什么。他的追问使她尴尬，却也让她感到安慰。区别在于：他关心的是 Kathy 为什么这样做、她是否难过，而不只是评价她手里拿的东西。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Private conversations",
+          "value": "Kathy and Ruth talk over hot drinks in Kathy’s room at the top of the Black Barn.",
+          "zh": "Black Barn 阁楼的夜谈维系着两人的信任。"
+        },
+        {
+          "label": "Collection disposal",
+          "value": "Ruth gives her possessions to Keffers for a charity shop; the final destination is unknown.",
+          "zh": "不要把“被扔进垃圾桶”写成确定事实。"
+        },
+        {
+          "label": "Absent students",
+          "value": "Mike is remembered through repairs, Dave through a tree stump, Steve through magazines.",
+          "zh": "人物离开后，通过日常物品与习惯留下名字。"
+        },
+        {
+          "label": "Kathy’s attention",
+          "value": "She studies the faces in the magazines, not primarily the bodies.",
+          "zh": "这个细节提示她的目标与身份焦虑有关。"
+        }
+      ],
+      "pitfall": {
+        "en": "Ruth’s suggestion that Kathy is abnormal is a character’s judgement, not a medical or narrative diagnosis.",
+        "zh": "Ruth 说 Kathy 奇怪，是人物施加的判断；不能当成作者或医学对 Kathy 的诊断。"
+      },
+      "questionZh": "为什么 Ruth 的评价特别容易伤害 Kathy？",
+      "answerZh": "因为她利用 Kathy 私下透露的不安，并以自己有固定伴侣的身份作比较，使 Kathy 怀疑自己的正常性。"
+    },
+    {
+      "id": 12,
+      "part": 2,
+      "title": "Searching for an origin",
+      "summary": "Ruth tells Kathy that Rodney may have seen her possible: an ordinary woman from whom she could have been cloned. The woman works in an open-plan office in Cromer, Norfolk. Kathy pauses to explain the students’ theories about models. They disagree about the models’ ages and about how much a model could reveal, but many hope that recognition would offer an insight into identity. Ruth claims to be sceptical yet clearly wants to investigate. Kathy suspects that Chrissie and Rodney’s report is influenced by Ruth’s dream of office work. That dream developed after Ruth saw a glossy advertisement while walking to buy fuel for the Cottages’ heaters. The office’s furniture and friendly colleagues represent participation in an ordinary adult world. Chrissie, impressed by Hailsham, treats this ambition as more achievable for Ruth than for herself. Ruth encourages that impression through implication rather than clear claims. Kathy is wary of both the sighting and the veterans’ fascination, but joins the trip to support and watch over Ruth. The chapter ends with a party of five preparing to go: Ruth, Kathy, Tommy, Chrissie and Rodney.",
+      "events": [
+        "Rodney reports a possible model for Ruth.",
+        "Ruth’s imagined office career shapes expectations.",
+        "Five residents plan the Norfolk journey."
+      ],
+      "analysis": [
+        {
+          "method": "Embedded explanation",
+          "detail": "Kathy postpones the journey to explain the theory of possibles.",
+          "effect": "The digression makes emotional motivation central. Knowing why a possible matters prevents the trip from being read as a simple sightseeing adventure.",
+          "zh": "先解释再叙事，使 identity 焦虑成为阅读重点。这不是普通旅行，而是寻找身世与未来的尝试。"
+        },
+        {
+          "method": "Advertising imagery",
+          "detail": "Ruth turns an idealised office scene into a detailed imagined future.",
+          "effect": "The fantasy exposes both the persuasive power of consumer images and the modest scale of her exclusion: an ordinary workplace becomes an almost unreachable dream.",
+          "zh": "广告展现理想化生活，而 Ruth 连普通办公室都只能想象。对照使读者看见她被排除在社会之外的程度。"
+        },
+        {
+          "method": "Contradiction between claim and response",
+          "detail": "Ruth says models are irrelevant but becomes invested in the sighting.",
+          "effect": "The mismatch shows how intellectual dismissal can coexist with emotional hope. She is trying to protect herself from disappointment, although the hoped-for recognition still matters.",
+          "zh": "口头否认与实际期待并存，说明理性上的防御无法消除 emotional need。Ruth 的矛盾表现了害怕失望的人如何保护自己。"
+        }
+      ],
+      "themes": [
+        "Identity",
+        "Hope",
+        "Exclusion"
+      ],
+      "question": "Why does an ordinary office mean so much to Ruth?",
+      "answer": "It represents an independent adult identity, colleagues and participation in a world from which she is excluded.",
+      "zh": "Ruth 的 office dream 很普通；正因如此，她被剥夺的 normal life 才更令人难过。",
+      "sourceIds": [
+        "lc12",
+        "sp6",
+        "user-epub"
+      ],
+      "titleZh": "寻找原型，也是在寻找一种未来",
+      "summaryZh": "Ruth 告诉 Kathy，Rodney 在 Norfolk 海边城镇 Cromer 的一间开放式办公室里，看到了可能是她原型的女人。所谓 possible，是可能被用来复制某个学生的普通人，并不是已经确认的亲生父母。Kathy 暂停故事，解释大家为什么如此着迷：他们不知道该找多大年龄的人，也无法证明原型决定未来，却希望借此弄清“我究竟是谁”。Ruth 嘴上说原型不重要，实际十分想去看。Kathy 怀疑这次目击太符合 Ruth 的 dream future：此前两人去买取暖器燃料时，Ruth 被一本杂志上的办公室广告吸引，随后把里面的家具、设备与友好同事描述成自己的理想生活。Chrissie 相信 Hailsham 学生有特殊机会，因此比对自己的未来更认真地看待 Ruth 的梦想。Ruth 没有明确撒谎，却通过不否认与暗示维持这种印象。办公室的重要性不在工资，而在于被社会接纳、有同事、有普通成年生活。Kathy 虽然不放心，仍决定同行；最后五人一起准备去 Norfolk。",
+      "orientation": {
+        "en": "Near the end of the first winter at the Cottages. The proposed Norfolk trip grows from a reported sighting and the students’ discussions of imagined careers.",
+        "zh": "Cottages 第一个冬天将结束。旅行的动机来自 possible 的目击，以及大家此前谈论的 dream futures。"
+      },
+      "scenes": [
+        {
+          "title": "The possible theory",
+          "titleZh": "possible 理论是什么？",
+          "text": "A possible is someone who might be a student’s genetic model. The students know this basic possibility, but their ideas about age and resemblance remain speculative. They do not simply believe they will inherit the person’s job. More subtly, they hope that finding a model will explain their inner nature and make their lives seem connected to an ordinary human history they otherwise lack.",
+          "zh": "possible 指“可能的基因原型”，不是已证实身份的人。学生对年龄、长相和遗传影响的理解充满猜测。他们不只是想复制对方的职业，更想从对方身上得到一种身世与内在自我的解释。"
+        },
+        {
+          "title": "An advertisement becomes a dream",
+          "titleZh": "广告如何变成梦想",
+          "text": "On an errand to buy heater fuel, Ruth studies a magazine advertisement showing a bright office and relaxed colleagues. Later she describes this world with striking confidence, partly borrowing the advertisement’s language. The source makes the dream mediated and artificial, but not emotionally trivial. Its appeal lies in everyday belonging: sharing space, conversation and a future with people whose company continues beyond an institution’s timetable.",
+          "zh": "Ruth 的办公室梦想来自路边杂志广告，甚至借用了其中的说法。但梦想来源于广告，并不意味着感情虚假。吸引她的是普通人的归属：友好同事、聊天、一起工作，以及能够持续下去的日常生活。"
+        },
+        {
+          "title": "Hailsham as imagined privilege",
+          "titleZh": "Hailsham 被想象成特权",
+          "text": "Chrissie and Rodney repeatedly question the newcomers about Hailsham. Kathy increasingly sees admiration beneath their older-student authority. Ruth’s office fantasy becomes plausible to them because they imagine Hailsham operates under different rules. This gives Ruth social power, but it also places pressure on her to maintain an exceptional image. Kathy accompanies her partly because she senses how vulnerable that arrangement makes her.",
+          "zh": "veterans 看似比新生成熟，却又崇拜 Hailsham。Ruth 借此获得地位，同时必须维持“我们有特殊机会”的形象。Kathy 察觉这种权力并不稳固：别人越相信她特殊，梦想破灭时她就可能越受伤。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Reported location",
+          "value": "Cromer, on the north Norfolk coast.",
+          "zh": "Rodney 报告的目击地点是 Norfolk 北海岸的 Cromer。"
+        },
+        {
+          "label": "Office dream’s source",
+          "value": "A glossy magazine advertisement found on the ground.",
+          "zh": "梦想的具体画面来自杂志广告，而不是实际工作经验。"
+        },
+        {
+          "label": "Errand",
+          "value": "Ruth and Kathy are buying igniter fuel for the heaters.",
+          "zh": "发现广告时，两人正去买取暖器点火燃料。"
+        },
+        {
+          "label": "Five travellers",
+          "value": "Chrissie, Rodney, Ruth, Tommy and Kathy.",
+          "zh": "这次 Norfolk 旅行共有五人。"
+        }
+      ],
+      "pitfall": {
+        "en": "A possible is not a confirmed model; resemblance and hope do not establish identity or determine a student’s future.",
+        "zh": "possible 只是可能的原型。相似与希望都不能证明身份，更不能证明学生会拥有对方的人生。"
+      },
+      "questionZh": "为什么一间普通办公室对 Ruth 意义如此重大？",
+      "answerZh": "它代表独立的成年身份、同事之间的归属感，以及参与普通社会生活的可能。"
+    },
+    {
+      "id": 13,
+      "part": 2,
+      "title": "A rumour takes shape",
+      "summary": "Rodney borrows a Rover and drives the five students to Norfolk. Ruth sits between Kathy and Tommy but leans forward to talk to the veterans, physically excluding her old friends. Kathy’s request to change seats feels to Ruth like a threat to the image she is trying to present. At the seaside town, excitement temporarily eases the tension. In a café, Chrissie and Rodney talk about their former housemate Martin, now a carer, before probing the supposed privileges of Hailsham. Chrissie introduces the rumour that genuinely loving couples can obtain several years’ postponement of donations. The veterans hope their Hailsham friends know how to apply. Ruth behaves as though the subject is familiar, although she gives no reliable information. Kathy tries to smooth over the contradiction, while Tommy openly insists that he remembers no such discussion at school. Ruth protects her authority by referring cruelly to Tommy’s exclusion and ridicule at Hailsham. Kathy sees his old anger return before he contains it. The scene reveals how desperate hope can become entangled with status: the veterans seek a route to more life, while Ruth fears losing their belief in her special knowledge.",
+      "events": [
+        "Ruth aligns herself with the veterans during the drive.",
+        "Chrissie and Rodney ask about romantic deferrals.",
+        "Tommy challenges Ruth’s implied knowledge."
+      ],
+      "analysis": [
+        {
+          "method": "Spatial symbolism",
+          "detail": "Ruth’s body and attention separate Kathy from Tommy in the car.",
+          "effect": "Physical arrangement makes emotional distance readable before anyone names it. The setting participates in the characterisation rather than acting as a neutral background.",
+          "zh": "空间安排承担象征作用：身体的位置提前显示关系中的阻隔，而不仅是普通背景。"
+        },
+        {
+          "method": "Dialogue and evasions",
+          "detail": "Ruth uses confident gestures while avoiding a definite account of the application process.",
+          "effect": "Authority comes from performance rather than knowledge. The scene exposes how an unequal social reputation can make uncertainty sound convincing.",
+          "zh": "Ruth 的权威来自语气、动作与名声，而非事实。dialogue 展现了 uncertain knowledge 如何被包装成可靠信息。"
+        },
+        {
+          "method": "Echo of earlier bullying",
+          "detail": "Ruth invokes Tommy’s childhood exclusion to dismiss his objection.",
+          "effect": "A supposedly more adult conversation reproduces Hailsham’s hierarchy. This links personal cruelty to the wider habit of deciding whose testimony deserves respect.",
+          "zh": "成年场景重复童年排斥：过去被笑过的人，如今连记忆也被贬低。这个 echo 使个人冲突与“谁有资格被相信”的权力问题相连。"
+        }
+      ],
+      "themes": [
+        "Hope",
+        "Love",
+        "Status"
+      ],
+      "question": "Is the deferral presented here as an established rule?",
+      "answer": "No. It is a rumour discussed by students, without reliable institutional confirmation.",
+      "zh": "Deferral 在这里是 rumour，不能当成已存在的制度；hope 影响了人物的判断。",
+      "sourceIds": [
+        "lc13",
+        "sp6",
+        "user-epub"
+      ],
+      "titleZh": "旅行中的权力与“延期”传闻",
+      "summaryZh": "Rodney 借来一辆 Rover，五人清早前往 Norfolk。Ruth 坐在 Kathy 与 Tommy 中间，却一直向前和 veterans 聊天，把两个老朋友隔开。Kathy 提议换位，在 Ruth 看来却像要破坏她努力经营的形象。到了海边城镇，出游的兴奋暂时缓和了气氛。咖啡馆里，Chrissie 与 Rodney 先谈已经成为 carer 的朋友 Martin，再试探 Hailsham 学生是否拥有特殊待遇。Chrissie 提出 deferral 传闻：真正相爱的情侣可能把 donations 延后三四年。他们迫切想知道向谁申请。Ruth 摆出似乎听说过的样子，却没有提供可核实的信息。Kathy 尝试打圆场，Tommy 则坚持自己在 Hailsham 从未听过这种说法。Ruth 为维护权威，突然用他小时候被排斥、被嘲笑的经历贬低他。Kathy 看见 Tommy 旧日的愤怒重新出现，然后被压下。这里不仅是 Ruth 爱面子：veterans 对生命时间的渴望、Hailsham 的特殊名声、朋友间的权力关系，在同一段对话中碰撞。传闻此时仍然只是传闻，不能当作制度事实。",
+      "orientation": {
+        "en": "The outward Norfolk journey and the café conversation before the group finds the office. The deferral story is being tested socially, not officially confirmed.",
+        "zh": "本章写前往 Norfolk 的路程，以及寻找办公室之前的咖啡馆谈话。deferral 在朋友之间流传，还没有得到任何正式证实。"
+      },
+      "scenes": [
+        {
+          "title": "The back seat as a social diagram",
+          "titleZh": "后座上的关系图",
+          "text": "Ruth’s position in the car places her literally between Kathy and Tommy, while her attention moves towards Chrissie and Rodney. The arrangement turns a familiar social problem into something visible: old intimacy is obstructed by the wish to impress new companions. Kathy can see Ruth’s anxiety and backs down, but the compromise does not resolve the resentment building between them.",
+          "zh": "Ruth 坐在两人中间，却面向 veterans。车内位置把社会关系具体化：她追求新地位时，阻挡了旧朋友之间的交流。Kathy 因理解她的压力而退让，但退让没有真正消除不满。"
+        },
+        {
+          "title": "A rumour about extra time",
+          "titleZh": "关于“多一点时间”的传闻",
+          "text": "Chrissie says that Hailsham couples who prove genuine love may postpone donations. Her interest is urgent because the story seems to offer something the usual life course denies. Ruth’s knowledgeable manner supplies reassurance without evidence. Kathy recognises that the apparently casual questioning may have been the veterans’ main purpose in arranging the trip; their social curiosity conceals a serious need for hope.",
+          "zh": "Chrissie 询问的不只是八卦，而是能否多活几年。Ruth 的语气制造可靠感，却没有证据。Kathy 怀疑旅行的真正核心正是这个问题：看似轻松的聊天背后，是对时间与未来的迫切渴望。"
+        },
+        {
+          "title": "Tommy refuses the performance",
+          "titleZh": "Tommy 不愿配合表演",
+          "text": "Tommy says plainly that Hailsham never told him about deferrals. Ruth responds by portraying him as someone whose school exclusion makes his memory untrustworthy. The attack protects her standing but reopens his childhood humiliation. His controlled reaction matters: the old anger still exists, yet he now contains it. The scene shows that apparent adult maturity does not erase the power of earlier wounds.",
+          "zh": "Tommy 用直接的记忆打断 Ruth 的表演。Ruth 则把他过去被排斥的经历变成否定其可信度的理由。这一招维护了她的地位，却重新伤害他。Tommy 压住怒气，说明成熟能改变反应，却不能抹去旧伤。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Transport",
+          "value": "A borrowed Rover, driven by Rodney.",
+          "zh": "Rodney 有驾驶资格，借来 Rover 开车。"
+        },
+        {
+          "label": "Seating",
+          "value": "Ruth sits between Kathy and Tommy in the back.",
+          "zh": "后座位置直接表现三人的关系。"
+        },
+        {
+          "label": "Martin",
+          "value": "A former Cottages resident who is now a carer.",
+          "zh": "Martin 是离开 Cottages 后成为 carer 的朋友。"
+        },
+        {
+          "label": "Rumoured delay",
+          "value": "Three or four years, according to Chrissie’s account.",
+          "zh": "三四年只是 Chrissie 转述传闻的数字，并非官方规定。"
+        }
+      ],
+      "pitfall": {
+        "en": "Do not write that Hailsham promised deferrals. This chapter presents a rumour and competing reactions to it.",
+        "zh": "不要写成 Hailsham 承诺过 deferral。本章展示的是传闻，以及人物面对传闻时的不同反应。"
+      },
+      "questionZh": "本章中的 deferral 是已经确认的制度吗？",
+      "answerZh": "不是。它由学生转述，没有可靠的官方确认；人物的期待不能替代证据。"
+    },
+    {
+      "id": 14,
+      "part": 2,
+      "title": "The possible disappears",
+      "summary": "The group locates the office and sees a woman whose appearance initially resembles Ruth’s. Watching through glass, they briefly share a convincing picture of an ordinary future. Ruth wants another look. When the woman leaves, the students follow her through the town into the Portway Studios art gallery. At close range, hearing her speak and observing her mannerisms, they gradually agree that she is not Ruth’s possible. The friendly gallery owner assumes they are interested in art, temporarily allowing them to be treated like ordinary young visitors. Outside, attempts to comfort Ruth fail. She claims that clones must come from people society despises rather than respectable office workers, turning disappointment into a harsh judgement of herself and the others. Kathy resists this account; the narrative does not establish Ruth’s accusations as facts. Chrissie and Rodney propose visiting Martin. Ruth joins them, but Kathy refuses, partly objecting that they should not visit a carer. Tommy chooses to stay with Kathy despite Ruth’s anger. The failed search therefore reveals more than mistaken resemblance: it exposes the damage of prejudice and alters the balance among the three friends.",
+      "events": [
+        "The group follows the woman into a gallery.",
+        "They reject her as Ruth’s model.",
+        "Ruth lashes out; Kathy and Tommy remain together."
+      ],
+      "analysis": [
+        {
+          "method": "Windows and distance",
+          "detail": "Resemblance seems stronger through the office glass than at close range.",
+          "effect": "The visual contrast suggests that desire can organise incomplete evidence into a reassuring story. More information brings disappointment rather than liberation.",
+          "zh": "玻璃与距离使希望显得真实；近距离观察拆解了它。这个 contrast 提醒我们，人物常用愿望组织不完整证据。"
+        },
+        {
+          "method": "Internalised prejudice",
+          "detail": "Ruth explains disappointment by denigrating the people she believes were their models.",
+          "effect": "Her attack reveals how social exclusion can become self-contempt. Analyse the cruelty of the belief without adopting its judgement about marginalised people or accepting its factual claims.",
+          "zh": "Ruth 把外界偏见转向自身群体，形成 internalised prejudice。分析这种伤害时，不能重复认同她对弱势人群的贬低。"
+        },
+        {
+          "method": "Contrast in responses",
+          "detail": "Tommy separates the model’s identity from the value of the students’ own lives.",
+          "effect": "His response offers an alternative to biological determinism. Kathy’s support and his decision to remain with her make that ethical position visible through action as well as speech.",
+          "zh": "Tommy 认为原型不应决定他们本人的价值，挑战 biological determinism。他留下陪 Kathy，使立场落实为照顾朋友的行动。"
+        }
+      ],
+      "themes": [
+        "Identity",
+        "Dehumanisation",
+        "Disappointment"
+      ],
+      "question": "Why must Ruth’s claims about clone origins be treated carefully?",
+      "answer": "They are an emotional, prejudiced assertion by a character, not a confirmed account of the programme.",
+      "zh": "Ruth 的 outburst 体现 internalised prejudice；人物说的话并不自动等于小说中的事实。",
+      "sourceIds": [
+        "lc14",
+        "sp7",
+        "user-epub"
+      ],
+      "titleZh": "原型的失落与内化的偏见",
+      "summaryZh": "五人找到办公室，隔着玻璃看见一个女人，她的某些神情确实让大家想到 Ruth。短暂的距离让理想未来显得可信；Ruth 却想再确认。女人离开后，他们一路跟随，进入 Portway Studios 画廊。近距离听她说话、观察举止，相似感逐渐消失，大家默契地承认她不是 Ruth 的 possible。画廊主人把他们当成对艺术有兴趣的普通年轻人，友善地介绍作品；这个片刻反而让 Ruth 后来更痛苦。到了外面，朋友安慰无效，Ruth 宣称他们的原型一定来自社会轻视的人，而不是体面的办公室职员。她把一次失望转成了对自身群体的贬低，显示偏见已经被她 internalise。Kathy 反对这种说法；小说没有证明 Ruth 的指控。随后 Chrissie 与 Rodney 要去看 carer Martin，Ruth 跟去，Kathy 拒绝，Tommy 则主动留下陪她。失败的寻找改变了三人之间的暂时同盟，也暴露了他们多么渴望普通身份、又多么害怕自己不配拥有它。",
+      "orientation": {
+        "en": "The Norfolk outing continues: office window, pursuit through town, art gallery, then disagreement outside.",
+        "zh": "Norfolk 旅行继续：先隔窗看办公室，再跟随女人进画廊，最后在外面发生争执。"
+      },
+      "scenes": [
+        {
+          "title": "Distance sustains resemblance",
+          "titleZh": "距离让相似感得以维持",
+          "text": "Through the office window the woman seems enough like Ruth to encourage everyone. The polished setting also matches Ruth’s imagined future. Their shared excitement is fragile because it depends on limited observation. Once they pursue certainty by following her, the resemblance weakens. The episode turns looking itself into a problem: a desired image can seem convincing until closer attention exposes the gaps.",
+          "zh": "隔着办公室玻璃，女人的外貌与环境共同支持 Ruth 的希望。可是希望依靠有限观察。追求更确定的答案后，近距离的声音与动作反而破坏相似感。这里揭示了 desire 如何影响 perception。"
+        },
+        {
+          "title": "Being ordinary for a moment",
+          "titleZh": "短暂地被当作普通人",
+          "text": "At Portway Studios, the owner mistakes the visitors for art students or interested young people. She speaks warmly about the paintings, and they listen almost as they once listened to guardians. The encounter provides a brief sense of ordinary social inclusion. Ruth later imagines that knowing their origins would have destroyed that welcome, but this remains her fearful supposition, not an actual rejection by the owner.",
+          "zh": "画廊主人友好地把他们当作普通艺术爱好者。他们也像从前听 guardian 讲话一样围过来。Ruth 后来认为对方若知道真相就会赶走他们，但这只是她的恐惧；实际场景没有发生这样的驱逐。"
+        },
+        {
+          "title": "From disappointment to division",
+          "titleZh": "失望如何变成分裂",
+          "text": "Ruth’s furious speech generalises from one failed identification to the supposed worthlessness of all their origins. Kathy refuses the logic and declines to visit Martin with the others. Tommy remains with her, making a clear choice of companionship rather than simply following Ruth. The group divides just when Ruth most needs reassurance, revealing how defensive cruelty can drive away the people who understand her best.",
+          "zh": "Ruth 从一次寻找失败推导出“我们都不值得被尊重”，这是情绪与偏见，不是逻辑证明。Kathy 拒绝配合，Tommy 选择陪她留下。Ruth 想保护自己，却用攻击把最亲近的人推开。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Gallery name",
+          "value": "The Portway Studios.",
+          "zh": "跟随 possible 进入的地方叫 Portway Studios。"
+        },
+        {
+          "label": "Initial observation",
+          "value": "The office has a large glass front, and the woman wears blue.",
+          "zh": "隔玻璃观察与后来近距离接触形成对比。"
+        },
+        {
+          "label": "Owner’s assumption",
+          "value": "She asks whether the visitors are art students.",
+          "zh": "画廊主人没有在此识破并拒绝他们。"
+        },
+        {
+          "label": "Group splits",
+          "value": "Ruth, Chrissie and Rodney visit Martin; Kathy and Tommy stay together.",
+          "zh": "三人与两人的分组标志关系的变化。"
+        }
+      ],
+      "pitfall": {
+        "en": "Ruth’s angry account of clone origins is not verified by the narrative; the gallery owner’s imagined rejection is also not an event that actually occurs.",
+        "zh": "Ruth 对原型来源的愤怒断言没有被证实；她想象画廊主人会赶走他们，也不是实际发生的事件。"
+      },
+      "questionZh": "为什么不能把 Ruth 对克隆人来源的说法当作事实？",
+      "answerZh": "这是受伤人物带有偏见的情绪表达，而不是叙述已经证实的制度说明。"
+    },
+    {
+      "id": 15,
+      "part": 2,
+      "title": "Recovery and a new theory",
+      "summary": "After the others leave, Tommy reassures Kathy that Ruth’s angry claims about their models are not established knowledge. He then reveals that he had been looking for a replacement for Kathy’s lost Judy Bridgewater tape. Together they search second-hand shops and find another copy. It is not proven to be the original object, but the discovery gives the childhood idea of Norfolk as a place of recovered losses a new emotional reality. Their relaxed conversation deepens into Tommy’s theory about the Gallery. If art reveals a person’s inner self, he reasons, the collected work might enable Madame to identify couples whose love deserves a deferral. His imaginary animal drawings are partly connected with this hope. Kathy then explains why she searched faces in magazines: she feared her own sexual feelings indicated something about her genetic model. Tommy responds that strong feelings need not make her abnormal, offering reassurance rather than Ruth’s judgement. When the group reunites, Ruth works hard to restore a cheerful atmosphere. Kathy keeps the tape private for now, preserving the fragile sense that the three friends are close again.",
+      "events": [
+        "Another copy of the cassette is found.",
+        "Tommy proposes a link between art and deferrals.",
+        "Kathy’s search for her origins becomes clearer."
+      ],
+      "analysis": [
+        {
+          "method": "Recurring motif of lost objects",
+          "detail": "The Norfolk search recalls the childhood belief that missing possessions gather there.",
+          "effect": "Recovery becomes partial rather than magical: an object can return in another form while lost time cannot. The motif connects childhood invention with adult acts of care.",
+          "zh": "lost objects 的 motif 在这里变得复杂：物品可以替代，时间却无法倒流。童年幻想因此与成年关怀相连。"
+        },
+        {
+          "method": "Conditional reasoning",
+          "detail": "Tommy’s account depends on the possibility that the deferral story is true.",
+          "effect": "The gap between persuasive logic and unverified assumptions dramatises hope as an act of interpretation. Readers can respect his intelligence without accepting the theory as fact.",
+          "zh": "条件式推理表现 hope 如何塑造 interpretation。分析时既应尊重 Tommy 的思考，也要指出其前提未经证实。"
+        },
+        {
+          "method": "Contrast between confidants",
+          "detail": "Tommy responds to Kathy’s worry with reassurance rather than shame.",
+          "effect": "Their intimacy develops through listening and a willingness to question damaging assumptions. This gives emotional weight to their bond beyond the mere claim that they are compatible.",
+          "zh": "二人的亲密不是一句“他们适合”就能概括，而是在认真倾听、抵抗伤害性标签的行为中逐步建立。"
+        }
+      ],
+      "themes": [
+        "Memory",
+        "Art",
+        "Hope"
+      ],
+      "question": "What is the status of Tommy’s explanation of the Gallery?",
+      "answer": "It is his hopeful hypothesis; Chapter 22 later overturns its proposed connection to deferrals.",
+      "zh": "找回 tape 不等于找回过去；Tommy 的 Gallery theory 是 hypothesis，而非真相。",
+      "sourceIds": [
+        "lc15",
+        "sp7",
+        "user-epub"
+      ],
+      "titleZh": "找回录音带，也找到一种被理解的感觉",
+      "summaryZh": "其他人走后，Tommy 先安慰 Kathy：Ruth 关于原型的难听说法只是情绪性的议论，不是 guardians 教过的事实。他接着承认自己一直想替她找到丢失的 Judy Bridgewater 录音带。两人逛二手店，终于找到另一份。小说没有证明这是当年原物，但它让 Norfolk“找回失物”的童年想象获得新的情感力量。随后 Tommy 提出 Gallery 理论：如果艺术能表现内心，那么 Madame 保存的作品或许可以判断两个人是否真正相爱，从而决定 deferral。他画想象动物，也与这种期待有关。Kathy 终于解释自己为什么翻杂志：她害怕自己的欲望意味着原型有某种身份，希望看到相似的脸来得到解释。Tommy 则认为强烈感受并不使她异常，用理解替代 Ruth 曾经的评判。回程中，Ruth 努力解释笑话、照顾 Kathy 的感受，似乎以行动弥补之前的失态。Kathy 暂时不提录音带，因为她不想破坏三人重新靠近的气氛。修复是真实的，却仍依赖没有说出口的东西。",
+      "orientation": {
+        "en": "The later hours of the Norfolk trip. Kathy and Tommy explore the town alone, then rejoin the others for the journey home.",
+        "zh": "仍是 Norfolk 旅行当天。Kathy 与 Tommy 单独留在镇上，之后与另外三人会合回程。"
+      },
+      "scenes": [
+        {
+          "title": "A replacement with a shared history",
+          "titleZh": "另一份录音带，也可以有真实价值",
+          "text": "Tommy remembers that Kathy once lost a cherished tape and has quietly tried to find it. Searching together turns an old loss into a shared present experience. The replacement’s value does not require it to be the exact original. It carries the music, Kathy’s earlier memories and Tommy’s attention at once, making an ordinary purchased object a sign of care and a new layer of their relationship.",
+          "zh": "价值不取决于它是否当年同一件物品。另一份录音带同时承载旧歌曲、旧回忆与 Tommy 此刻的用心。找到它并没有取消失去，却让失去被重新理解，并增加了两人的共同经历。"
+        },
+        {
+          "title": "Reasoning towards a wished-for conclusion",
+          "titleZh": "推理为何既聪明又危险",
+          "text": "Tommy joins several genuine experiences—Hailsham’s emphasis on creativity, Madame’s collection, and the belief that art expresses character—to an unverified deferral rumour. His argument has internal logic, which makes it emotionally persuasive. Its weakness is the starting assumption that such a scheme exists. The scene asks readers to distinguish intelligent reasoning from reliable premises while recognising why he needs the explanation to be true.",
+          "zh": "Tommy 的推理并不愚蠢：艺术、内心、收藏之间确有联系。问题是他把这些联系接在未经证实的 deferral 传闻上。逻辑连贯不等于前提可靠，这使希望既有说服力又脆弱。"
+        },
+        {
+          "title": "Understanding without shaming",
+          "titleZh": "理解，而不是使人羞耻",
+          "text": "Kathy links her private worries to a feared genetic explanation. Tommy does not confirm that fear; he suggests that intense feelings may be ordinary and that a trusting relationship could change how she experiences them. His response treats her as a person to understand, not a defect to classify. The journey home then restores outward harmony, although Kathy postpones sharing the tape with Ruth.",
+          "zh": "Kathy 想用原型解释自己的“不正常”。Tommy 没有接受这个标签，而是认真安慰她。区别在于他把她当作值得理解的人，不是需要分类的缺陷。回程看似和好，但录音带仍暂时成为 Kathy 不愿公开的秘密。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Tape",
+          "value": "A replacement copy of the Judy Bridgewater recording.",
+          "zh": "是另一份相同录音，不应断言找回原来那盘。"
+        },
+        {
+          "label": "Gallery theory",
+          "value": "Tommy proposes that art could help authenticate romantic love.",
+          "zh": "这是 Tommy 的 hypothesis，并非 Madame 已公布的用途。"
+        },
+        {
+          "label": "Imaginary animals",
+          "value": "Tommy has begun creating intricate invented creatures.",
+          "zh": "动物图画同时联系 creativity、内心与 deferral 的希望。"
+        },
+        {
+          "label": "Private search",
+          "value": "Kathy had been looking for a possible model’s face.",
+          "zh": "翻杂志的动机在此得到解释。"
+        }
+      ],
+      "pitfall": {
+        "en": "The tape is a replacement and the Gallery explanation is a hypothesis. Neither discovery proves the childhood recovery fantasy or the deferral rumour literally true.",
+        "zh": "录音带是替代品，Gallery 解释是假说；两者都不能证明童年幻想或 deferral 传闻真实成立。"
+      },
+      "questionZh": "Tommy 关于 Gallery 的解释属于什么性质？",
+      "answerZh": "它是把艺术与 deferral 传闻连起来的希望性假说；本章没有正式确认其正确性。"
+    },
+    {
+      "id": 16,
+      "part": 2,
+      "title": "Art caught between friends",
+      "summary": "Back at the Cottages, the Norfolk trip becomes a subject everyone avoids. Kathy does not openly tell Ruth about the replacement tape, and delay gradually gives an innocent gift the feeling of a guilty secret. Meanwhile, departures for carer training become harder to ignore, including those of Alice F. and Gordon C. The students’ protected interval is visibly ending. Tommy shows Kathy his highly detailed imaginary animals. She is drawn to their vulnerability but struggles to offer direct praise, partly because of the complicated history around creativity and their friendship. Ruth eventually learns about the drawings and the tape. Private conversations become material she can use to manage the relationship between Kathy and Tommy. In a churchyard confrontation, Ruth mocks Tommy’s hope of presenting his animals to Madame and claims that Kathy also finds them ridiculous. Kathy knows this distorts her response, yet fails to challenge it or offer reassurance. She walks away, briefly feeling triumphant before regretting her silence. The chapter shows harm spreading through more than one person’s cruelty: evasion, jealousy, exhaustion and the desire to escape embarrassment combine to leave Tommy exposed.",
+      "events": [
+        "The Norfolk visit becomes a subject of avoidance.",
+        "Tommy shares his intricate drawings with Kathy.",
+        "Ruth speaks for Kathy; Kathy does not challenge her."
+      ],
+      "analysis": [
+        {
+          "method": "Symbolic creatures",
+          "detail": "Kathy senses vulnerability in Tommy’s invented animals.",
+          "effect": "The creatures invite concern for beings whose usefulness or normality is uncertain. Their imaginative existence can echo the students’ situation without reducing every feature to a fixed allegorical code.",
+          "zh": "动物引发对脆弱生命的关怀，可以联系学生处境；但不必把每个零件机械地对应成固定寓意。"
+        },
+        {
+          "method": "Silence as action",
+          "detail": "Kathy recognises Ruth’s distortion but leaves it unchallenged.",
+          "effect": "The scene makes inaction morally consequential. Kathy’s later self-criticism strengthens the insight that cruelty can be enabled by people who do not actively share it.",
+          "zh": "silence 不是中立。Kathy 后来的反省表明，不主动参与残酷，也可能因不行动而让残酷继续。"
+        },
+        {
+          "method": "Retrospective foreshadowing",
+          "detail": "Kathy signals that the churchyard encounter had consequences she did not then understand.",
+          "effect": "The narration enlarges an apparently small quarrel into a turning point. Readers feel the tragic disparity between an everyday decision and the irreversible separation it helps produce.",
+          "zh": "回顾叙述把“小争吵”标记为转折点。人物当时看不见后果，读者却感到普通决定可能导向无法挽回的分离。"
+        }
+      ],
+      "themes": [
+        "Art",
+        "Friendship",
+        "Silence"
+      ],
+      "question": "How is Kathy implicated in Tommy’s hurt?",
+      "answer": "She leaves Ruth’s damaging account unchallenged, even though it does not express her full response to his art.",
+      "zh": "Silence 也有 consequences；Kathy 的 regret 让她成为复杂人物，而不是完美旁观者。",
+      "sourceIds": [
+        "lc16",
+        "sp8",
+        "user-epub"
+      ],
+      "titleZh": "图画、秘密与沉默造成的伤害",
+      "summaryZh": "回到 Cottages 后，Norfolk 旅行变成大家共同回避的话题。Kathy 没有主动告诉 Ruth，Tommy 替她买了录音带；拖得越久，原本温暖的礼物越像需要隐瞒的秘密。同时，越来越多人离开去接受 carer 训练，连同届 Hailsham 学生 Alice F. 与 Gordon C. 也走了，暂时性的青春生活正在结束。Tommy 给 Kathy 看精密的想象动物，她被这些生物的脆弱感吸引，却没有直接说出赞赏。后来 Ruth 知道图画与录音带的事，私人谈话逐渐变成操纵三人关系的材料。教堂墓地里，Ruth 嘲笑 Tommy 想把动物画拿给 Madame 的希望，并声称 Kathy 也觉得这些画可笑。Kathy 知道这歪曲了自己复杂的反应，却没能否认、解释或安慰 Tommy，最终转身离开。她短暂地觉得自己赢了，随后意识到错误。关键是 silence 并非没有后果：Ruth 的主动伤害，与 Kathy 因疲惫、尴尬和自保而不行动，共同使 Tommy 被孤立。",
+      "orientation": {
+        "en": "The spring after Norfolk. Departures from the Cottages provide the background to a conflict over Tommy’s art and the friends’ private loyalties.",
+        "zh": "Norfolk 之后的春天。Cottages 的离别越来越频繁，Tommy 的艺术与三人之间的忠诚问题在这种不安中爆发。"
+      },
+      "scenes": [
+        {
+          "title": "A silence grows around Norfolk",
+          "titleZh": "不谈，也会改变事情",
+          "text": "The group leaves the outing largely unspoken, and Kathy keeps the tape in her collection without deliberately displaying it. What initially feels like avoiding trouble gradually becomes concealment. At the same time, friends are leaving for training. These overlapping silences matter because the characters have less shared time than they realise, but are losing the habit of speaking honestly precisely when it could preserve closeness.",
+          "zh": "不谈旅行、不主动提录音带，最初像是避免冲突，后来却变成隐瞒。朋友也不断离开。读者看见一种危险：共同时间正在减少，他们却更少坦诚交流，失去修复关系的机会。"
+        },
+        {
+          "title": "Mechanical detail, emotional vulnerability",
+          "titleZh": "精密外形下的脆弱感",
+          "text": "Tommy’s animals are intricately constructed and unusual rather than straightforward copies of real species. Kathy becomes concerned for these creatures, just as Tommy has worried about how they would survive or protect themselves. Their appeal comes partly from fragility. Yet she struggles to translate this response into praise, showing the distance between feeling tenderness and being able to communicate it within a tense relationship.",
+          "zh": "这些动物不是简单照着真实物种画，而是精密、奇异的想象生物。Kathy 甚至担心它们如何生存，回应了 Tommy 的关心。脆弱使作品动人，但她难以把感动直接说出来，体现 feeling 与 expression 的距离。"
+        },
+        {
+          "title": "The churchyard accusation",
+          "titleZh": "墓地里未说出口的辩护",
+          "text": "Ruth turns Kathy’s complicated private response into the simple claim that both girls laugh at Tommy. Kathy recognises the distortion, but any explanation seems socially dangerous. Walking away briefly feels like winning control of the scene. Her later regret overturns that impression: withdrawing may protect her from immediate discomfort while allowing Tommy to believe that the people closest to him jointly despise his work.",
+          "zh": "Ruth 把复杂的私人反应压缩成“我们都笑你”。Kathy 觉得解释太困难，离开一度像夺回主动权。但事后她知道，这种自保让 Tommy 以为最亲近的人一起否定他。沉默因此成为伤害的一部分。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Early departures",
+          "value": "Alice F. and Gordon C. leave for carer training.",
+          "zh": "两人离开显示这段过渡生活即将结束。"
+        },
+        {
+          "label": "Artwork",
+          "value": "Intricate imaginary animals, with delicate and mechanical-looking details.",
+          "zh": "注意作品的 vulnerable 感，而不只是“怪”。"
+        },
+        {
+          "label": "Confrontation setting",
+          "value": "A churchyard.",
+          "zh": "争执发生在墓地环境里，预示分离与失去。"
+        },
+        {
+          "label": "Kathy’s choice",
+          "value": "She leaves without correcting Ruth’s version of her response.",
+          "zh": "她并非完全赞同 Ruth，却也没有有效反驳。"
+        }
+      ],
+      "pitfall": {
+        "en": "Do not equate Kathy’s silence with complete agreement. Her inner account reveals tenderness, fear and regret that Tommy cannot see.",
+        "zh": "不要把 Kathy 沉默直接等同于完全赞同 Ruth。叙述让读者知道她有温柔、畏惧与后悔，但 Tommy 看不到这些。"
+      },
+      "questionZh": "Kathy 怎样也参与了对 Tommy 的伤害？",
+      "answerZh": "她没有纠正 Ruth 歪曲自己反应的说法；即使内心不认同，沉默仍让 Tommy 感到被两人共同嘲笑。"
+    },
+    {
+      "id": 17,
+      "part": 2,
+      "title": "Leaving the Cottages",
+      "summary": "After the churchyard argument, the three friends behave as though they can return to normal, but their relationships have changed. Ruth and Tommy continue the outward gestures of a couple while becoming less close. More students leave for carer training, and the essays that once connected the newcomers to Hailsham lose their importance. Kathy senses that abandoning them also weakens their shared identity. She eventually raises the hurtful treatment of Tommy with Ruth. Ruth appears willing to discuss their situation, but redirects the conversation by claiming that Tommy would not regard Kathy as a suitable girlfriend because of her past relationships. Kathy receives this as painful information, although readers must remember that it comes through Ruth rather than Tommy himself. The girls then imagine a group trip to Dartmoor. A childhood memory about a cake and the forbidden rhubarb patch ought to restore their closeness, but Ruth professes not to understand why the patch mattered. Kathy finds this apparent rejection of shared knowledge unbearable. She applies for carer training and leaves the Cottages. The separation results from accumulating pressures and missed opportunities, not one quarrel alone.",
+      "events": [
+        "Kathy confronts Ruth about Tommy.",
+        "Ruth claims Tommy would reject Kathy romantically.",
+        "Kathy applies for training and leaves."
+      ],
+      "analysis": [
+        {
+          "method": "Extended imagery of separation",
+          "detail": "Kathy describes broader forces pulling their interwoven lives apart.",
+          "effect": "The retrospective perspective prevents a simplistic single-cause explanation. Personal choices matter, but institutional schedules and the fading of a shared environment also narrow the chances for repair.",
+          "zh": "分离意象说明原因不是单一事件。个人选择重要，制度安排与共同环境的消失同样使关系难以修复。"
+        },
+        {
+          "method": "Mediated testimony",
+          "detail": "Ruth reports Tommy’s supposed view of Kathy.",
+          "effect": "The scene requires the reader to distinguish a character’s claim from independently established truth. It also shows how controlling information can shape another person’s choices without an explicit command.",
+          "zh": "Ruth 掌握信息的转述权，就能影响 Kathy 对未来的判断。这是通过叙述而非直接命令进行的控制。"
+        },
+        {
+          "method": "Memory as shared language",
+          "detail": "A minor childhood rule becomes the focus of an emotional rupture.",
+          "effect": "The rhubarb incident matters because recognition would confirm continuing belonging. Apparent forgetting threatens the friendship more deeply than the factual importance of the memory would suggest.",
+          "zh": "记忆的价值在于相认。Ruth 看似忘记小事，却使 Kathy 感到共同过去被抛弃；细节的情感重量大于它表面的重要性。"
+        }
+      ],
+      "themes": [
+        "Love",
+        "Memory",
+        "Lost time"
+      ],
+      "question": "Why should Ruth’s account of Tommy’s preferences not be accepted uncritically?",
+      "answer": "It is mediated through Ruth, whose jealousy and desire to retain control may shape what she says.",
+      "zh": "Ruth 的 reported speech 不等于 Tommy 亲口确认；这次 separation 让 lost time 更沉重。",
+      "sourceIds": [
+        "lc17",
+        "sp8",
+        "user-epub"
+      ],
+      "titleZh": "离开之前，没有完成的和解",
+      "summaryZh": "墓地争执后，三人表面上恢复日常，却已经无法回到从前。Ruth 与 Tommy 仍做出情侣的动作，内心却疏远；越来越多同学离开，原本维系 Hailsham 身份的 essay 也失去吸引力。Kathy 想留住读书与写作的共同习惯，感到它们一旦消散，彼此的联系也会跟着松开。她终于与 Ruth 谈到对 Tommy 的伤害，但 Ruth 将话题转成一个令人受挫的“忠告”：据她说，Tommy 不会把 Kathy 当女朋友，因为他介意她以前的交往经历。读者必须记住，这只是 Ruth 的转述，而非 Tommy 亲口表达。两人随后想象去 Dartmoor 旅行，话题本可带来亲密，却因一段童年回忆破裂：Kathy 说起蛋糕被风吹进 rhubarb patch，Ruth 装作不懂那里有什么禁忌。对 Kathy 而言，这不是忘记一个小细节，而像是否认她们共同拥有的过去。她很快申请 carer 训练，离开 Cottages。分离由多种力量累积造成，并非一次争吵就能解释。",
+      "orientation": {
+        "en": "The end of Part Two. Friendships are weakening while departure for training increasingly seems the normal next step.",
+        "zh": "第二部分结尾。关系逐渐疏离，而离开去训练越来越被视为理所当然的下一步。"
+      },
+      "scenes": [
+        {
+          "title": "The essay loses its hold",
+          "titleZh": "essay 为什么不再重要？",
+          "text": "Students discover that they can leave for training without finishing their essays. The task therefore loses the authority it inherited from Hailsham. Kathy tries to maintain enthusiasm because she senses a second loss underneath the practical one: giving up the shared assignment means accepting that their old community no longer organises their lives. Her resistance is emotional, not simply a concern about academic deadlines.",
+          "zh": "大家知道不完成 essay 也能离开，于是作业失去约束力。Kathy 在意的并非分数，而是它象征的共同身份。放弃 essay，也像承认 Hailsham 不再把他们连接在一起。"
+        },
+        {
+          "title": "Advice that closes a possibility",
+          "titleZh": "以忠告形式关闭一种可能",
+          "text": "Ruth tells Kathy that Tommy values her but would not want a relationship with her. She frames the claim as helpful honesty and invokes his alleged preferences about girlfriends. Kathy responds outwardly calmly, which does not mean she is unaffected. Because Tommy is absent from the conversation, the reader must assess the claim through Ruth’s interests, including insecurity about losing the position she occupies between them.",
+          "zh": "Ruth 把伤人的说法包装成坦诚帮助。Kathy 表面平静，不代表没有受伤。Tommy 不在场，因此读者应考虑信息经过 Ruth 的利益与焦虑过滤，不能直接把它当成 Tommy 的真实想法。"
+        },
+        {
+          "title": "A small memory becomes a breaking point",
+          "titleZh": "小回忆为何成为转折点",
+          "text": "The girls imagine travelling together and briefly recover an easy conversational rhythm. Kathy then recalls the cake blown into the rhubarb patch at Hailsham. Ruth’s professed ignorance of the familiar restriction feels deliberately false to Kathy. The detail matters because shared memory has been their remaining language of belonging. Kathy’s departure follows when that language itself seems no longer dependable, amid the larger movement towards training.",
+          "zh": "共同旅行的想象一度带来亲密，但 Ruth 对 rhubarb patch 的装糊涂使 Kathy 无法承受。共同记忆本是最后的纽带；现在连这个纽带也似乎被否认。离开因此既是生活阶段变化，也是一次情感上的撤退。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Imagined destination",
+          "value": "Dartmoor.",
+          "zh": "两人设想一起去的荒野地区是 Dartmoor，并未真正出发。"
+        },
+        {
+          "label": "Childhood memory",
+          "value": "James B. carries a cake; wind blows its top layer into the rhubarb.",
+          "zh": "蛋糕与 rhubarb patch 的细节唤起共同的 Hailsham 规则。"
+        },
+        {
+          "label": "Training",
+          "value": "The essays do not have to be completed before leaving.",
+          "zh": "离开不必先完成 essay，使其象征意义也逐渐减弱。"
+        },
+        {
+          "label": "Decision",
+          "value": "Kathy applies for carer training and leaves the Cottages.",
+          "zh": "第二部分以 Kathy 离开结束，而不是三人完整和解。"
+        }
+      ],
+      "pitfall": {
+        "en": "The Dartmoor trip is imagined, not an event. Ruth’s account of Tommy’s feelings is unconfirmed and should remain attributed to her.",
+        "zh": "Dartmoor 旅行只是想象，没有发生；Tommy 的择偶态度由 Ruth 转述，必须保留这个信息来源。"
+      },
+      "questionZh": "为什么不能不加怀疑地接受 Ruth 对 Tommy 想法的转述？",
+      "answerZh": "因为她的嫉妒、不安全感与维持关系中地位的需要，都可能影响她选择说什么、怎样说。"
+    },
+    {
+      "id": 18,
+      "part": 3,
+      "title": "What holds a life together?",
+      "summary": "Part Three turns to Kathy’s adult working life. She is good at caring for donors, but the job involves isolation, exhaustion and repeated exposure to suffering. At a service station she meets Laura, whose worn-down appearance reveals how differently people cope. They discuss Ruth’s difficult first donation and the possibility that Kathy might become her carer. News of Hailsham’s closure also unsettles Kathy. She remembers balloons held together by a clown and imagines their strings being cut: the school had remained a common point of connection even after its students scattered. A few weeks after seeing Laura, Kathy begins caring for Ruth in Dover. Their first meeting is warm, but the old relationship does not simply return. Unease and mistrust reappear, and caring duties cannot automatically repair what happened at the Cottages. A rumour about an abandoned fishing boat gives them something new to discuss. Ruth repeatedly expresses interest in visiting it; Kathy recognises that the journey could also include Tommy, whose recovery centre is nearby. They arrange the outing, creating a practical opportunity for a reunion that direct conversation has not achieved.",
+      "events": [
+        "Laura tells Kathy about Ruth’s condition.",
+        "Hailsham’s closure makes their common past feel fragile.",
+        "Kathy becomes Ruth’s carer and plans the boat visit."
+      ],
+      "analysis": [
+        {
+          "method": "Juxtaposition of carers",
+          "detail": "Kathy’s competence is placed beside Laura’s visible fatigue.",
+          "effect": "The comparison shows varied responses to institutional pressure. It prevents professional success from being mistaken for proof that the system is humane or harmless.",
+          "zh": "不同 carer 的状态并置，使“工作做得好”无法成为制度没有伤害的证据。"
+        },
+        {
+          "method": "Simile and remembered image",
+          "detail": "Kathy connects the school’s closure with separated balloons.",
+          "effect": "An ordinary sight becomes a language for an emotion she struggles to explain directly. The image makes belonging appear fragile and dependent on a shared point of attachment.",
+          "zh": "日常气球被转化为表达情感的语言，突出 belonging 的脆弱与对共同支点的依赖。"
+        },
+        {
+          "method": "Indirect reconciliation",
+          "detail": "An excursion is planned before the old grievances are resolved.",
+          "effect": "Relationships can reopen through shared action rather than a complete verbal settlement. This creates hope while leaving the unresolved tensions available to reappear.",
+          "zh": "reconciliation 不一定从道歉开始，也可从共同做一件事开始。但行动创造机会，并不保证旧问题已经消失。"
+        }
+      ],
+      "themes": [
+        "Memory",
+        "Care",
+        "Loss"
+      ],
+      "question": "Why does Hailsham’s closure matter beyond the loss of a building?",
+      "answer": "It removes a shared point of belonging that connected former students to one another.",
+      "zh": "Hailsham 是 shared identity 的连接点；closure 使他们像失去绳结的 balloons。",
+      "sourceIds": [
+        "lc18",
+        "sp9",
+        "user-epub"
+      ],
+      "titleZh": "Hailsham 消失后，什么还把他们连在一起？",
+      "summaryZh": "第三部分进入 Kathy 的成年工作生活。她擅长当 carer，但频繁驾车、独处、面对病痛和死亡，使这份工作并不轻松。她在服务区遇见疲惫的 Laura，对照出制度对不同人的消耗。两人谈到 Ruth 第一次 donation 后状况不好，Laura 建议 Kathy 去照顾她。Hailsham 关闭的消息也让 Kathy 不安：她想起小丑手中被共同抓住绳子的气球，仿佛一旦绳子被剪断，原本属于同一群体的气球就散开了。学校虽然早已不是他们的住所，却仍是精神上的共同中心。几周后，Kathy 到 Dover 成为 Ruth 的 carer。重逢起初温暖，可旧日的不信任很快重新出现；做身体护理，并不能自动修复情感。一个关于搁浅渔船的传闻提供了新话题。Ruth 反复谈想去看船，Kathy 看出路线也可经过 Tommy 所在的 Kingsfield。她们最终安排出行。三人不是先把话说清楚再重聚，而是借一次具体旅行创造重新说话的机会。",
+      "orientation": {
+        "en": "Several years after the Cottages. Kathy is a carer; Ruth has already made her first donation, while the former students are dispersed across the country.",
+        "zh": "距离 Cottages 已过去多年。Kathy 是 carer，Ruth 已进行第一次 donation，旧同学分散在各地。"
+      },
+      "scenes": [
+        {
+          "title": "The cost of caring",
+          "titleZh": "照顾别人也会消耗自己",
+          "text": "Kathy describes both professional competence and the loneliness of travelling between centres. Laura’s exhaustion makes those costs visible in a familiar person. Their reunion is initially awkward, showing that a shared past does not instantly overcome years of separation. Yet the meeting opens a route back to Ruth. Care can build human connection even while the larger system relies on that care to continue functioning.",
+          "zh": "Kathy 的能力不等于她不孤独；Laura 的疲惫则把照护劳动的代价具体化。久别重逢并不自动亲密，但这次谈话让 Kathy 重新走向 Ruth。care 有真实温情，也在帮助制度继续运转。"
+        },
+        {
+          "title": "The balloon image",
+          "titleZh": "气球与被剪断的联系",
+          "text": "Hailsham’s closure should make little practical difference to former pupils who already live elsewhere. Kathy nevertheless imagines a group of balloons losing the shared grip that holds their strings together. The image explains the difference between a physical place and an emotional centre. Without the school continuing somewhere, she fears that their separate lives no longer belong to a recognisable common history.",
+          "zh": "关闭学校对成年人的生活安排似乎影响不大，却摧毁了共同的精神坐标。气球依靠同一只手联系在一起，正如旧同学依靠“那里仍然存在”的想象维持归属。这是 place 与 belonging 的区别。"
+        },
+        {
+          "title": "The boat as a conversational opening",
+          "titleZh": "船先成为话题，才成为象征",
+          "text": "Kathy and Ruth struggle to speak comfortably despite the practical intimacy of medical care. The reported boat gives them a subject outside the old conflict. Ruth wants an excursion after confinement in centres, and also knows Tommy is nearby. Kathy acknowledges both motives without dismissing the boat as an excuse. A small shared project gives their damaged friendship a manageable way to move forward.",
+          "zh": "两人需要一个不直接触及旧伤的新话题。Ruth 既真的想出门看船，也知道 Tommy 在附近。Kathy 没有把这完全看成借口；共同计划让她们能以较安全的方式重新接近。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Laura meeting",
+          "value": "A service-station car park, years after the Cottages.",
+          "zh": "Laura 的疲惫与 Kathy 的职业自信形成对照。"
+        },
+        {
+          "label": "Ruth’s centre",
+          "value": "Dover, with modern white-tiled rooms.",
+          "zh": "Kathy 在 Dover 照顾第一次 donation 后恢复不佳的 Ruth。"
+        },
+        {
+          "label": "Hailsham image",
+          "value": "Balloons whose strings are held together, then imagined cut apart.",
+          "zh": "气球意象解释共同来源被切断的感觉。"
+        },
+        {
+          "label": "Tommy’s centre",
+          "value": "Kingsfield, near the proposed boat excursion.",
+          "zh": "看船的路线提供拜访 Tommy 的机会。"
+        }
+      ],
+      "pitfall": {
+        "en": "Hailsham’s closure is not evidence that the donation programme has ended. It is the loss of a particular school and its reforming approach.",
+        "zh": "Hailsham 关闭不代表 donation 制度结束；消失的是特定学校与它较人道的教育方式。"
+      },
+      "questionZh": "Hailsham 关闭为什么不只是失去一栋建筑？",
+      "answerZh": "因为它是旧同学共同的身份与归属中心；即使分散各地，他们仍通过这个来源想象自己彼此相连。"
+    },
+    {
+      "id": 19,
+      "part": 3,
+      "title": "The boat and the apology",
+      "summary": "Kathy collects Tommy and takes him and Ruth to the abandoned boat. Old patterns briefly return: teasing can bring Kathy and Tommy together at Ruth’s expense, reminding readers that affection and cruelty are not neatly divided between the friends. The walk exposes Ruth’s physical weakness, and Tommy helps steady her. They cannot reach the boat because of the marshy ground, so observe its decay from a distance. Conversation turns towards Hailsham and the uncertain course of donations. On the drive back, an advertising image recalls Ruth’s former office dream. Kathy presses her about giving up, and the exchange leads somewhere unexpected. Ruth admits that she had misled Kathy about her feelings and, more seriously, deliberately kept Kathy and Tommy apart. She asks them to repair what she damaged by becoming a couple and seeking a deferral. She has obtained Madame’s address and gives it to them. Kathy does not immediately resolve everything, but the confession changes her relationship with Ruth. After a calmer period together, Ruth dies following her second donation. Kathy later remembers trying to communicate that she would become Tommy’s carer, while acknowledging uncertainty about what Ruth understood.",
+      "events": [
+        "The friends visit the decaying boat.",
+        "Ruth acknowledges her interference and offers Madame’s address.",
+        "Ruth later dies after her second donation."
+      ],
+      "analysis": [
+        {
+          "method": "Symbolic setting",
+          "detail": "The stranded boat is surrounded by marshes and dead tree trunks.",
+          "effect": "Its arrested movement and deterioration offer a visual counterpart to restricted, vulnerable lives. The friends’ response remains personal, so avoid treating the landscape as a single coded message with only one meaning.",
+          "zh": "环境可与受限制、易受损的生命相呼应，但人物也在其中得到陪伴；象征不应被压成唯一答案。"
+        },
+        {
+          "method": "Confession and change in agency",
+          "detail": "Ruth openly identifies her role in keeping the couple apart.",
+          "effect": "Naming her wrongdoing changes her from someone managing others’ knowledge to someone surrendering that control. Her late generosity complicates earlier judgement without cancelling the harm.",
+          "zh": "Ruth 从控制别人知道什么，变成公开自己的责任。这样的转变复杂化了人物，却没有取消此前的伤害。"
+        },
+        {
+          "method": "Qualified retrospective knowledge",
+          "detail": "Kathy cannot know for certain what Ruth understood near the end.",
+          "effect": "The qualification preserves the limits of first-person narration at an emotionally tempting moment. Readers can recognise the value of Kathy’s attempted communication without turning her hope into certainty.",
+          "zh": "最感人的时刻也保留“不确定”，体现 first-person 的知识边界。愿望与理解值得珍惜，却不能被写成全知事实。"
+        }
+      ],
+      "themes": [
+        "Regret",
+        "Love",
+        "Mortality"
+      ],
+      "question": "Why is Ruth’s final intervention both generous and limited?",
+      "answer": "She tries to repair harm, but cannot restore lost time and does not know whether a deferral is possible.",
+      "zh": "Ruth 的 apology 有意义，却无法真正补回 lost time；redemption 并不等于消除后果。",
+      "sourceIds": [
+        "lc19",
+        "sp9",
+        "user-epub"
+      ],
+      "titleZh": "搁浅的船，与迟来的道歉",
+      "summaryZh": "Kathy 接上 Tommy，与 Ruth 一起去看搁浅的船。重聚并非立刻温柔：旧日的玩笑和排斥模式又出现，Kathy 与 Tommy 也会因一起取笑 Ruth 而感到接近，所以不能把伤害只归给一个人。走向沼泽时，Ruth 的体力明显不足，Tommy 扶着她。三人无法真正走到船边，只能远望褪色、腐朽的船体；他们谈到 Hailsham，也谈到 donation 的不确定性。回程中，广告画面勾起 Ruth 曾经的办公室梦想，Kathy 追问她为何放弃，随后 Ruth 做出意外坦白：她承认自己曾让 Kathy 对正常感受感到羞耻，更承认故意拆散 Kathy 与 Tommy。她希望两人修复被她破坏的可能，成为情侣，并凭相爱申请 deferral。她已查到 Madame 的地址，交给他们。道歉没有把失去的时间还回来，也没有保证延期存在，却改变了她与 Kathy 相处的方式。之后 Ruth 在第二次 donation 后去世。Kathy 回忆自己曾用表情传达会去照顾 Tommy，但明确承认无法确定 Ruth 是否真正理解。",
+      "orientation": {
+        "en": "The boat excursion brings the three friends together as adults. Ruth and Tommy are donors; Kathy drives and acts as carer.",
+        "zh": "成年后的三人重聚：Ruth 与 Tommy 是 donors，Kathy 开车并承担照护责任。"
+      },
+      "scenes": [
+        {
+          "title": "A reunion with old inequalities",
+          "titleZh": "重逢仍带着旧关系",
+          "text": "The friends can still slip into familiar teasing, alliances and discomfort. Kathy notices moments when sharing Tommy’s amusement makes her feel close to him, even when Ruth is hurt. Ruth’s weakness during the walk interrupts these social games with bodily reality. Tommy’s practical support then briefly changes the pattern again: care becomes visible as an immediate response to vulnerability rather than a competition for closeness.",
+          "zh": "旧有结盟与取笑再次出现，说明 Kathy 也可能在排斥别人时体验亲密。Ruth 行走困难又把身体脆弱带到面前；Tommy 扶她，暂时用实际照顾代替关系中的竞争。"
+        },
+        {
+          "title": "Seeing a vessel that cannot move",
+          "titleZh": "看着一艘无法出发的船",
+          "text": "The boat is stranded beyond the safe ground, with faded paint and rotting timber. It invites associations with lives whose promised movement has been halted. Yet it also gives the friends a shared experience outside their centres and a quiet place to remember Hailsham. Read both aspects: the scene evokes decay and confinement, while the act of going together briefly enlarges their remaining world.",
+          "zh": "船不能再航行，三人也不能自由选择未来；但出行本身仍让他们暂时离开中心，共享安静的风景。symbolism 应同时注意 decay 与真实陪伴，不能只把船简化成“死亡”。"
+        },
+        {
+          "title": "Repair without guarantees",
+          "titleZh": "弥补并不等于能重来",
+          "text": "Ruth names specific harms rather than offering a vague apology. Obtaining Madame’s address turns remorse into an attempted practical remedy. Nevertheless, she cannot return lost years or know whether the deferral rumour is true. Her final recovery-centre exchanges with Kathy allow tenderness and forgiveness to coexist with uncertainty. The novel makes the effort morally significant without pretending that a good intention can undo every consequence.",
+          "zh": "Ruth 具体承认误导与拆散，并找来地址，令 remorse 变成行动。但她不能归还时间，也不知道 deferral 是否存在。弥补仍然有意义，只是不能把所有后果抹去。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Boat condition",
+          "value": "An abandoned fishing boat, once sky blue, now decaying in marshland.",
+          "zh": "曾经天蓝色的渔船已搁浅腐朽。"
+        },
+        {
+          "label": "Access",
+          "value": "The friends stop short of the boat because the ground is too wet.",
+          "zh": "他们没有登船，不要把远望写成进入船舱。"
+        },
+        {
+          "label": "Ruth’s gift",
+          "value": "Madame’s address, intended to help Kathy and Tommy seek a deferral.",
+          "zh": "地址是补救行动，但不证明 deferral 真实存在。"
+        },
+        {
+          "label": "Ruth’s death",
+          "value": "She dies after her second donation.",
+          "zh": "死亡次序要记清：本章是 Ruth 第二次 donation 之后。"
+        }
+      ],
+      "pitfall": {
+        "en": "Ruth’s apology does not establish that a deferral is available, and the characters do not board the boat.",
+        "zh": "Ruth 的道歉与地址不能证明延期存在；三人也没有真正走上船。"
+      },
+      "questionZh": "为什么 Ruth 最后的弥补既慷慨，又有局限？",
+      "answerZh": "她试图修复自己造成的伤害，但无法归还失去的时间，也不知道 deferral 是否真的可能。"
+    },
+    {
+      "id": 20,
+      "part": 3,
+      "title": "Love under a deadline",
+      "summary": "Almost a year after the boat trip, Kathy becomes Tommy’s carer following his third donation. At Kingsfield, the relationship develops through ordinary pleasures: reading aloud, talking, resting and becoming physically intimate. They feel comfortable together, yet Kathy also senses that the relationship has arrived painfully late. The intimacy does not erase the years when they could have been together. Tommy’s animal drawings reopen another unresolved part of their past. When he invites Kathy’s opinion, the gesture helps put the Cottages conflict behind them and indicates that he is still preparing for a possible deferral request. Kathy notices that the newer drawings can look more laboured than the earlier ones. This perception deepens her fear that time and circumstances have changed what they are trying to recover. Both hesitate to speak directly about their plan, partly because hope is vulnerable and other donors do not discuss such possibilities. As summer ends and a fourth donation becomes more likely, delay becomes impossible. Kathy verifies that Madame lives at the address Ruth obtained. She and Tommy agree to visit with his drawings, turning their private hope into a request that must confront the outside world.",
+      "events": [
+        "Kathy cares for Tommy after his third donation.",
+        "They begin a romantic relationship.",
+        "They prepare to visit Madame with his drawings."
+      ],
+      "analysis": [
+        {
+          "method": "Ordinary domestic detail",
+          "detail": "Reading and drawing structure the couple’s afternoons.",
+          "effect": "The quiet rhythm makes their relationship recognisably human and shows the particular experiences that institutional time threatens to remove.",
+          "zh": "日常 rhythm 让“人性”不再只是论点，而是读者能够理解的共同生活。"
+        },
+        {
+          "method": "Motif of belatedness",
+          "detail": "Kathy worries that the relationship and the drawings have arrived too late.",
+          "effect": "Time is experienced qualitatively as well as counted in years. Some possibilities cannot simply be recovered by returning to an old object, practice or affection.",
+          "zh": "belatedness 强调时间不仅是数量。重新开始旧关系、旧创作，并不意味着能回到原来的时刻。"
+        },
+        {
+          "method": "Suspense through postponement",
+          "detail": "The pair delay talking about the plan until another donation looms.",
+          "effect": "Withholding creates emotional tension rooted in fear rather than mere mystery. Their reluctance reveals how hope can be protected by remaining untested, even when testing it becomes necessary.",
+          "zh": "延迟谈话源于害怕希望破灭。悬念因此来自人物情感，而不只是作者藏信息的技巧。"
+        }
+      ],
+      "themes": [
+        "Love",
+        "Art",
+        "Lost time"
+      ],
+      "question": "How has Tommy’s purpose in making art become more urgent?",
+      "answer": "He hopes it can help secure a deferral before another donation, so creative expression carries imagined life-changing stakes.",
+      "zh": "Love 带来快乐，但 donation 的 deadline 使每一次普通相处都伴随 urgency。",
+      "sourceIds": [
+        "lc20",
+        "sp10",
+        "user-epub"
+      ],
+      "titleZh": "迟来的爱情与不断逼近的期限",
+      "summaryZh": "看船后将近一年，Tommy 第三次 donation 后，Kathy 成为他的 carer。在 Kingsfield，两人通过朗读、聊天、休息与亲密关系建立平静的共同生活。幸福并不虚假，但 Kathy 感到它来得太迟：现在拥有彼此，无法补回以前错过的年月。Tommy 的动物画又连接到 Cottages 的旧伤。当他请 Kathy 给意见时，这既像放下过去的冲突，也表明他仍在为可能的 deferral 做准备。Kathy 却觉得新画不如以前自然，有些显得费力，进一步触发“错过了时机”的痛感。两人迟迟没有直接谈申请，因为希望一旦说出来就更容易受伤，而其他 donors 也没有在谈这种可能。夏天将结束，第四次 donation 的通知越来越可能到来，不能再无限拖延。Kathy 终于确认 Ruth 找到的地址无误，亲眼看到 Madame 进入房子。他们决定带画去拜访。爱情在这里提供真实的日常温暖，也暴露时间的不公平：越是珍惜共同生活，越看见它无法由自己决定长度。",
+      "orientation": {
+        "en": "Kingsfield, after Tommy’s third donation. Kathy has become both his carer and his partner; their plans develop under the prospect of another operation.",
+        "zh": "地点是 Kingsfield，Tommy 已经历第三次 donation。Kathy 同时是照护者与伴侣，下一次手术构成不断逼近的压力。"
+      },
+      "scenes": [
+        {
+          "title": "The value of ordinary afternoons",
+          "titleZh": "普通下午为什么珍贵？",
+          "text": "Kathy reads while Tommy rests or draws; they talk easily and enjoy being together. These scenes give substance to their love through unremarkable shared time. Because their future is restricted, the apparent smallness of these pleasures becomes important. The reader sees what a longer relationship might contain, making the threatened loss more concrete than an abstract statement that they wish to live longer.",
+          "zh": "朗读、休息、画画并不戏剧化，却让爱情具体可感。被剥夺的不是抽象的“几年”，而是无数这样的普通下午。平凡细节因此放大了制度对生命时间的侵占。"
+        },
+        {
+          "title": "Asking for an opinion again",
+          "titleZh": "再次请她评价画作",
+          "text": "Tommy’s invitation to discuss the animals implicitly trusts Kathy after the painful churchyard incident. For her it is a chance for repair, but also a reminder that the pictures may be intended as evidence for a deferral. Her uneasy comparison with the earlier work brings time into the artwork itself. Creative expression remains meaningful even while it becomes burdened with the impossible task of securing their future.",
+          "zh": "邀请 Kathy 评价图画表示重新信任，也提醒她图画承载争取延期的期待。她觉得作品变得费力，不等于客观判定它差；这体现她对时间流逝和迟来幸福的焦虑。"
+        },
+        {
+          "title": "From a private plan to a visit",
+          "titleZh": "从不说破的希望到实际行动",
+          "text": "Neither partner wants to disturb their calm life by forcing the deferral question too soon. Yet the approach of another donation makes postponing the conversation itself a dangerous luxury. Kathy checks Madame’s address, supplying the practical knowledge their hope has lacked. The chapter ends at a threshold: the couple must take an idea developed among students to adults who may interpret the past very differently.",
+          "zh": "不谈 deferral 可以保护眼前的平静，但下一次 donation 逼迫他们行动。Kathy 确认地址，把希望变成可执行步骤。接下来，他们必须让成年权威回答学生之间形成的解释。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Timing",
+          "value": "Kathy becomes Tommy’s carer almost one year after the boat trip.",
+          "zh": "不是看船后立即成为他的 carer。"
+        },
+        {
+          "label": "Donation stage",
+          "value": "Tommy has completed his third donation; a fourth is approaching.",
+          "zh": "第三次之后重聚，第四次构成期限。"
+        },
+        {
+          "label": "Room detail",
+          "value": "His room contains a small school desk with a lift-up lid.",
+          "zh": "书桌容纳画画，也把童年学校的物品带入成人治疗空间。"
+        },
+        {
+          "label": "Read-aloud books",
+          "value": "Kathy mentions The Odyssey and One Thousand and One Nights.",
+          "zh": "朗读显示共同生活的日常温度。"
+        }
+      ],
+      "pitfall": {
+        "en": "The drawings’ loss of freshness is Kathy’s impression, not an objective verdict on Tommy’s artistic worth.",
+        "zh": "画作“不如以前新鲜”是 Kathy 的感受，不是作者对 Tommy 艺术价值的客观判决。"
+      },
+      "questionZh": "Tommy 画画的目的为什么变得更加迫切？",
+      "answerZh": "他希望作品有助于在下一次 donation 前争取 deferral，因此创作被赋予了可能改变剩余人生的重量。"
+    },
+    {
+      "id": 21,
+      "part": 3,
+      "title": "Asking for more time",
+      "summary": "Kathy and Tommy go to Littlehampton to visit Madame. Their preparation and nervousness show that they have invested the journey with more than curiosity: it may decide whether they can keep their new life together. They follow Madame to her house and introduce themselves as former Hailsham students. Inside, familiar objects and the collection of student work connect the domestic space with their childhood. Kathy explains that they love each other and asks about postponing donations. Tommy offers his theory that the Gallery supplies evidence of students’ inner selves, allowing true love to be recognised. He worries that failing to create art at Hailsham has left Madame without the necessary evidence, so presents the animals he has brought. Madame’s emotional and sometimes bitter responses do not confirm the theory. Kathy gradually realises that some questions Madame appears to direct at them are actually intended for someone listening in the darkened part of the room. A voice answers, and Madame brings forward Miss Emily in a wheelchair. The chapter ends with the former head guardian ready to speak. Its suspense separates the students’ interpretation of Hailsham from the explanation the adults will give.",
+      "events": [
+        "Kathy and Tommy approach Madame at her home.",
+        "They explain their love and the Gallery theory.",
+        "Miss Emily appears before the full explanation."
+      ],
+      "analysis": [
+        {
+          "method": "Dramatic setting and delayed disclosure",
+          "detail": "Kathy discovers that someone has been listening from the darkened room.",
+          "effect": "The staging turns incomplete knowledge into a spatial experience. It reminds readers that the students’ understanding has always developed inside arrangements they did not control.",
+          "zh": "光线与空间将 partial knowledge 具象化：学生始终在自己无法掌控的安排中理解世界。"
+        },
+        {
+          "method": "The logic of proof",
+          "detail": "Tommy believes his artwork must qualify him for recognition of his love.",
+          "effect": "His anxiety exposes the injustice of treating personal humanity as something to be certified by powerful observers. The reader’s empathy exceeds the supposed procedure.",
+          "zh": "把爱与人性变成需要证明、审核的东西，本身就暴露不平等；读者的同理心已超越这种程序。"
+        },
+        {
+          "method": "Ambiguous emotional response",
+          "detail": "Madame’s tears and bitterness accompany, rather than answer, the request.",
+          "effect": "Compassion is not equivalent to power or willingness to grant freedom. The distinction prevents readers from mistaking an emotionally intense encounter for practical hope fulfilled.",
+          "zh": "compassion 不等于有能力或愿意给自由。Madame 的情绪很强烈，却没有回答制度是否能改变。"
+        }
+      ],
+      "themes": [
+        "Hope",
+        "Authority",
+        "Memory"
+      ],
+      "question": "Does Madame’s emotional response prove that deferrals exist?",
+      "answer": "No. Feeling moved by the couple is different from confirming that the institution can grant their request.",
+      "zh": "Madame 的 emotion 不等于 practical power；同情无法自动转化为改变命运的能力。",
+      "sourceIds": [
+        "lc21",
+        "sp10",
+        "user-epub"
+      ],
+      "titleZh": "带着图画去询问未来",
+      "summaryZh": "Kathy 与 Tommy 到 Littlehampton 拜访 Madame。他们紧张而认真，因为这次并非普通探望，而关系到能否继续拥有刚建立的共同生活。跟随 Madame 回家后，两人表明自己是以前的 Hailsham 学生。屋内的旧物与学生作品把他们带回童年，也增强了这里似乎掌握答案的感觉。Kathy 说明两人相爱，并询问能否延后 donations；Tommy 则提出自己的 Gallery 理论：艺术表现内在自我，因此可以用来判断两个人是否真正相配。他尤其担心自己小时候没有留下作品，于是拿出后来画的动物，试图补交缺失的“证据”。Madame 感动、悲痛，有时又带着苦涩，但她的情绪没有确认延期制度存在。Kathy 逐渐发现，Madame 几次看似向他们发问，实际上是在问房间暗处另一个听者。声音传来，Madame 推出轮椅上的 Miss Emily。章节在解释即将开始时结束。读者因此清楚看见：学生多年建立的理解，与掌权成人真正讲述的过去，很可能并不一致。",
+      "orientation": {
+        "en": "Littlehampton, inside Madame’s house. The couple asks about deferral before Miss Emily gives the explanation in the following chapter.",
+        "zh": "地点是 Littlehampton 的 Madame 家。两人提出延期请求；正式解释要到下一章才展开。"
+      },
+      "scenes": [
+        {
+          "title": "Entering the place that might hold an answer",
+          "titleZh": "进入被寄托答案的地方",
+          "text": "The couple identifies Madame and follows her home before speaking to her. The pursuit recalls the earlier following of Ruth’s possible, but now the hoped-for answer concerns their shared future. Familiar Hailsham objects make the house seem connected to an authoritative past. The emotional power of the setting increases their expectation, even though recognition of objects provides no evidence that the rumoured arrangement exists.",
+          "zh": "跟随 Madame 让人想到跟随 Ruth 的 possible，但这次寻找的是未来的时间。屋里的 Hailsham 旧物加强权威感，却不能证明 deferral 传闻；熟悉感与可靠证据必须区分。"
+        },
+        {
+          "title": "The anxiety of missing evidence",
+          "titleZh": "害怕自己缺少“证明”",
+          "text": "Tommy assumes that his childhood failure to make art may now count against him. Bringing the animals is therefore both vulnerable self-expression and an attempt to satisfy what he imagines to be an institutional requirement. His fear shows how deeply creativity at Hailsham became tied to personal worth. The reader can recognise his emotional humanity before any adult decides what his pictures demonstrate.",
+          "zh": "Tommy 害怕小时候没有作品，就没有资格证明自己。他带来动物画，像是在补交制度要求的材料。这暴露 creativity 如何与个人价值绑在一起；但读者早已从他的感情看见人性，不必等成人审核。"
+        },
+        {
+          "title": "A second audience in the darkness",
+          "titleZh": "暗处还有一位听者",
+          "text": "Madame repeatedly seems to ask whether the conversation should continue. Kathy eventually realises that the questions are directed beyond the students. The room’s darkness and Miss Emily’s delayed appearance make the limits of Kathy’s knowledge physically visible. Control of the encounter rests with people who can hear and interpret the couple before fully revealing themselves, preparing a reversal of the students’ assumptions.",
+          "zh": "Kathy 发现对话其实还有暗处听众。空间里的明暗把她知识有限的状态具体化：她被别人观察与判断，却尚不知道全部参与者。Miss Emily 出场因此不只是惊讶，也表现权力不对等。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Town",
+          "value": "Littlehampton.",
+          "zh": "拜访 Madame 的城镇是 Littlehampton。"
+        },
+        {
+          "label": "Madame’s name",
+          "value": "Marie-Claude.",
+          "zh": "对话中揭示 Madame 名为 Marie-Claude。"
+        },
+        {
+          "label": "What Tommy brings",
+          "value": "His animal pictures in a bag.",
+          "zh": "他希望用后来的创作弥补童年没有作品的缺口。"
+        },
+        {
+          "label": "Hidden listener",
+          "value": "Miss Emily, who appears in a wheelchair.",
+          "zh": "暗处听者是 Miss Emily。"
+        }
+      ],
+      "pitfall": {
+        "en": "Madame’s distress does not confirm the deferral story. Keep the question open until Miss Emily’s explanation in Chapter 22.",
+        "zh": "Madame 难过不等于延期获准；在第22章解释之前，不能把情绪当作制度证实。"
+      },
+      "questionZh": "Madame 的感动能证明 deferral 存在吗？",
+      "answerZh": "不能。被两人的感情打动，与确认制度可以给他们更多时间，是两回事。"
+    },
+    {
+      "id": 22,
+      "part": 3,
+      "title": "The truth about Hailsham",
+      "summary": "Miss Emily states that romantic deferrals never existed. She explains that the Gallery was intended to demonstrate the students’ humanity and support better treatment of clones, not to assess particular couples. Hailsham belonged to a reforming movement, but it never had authority to cancel the donation programme or grant the lovers extra years. She describes a public willing to benefit from medical cures while avoiding the lives that supply them. The Morningdale scandal, involving attempts to create children with enhanced abilities, strengthened wider fears and helped undermine support for humane institutions. Miss Emily also explains her disagreement with Miss Lucy: she believed sheltering children preserved a valuable childhood, even when it involved deception. Her defence includes pride, genuine care and a refusal to see full knowledge as the students’ right. Madame separately explains that Kathy’s childhood dance made her imagine an older, kinder world being lost, rather than the motherhood fantasy Kathy herself was enacting. After leaving, Kathy says Miss Lucy was right. Tommy breaks down in a dark field; Kathy holds him. He later protects his bag of drawings, although the imagined institutional purpose behind them has collapsed.",
+      "events": [
+        "Miss Emily rejects the deferral rumour.",
+        "The Gallery and Hailsham’s reforming purpose are explained.",
+        "Madame recalls the dance; Tommy later breaks down."
+      ],
+      "analysis": [
+        {
+          "method": "Revelation and reinterpretation",
+          "detail": "The Gallery’s stated purpose differs from Tommy’s hypothesis.",
+          "effect": "Earlier scenes acquire new meanings without changing what happened in them. This retrospective restructuring makes the reader confront how hope had connected genuine clues into an unsupported conclusion.",
+          "zh": "revelation 不改变旧事件，却改变其意义，显示希望如何把真实线索连成未经支持的结论。"
+        },
+        {
+          "method": "Paternalism in dialogue",
+          "detail": "Miss Emily defends deciding what knowledge the children could bear.",
+          "effect": "Her account mixes compassion with authority over other lives. The novel invites evaluation of the defence rather than treating a powerful speaker’s explanation as morally conclusive.",
+          "zh": "paternalism 是以“为你好”为由代替你决定。Miss Emily 的解释是可被质疑的立场，不是小说给出的最终道德答案。"
+        },
+        {
+          "method": "Contrast of restraint and outburst",
+          "detail": "Tommy’s physical breakdown follows the measured adult explanation.",
+          "effect": "The juxtaposition exposes what polite institutional language cannot contain. His grief restores the human cost that arguments about reform, practicality and historical necessity risk abstracting away.",
+          "zh": "尖叫与平静解释并置，重新呈现制度语言抽象掉的痛苦；历史与效率的说辞不能消除个人承受的代价。"
+        }
+      ],
+      "themes": [
+        "Humanity",
+        "Complicity",
+        "Knowledge and control"
+      ],
+      "question": "What was the Gallery actually intended to demonstrate?",
+      "answer": "That the students had human inner lives worthy of recognition, not that particular couples qualified for extra time.",
+      "zh": "Gallery 要证明 clones 的 humanity；这揭露了制度的残酷：为何他们必须先证明自己值得被当人看待？",
+      "sourceIds": [
+        "lc22",
+        "sp11",
+        "user-epub"
+      ],
+      "titleZh": "真相揭开：被照顾，不等于被解放",
+      "summaryZh": "Miss Emily 明确告诉两人：恋人可以申请 deferral 的制度从来不存在。Gallery 的目的，是向公众证明学生拥有人的内心，从而争取较人道的成长环境；它不是审核情侣的证据库。Hailsham 属于改革运动，却从未拥有取消 donation 或给予他们额外时间的权力。她解释，公众享受医疗成果，同时不愿正视器官来自怎样的生命。Morningdale 试图创造能力更强的孩子，引发社会恐惧，也使本就脆弱的改革支持崩塌。谈到 Miss Lucy，Miss Emily 认为让孩子过受保护的童年比完整知情更重要，即使保护包含欺骗。她的立场同时有真实关怀、骄傲与 paternalism：由成人决定别人应该知道多少。Madame 随后解释当年看 Kathy 跳舞为何落泪：她想的是旧有温柔世界的消失，并非 Kathy 心中抱婴儿的幻想。离开后，Kathy 表示 Miss Lucy 才是对的。Tommy 在黑暗田野里崩溃，Kathy 紧抱住他；回车上，他仍保护着装图画的包。希望中的制度用途消失了，但作品与陪伴的价值没有因此消失。",
+      "orientation": {
+        "en": "The explanation at Madame’s house, followed by the drive back and Tommy’s breakdown. Major questions about Hailsham are answered, but the donation system remains.",
+        "zh": "Madame 家中的解释与回程崩溃。关于 Hailsham 的主要疑问得到回答，但 donation 制度没有改变。"
+      },
+      "scenes": [
+        {
+          "title": "What the Gallery was actually for",
+          "titleZh": "Gallery 真正要证明什么？",
+          "text": "Miss Emily separates the collection of art from the lovers’ theory. The work helped reformers argue that clones possessed rich inner lives and deserved humane upbringing. This purpose still exposes a shocking imbalance: one group must demonstrate its humanity to another. Hailsham improved conditions, but its reforms remained inside a system that claimed the students’ bodies and did not offer them an ordinary future.",
+          "zh": "Gallery 用来证明克隆学生有丰富内心，争取人道教育。但“必须证明自己是人”本身就说明权力失衡。Hailsham 改善条件，却没有赋予学生决定身体与未来的权利。"
+        },
+        {
+          "title": "The argument over protection",
+          "titleZh": "保护与知情权的冲突",
+          "text": "Miss Emily presents sheltering as a gift that gave students happy memories and culture. Miss Lucy had wanted them to understand their futures more fully. The dispute is therefore not simply between a kind adult and an unkind one. It concerns whether comfort justifies controlling another person’s knowledge. Miss Emily’s concern about a valuable cabinet during the visit sharpens the uncomfortable limits of her attention to the couple’s devastation.",
+          "zh": "Miss Emily 强调童年幸福，Miss Lucy 强调充分理解未来。问题不是简单的好老师与坏老师，而是舒适能否成为限制知情权的理由。她同时忙于保护贵重柜子，使物品保护与学生无力改变的命运形成刺痛的对照。"
+        },
+        {
+          "title": "A truth the body cannot contain",
+          "titleZh": "身体终于承受不住的真相",
+          "text": "After the controlled conversation, Tommy’s scream breaks the narrative restraint. His rage recalls childhood outbursts but now follows an explicit recognition of their situation. Kathy holds him rather than explaining the pain away. Back in the car, he keeps the animal drawings safe. The sequence separates the failure of a hoped-for remedy from the continuing value of creative work and human attachment in the face of it.",
+          "zh": "克制的谈话后，Tommy 的尖叫使被压住的痛苦爆发。Kathy 的回应不是说理，而是拥抱。他仍护着图画，说明 deferral 希望失败，并不让 creativity 与 attachment 自动变得无价值。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Deferrals",
+          "value": "Miss Emily says the romantic scheme never existed.",
+          "zh": "不是制度刚被取消，而是这类恋爱延期从未存在。"
+        },
+        {
+          "label": "Morningdale",
+          "value": "James Morningdale sought enhanced intelligence and athleticism in created children.",
+          "zh": "丑闻涉及强化儿童能力，不是单纯发现克隆本身。"
+        },
+        {
+          "label": "Miss Lucy",
+          "value": "Her full name is Lucy Wainright; she wanted fuller disclosure.",
+          "zh": "Lucy Wainright 主张学生更完整地了解自己与未来。"
+        },
+        {
+          "label": "Two readings of the dance",
+          "value": "Kathy imagines motherhood; Madame imagines the loss of a kinder world.",
+          "zh": "两人对同一动作的意义理解不同。"
+        }
+      ],
+      "pitfall": {
+        "en": "Hailsham’s reformers did not invent deferrals and later withdraw them. Miss Emily explicitly says the rumour was never true.",
+        "zh": "不要说 Hailsham 以前提供延期、后来取消；Miss Emily 明确否定它曾经存在。"
+      },
+      "questionZh": "Gallery 真正试图证明的是什么？",
+      "answerZh": "证明学生拥有应得到承认的人类内在生命，而不是判断哪对情侣符合额外时间的资格。"
+    },
+    {
+      "id": 23,
+      "part": 3,
+      "title": "Holding on, letting go",
+      "summary": "After the failed visit, Kathy and Tommy still share affectionate moments, but their relationship changes. Tommy increasingly identifies with other donors, and the approach of his fourth donation creates fears Kathy cannot remove simply by being a good carer. They discuss disturbing rumours about what might happen beyond completion; the narrative presents these as uncertainty, not confirmed medical fact. Tommy asks for another carer, partly because facing further deterioration with Kathy beside him is emotionally difficult. His image of two people trying to hold each other in a strong river explains love’s inability to overcome every force that separates them. They also reconsider Ruth’s final intentions, and Kathy eventually recognises that her anger has gone. The final farewell is quiet and ordinary. Kathy later learns that Tommy has died. Preparing to finish caring and begin donations herself, she insists that her memories of her friends will remain with her. In Norfolk, rubbish caught along a fence prompts a brief fantasy that everything lost might gather there and Tommy might return. She consciously stops the fantasy, cries, and drives away. The ending preserves memory and dignity while leaving her future within the programme.",
+      "events": [
+        "Kathy and Tommy separate before his fourth donation.",
+        "Kathy learns of Tommy’s death.",
+        "A final Norfolk visit joins memory, fantasy and departure."
+      ],
+      "analysis": [
+        {
+          "method": "Circular motif",
+          "detail": "Norfolk returns as an imagined gathering place for lost things.",
+          "effect": "The recurring idea changes from childhood reassurance to consciously limited mourning. Repetition therefore charts development: Kathy keeps the imaginative resource but no longer expects literal recovery.",
+          "zh": "motif 从童年安慰变成清醒的哀悼。重复不是原地不动，而表现 Kathy 对幻想边界的认识。"
+        },
+        {
+          "method": "Understatement and restraint",
+          "detail": "The final farewell and Kathy’s tears are narrated without a dramatic escape or public protest.",
+          "effect": "Restraint can intensify feeling by leaving readers to register what the ordinary actions conceal. It should not be mistaken for emotional emptiness or complete approval of the system.",
+          "zh": "克制使读者感到日常动作下的巨大损失；不能把 understatement 误解为没有感情或完全赞同制度。"
+        },
+        {
+          "method": "Open limits of knowledge",
+          "detail": "Rumours about consciousness after completion remain unresolved.",
+          "effect": "The uncertainty itself is frightening and shows how little control donors possess over information about their bodies. Analysis should address that deprivation rather than turn the rumour into a proven event.",
+          "zh": "不确定性本身就是恐惧来源，显示 donors 连身体将经历什么都无法充分知道。应分析这种知识剥夺，而不是把传闻当事实。"
+        }
+      ],
+      "themes": [
+        "Memory",
+        "Mortality",
+        "Love"
+      ],
+      "question": "Does the ending show Kathy escaping the donation programme?",
+      "answer": "No. She retains memory and a brief imagined reunion, but her planned transition to donation remains.",
+      "zh": "Memory 保留了关系的意义，却没有带来 physical escape；结尾同时包含 dignity 和被迫接受命运的悲剧。",
+      "sourceIds": [
+        "lc23",
+        "sp11",
+        "user-epub"
+      ],
+      "titleZh": "保留记忆，也承认无法挽回的失去",
+      "summaryZh": "拜访失败后，Kathy 与 Tommy 仍有温柔相处的时刻，但关系逐渐改变。Tommy 更认同其他 donors 的经历；第四次 donation 临近，使 Kathy 的优秀照护也无法消除他的恐惧。他们谈到 completion 之后是否仍有意识的可怕传闻，小说并未把这种恐惧证实为医学事实。Tommy 请求换一位 carer，因为让深爱的人看着自己继续恶化，带来额外痛苦。他用湍急河流中两个人努力抓住彼此的比喻，说明爱真实存在，却未必能战胜所有使人分离的力量。两人也重新理解 Ruth 的最后心意，Kathy 逐渐承认自己已没有愤怒。告别平静而普通；后来 Kathy 得知 Tommy 去世。她自己也将结束 carer 工作、开始 donations，却坚持珍贵的记忆不会离开。来到 Norfolk，她望着栅栏上被风吹来的垃圾，短暂想象所有失去的东西都聚在这里，Tommy 会从远处走来。她知道这是幻想，主动止住它，流泪后开车离开。结尾保留了记忆与尊严，却没有写她逃出制度，也没有叙述她自己的死亡。",
+      "orientation": {
+        "en": "The final period of Kathy and Tommy’s relationship, followed by Kathy’s narrating present as she prepares to become a donor.",
+        "zh": "从 Kathy 与 Tommy 最后的共同时间，推进到 Kathy 即将成为 donor 的叙述现在。"
+      },
+      "scenes": [
+        {
+          "title": "Different positions within the same system",
+          "titleZh": "同一制度中的不同位置",
+          "text": "Kathy knows donor care intimately, but she has not yet lived through donations herself. Tommy’s growing closeness to other donors makes that difference felt. His request for another carer is therefore not straightforward proof that love has disappeared. He is trying to manage the emotional burden of being seen by the person closest to him while approaching suffering that neither of them can control.",
+          "zh": "Kathy 熟悉护理，却还没有亲身经历 donation。Tommy 更靠近其他 donors，显示两种经验的距离。换 carer 并不等于不爱她，而可能是想控制在最亲近的人面前继续受苦的情感负担。"
+        },
+        {
+          "title": "A river stronger than their grip",
+          "titleZh": "河流比拥抱更强",
+          "text": "Tommy imagines two people struggling to hold together in fast-moving water. The image gives separation an external force without denying their effort. It also echoes earlier imagery of drifting apart and the physical embrace after his breakdown. Their love matters precisely because they try to hold on; its inability to defeat the current does not prove that the feeling was insufficient or unreal.",
+          "zh": "河流意象强调外力：他们努力抓住对方，却无法凭感情停止水流。它与此前分散的意象及崩溃后的拥抱相呼应。失败并不证明爱不够真，而说明真实感情也可能遇到无法克服的限制。"
+        },
+        {
+          "title": "The last Norfolk fantasy",
+          "titleZh": "最后一次 Norfolk 幻想",
+          "text": "The field’s trapped rubbish recalls both Norfolk’s childhood meaning and the later recovery of the tape. Kathy briefly imagines that lost people, too, could return there. She does not confuse the image with reality and deliberately refuses to develop it further. Driving away combines self-command with submission to the remaining routine, leaving readers to hold emotional resilience and institutional defeat together rather than choose only one.",
+          "zh": "栅栏垃圾唤回 Norfolk 收集失物的童年想象。Kathy 短暂把“失物”扩大为“失去的人”，却清楚知道 Tommy 不会真的回来。她的离开同时有克制与服从：精神仍在坚持，现实制度却未改变。"
+        }
+      ],
+      "details": [
+        {
+          "label": "Next donation",
+          "value": "Tommy is preparing for his fourth donation.",
+          "zh": "第四次 donation 的临近推动他提出换 carer。"
+        },
+        {
+          "label": "River image",
+          "value": "Two people holding on while a strong current separates them.",
+          "zh": "意象表现外部力量，不是否定爱情。"
+        },
+        {
+          "label": "Final landscape",
+          "value": "A Norfolk field, barbed-wire fence, trees and windblown rubbish.",
+          "zh": "最后场景不是海滩；海岸垃圾只是 Kathy 的联想。"
+        },
+        {
+          "label": "Kathy’s ending",
+          "value": "She is preparing to become a donor; her own death is not narrated.",
+          "zh": "不能把 Kathy 的 completion 写成结尾已经发生的事实。"
+        }
+      ],
+      "pitfall": {
+        "en": "Kathy imagines Tommy’s return but knows it is a fantasy. Her own completion is not shown, and the ending does not confirm an escape.",
+        "zh": "Kathy 知道 Tommy 回来只是幻想。小说没有叙述她自己的 completion，也没有证实她逃离制度。"
+      },
+      "questionZh": "结尾是否表示 Kathy 逃出了 donation 制度？",
+      "answerZh": "没有。她保存记忆，并短暂想象与 Tommy 重聚，但仍准备从 carer 转为 donor。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "lc1",
+      "title": "LitCharts — Chapter 1",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/part-1-chapter-1",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc2",
+      "title": "LitCharts — Chapter 2",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-2",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc3",
+      "title": "LitCharts — Chapter 3",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-3",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc4",
+      "title": "LitCharts — Chapter 4",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-4",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc5",
+      "title": "LitCharts — Chapter 5",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-5",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc6",
+      "title": "LitCharts — Chapter 6",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-6",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc7",
+      "title": "LitCharts — Chapter 7",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-7",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc8",
+      "title": "LitCharts — Chapter 8",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-8",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc9",
+      "title": "LitCharts — Chapter 9",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-9",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc10",
+      "title": "LitCharts — Chapter 10",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-10",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc11",
+      "title": "LitCharts — Chapter 11",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-11",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc12",
+      "title": "LitCharts — Chapter 12",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-12",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc13",
+      "title": "LitCharts — Chapter 13",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-13",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc14",
+      "title": "LitCharts — Chapter 14",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-14",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc15",
+      "title": "LitCharts — Chapter 15",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-15",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc16",
+      "title": "LitCharts — Chapter 16",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-16",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc17",
+      "title": "LitCharts — Chapter 17",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-17",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc18",
+      "title": "LitCharts — Chapter 18",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-18",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc19",
+      "title": "LitCharts — Chapter 19",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-19",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc20",
+      "title": "LitCharts — Chapter 20",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-20",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc21",
+      "title": "LitCharts — Chapter 21",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-21",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc22",
+      "title": "LitCharts — Chapter 22",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-22",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "lc23",
+      "title": "LitCharts — Chapter 23",
+      "url": "https://www.litcharts.com/lit/never-let-me-go/chapter-23",
+      "note": "Chapter events cross-checked; explanations on this site are original study interpretations."
+    },
+    {
+      "id": "sp1",
+      "title": "SparkNotes — Chapters 1–2",
+      "url": "https://www.sparknotes.com/lit/never-let-me-go/section1/",
+      "note": "Used to check plot sequence and chapter boundaries."
+    },
+    {
+      "id": "sp2",
+      "title": "SparkNotes — Chapters 3–4",
+      "url": "https://www.sparknotes.com/lit/never-let-me-go/section2/",
+      "note": "Used to check plot sequence and chapter boundaries."
+    },
+    {
+      "id": "sp3",
+      "title": "SparkNotes — Chapters 5–6",
+      "url": "https://www.sparknotes.com/lit/never-let-me-go/section3/",
+      "note": "Used to check plot sequence and chapter boundaries."
+    },
+    {
+      "id": "sp4",
+      "title": "SparkNotes — Chapters 7–9",
+      "url": "https://www.sparknotes.com/lit/never-let-me-go/section4/",
+      "note": "Used to check plot sequence and chapter boundaries."
+    },
+    {
+      "id": "sp5",
+      "title": "SparkNotes — Chapters 10–11",
+      "url": "https://www.sparknotes.com/lit/never-let-me-go/section5/",
+      "note": "Used to check plot sequence and chapter boundaries."
+    },
+    {
+      "id": "sp6",
+      "title": "SparkNotes — Chapters 12–13",
+      "url": "https://www.sparknotes.com/lit/never-let-me-go/section6/",
+      "note": "Used to check plot sequence and chapter boundaries."
+    },
+    {
+      "id": "sp7",
+      "title": "SparkNotes — Chapters 14–15",
+      "url": "https://www.sparknotes.com/lit/never-let-me-go/section7/",
+      "note": "Used to check plot sequence and chapter boundaries."
+    },
+    {
+      "id": "sp8",
+      "title": "SparkNotes — Chapters 16–17",
+      "url": "https://www.sparknotes.com/lit/never-let-me-go/section8/",
+      "note": "Used to check plot sequence and chapter boundaries."
+    },
+    {
+      "id": "sp9",
+      "title": "SparkNotes — Chapters 18–19",
+      "url": "https://www.sparknotes.com/lit/never-let-me-go/section9/",
+      "note": "Used to check plot sequence and chapter boundaries."
+    },
+    {
+      "id": "sp10",
+      "title": "SparkNotes — Chapters 20–21",
+      "url": "https://www.sparknotes.com/lit/never-let-me-go/section10/",
+      "note": "Used to check plot sequence and chapter boundaries."
+    },
+    {
+      "id": "sp11",
+      "title": "SparkNotes — Chapters 22–23",
+      "url": "https://www.sparknotes.com/lit/never-let-me-go/section11/",
+      "note": "Used to check plot sequence and chapter boundaries."
+    }
+  ]
+}

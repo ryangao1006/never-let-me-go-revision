@@ -1,0 +1,209 @@
+{
+  "characters": [
+    {
+      "id":"kathy","name":"Kathy H.","role":"Narrator · carer · keeper of memories",
+      "overview":"Kathy tells her story at thirty-one. Her observant, restrained voice preserves the people she has lost while revealing how thoroughly the donation system shapes her assumptions.",
+      "arc":["At Hailsham, she notices social tensions and becomes Tommy's confidante.","At the Cottages, intimacy and rivalry make direct communication difficult.","As a carer, she reconnects with Ruth and Tommy; after their deaths, remembering becomes a form of continuity."],
+      "relationships":["Ruth: affection, rivalry, resentment and eventual reconciliation.","Tommy: shared questions develop into an adult relationship.","Her imagined listener: direct address creates intimacy without identifying a definite audience."],
+      "arguments":["Kathy's narrative gives personal depth to someone society reduces to a function.","Her uncertainty about details invites scrutiny; it does not prove deliberate dishonesty."],
+      "evidence":["Part I: she returns repeatedly to conversations with Tommy.","Part III: she imagines Tommy at the Norfolk field, then continues her journey."],
+      "zh":"Kathy 的 retrospective narration 保存失去的人，也显示她如何内化制度的语言。",
+      "sourceIds":["analysis-kathy"]
+    },
+    {
+      "id":"ruth","name":"Ruth","role":"Friend · social leader · flawed reconciler",
+      "overview":"Ruth wants recognition and belonging. Her controlling behaviour often hurts others, yet her generosity prevents a simple reading of her as the villain.",
+      "arc":["At Hailsham, imaginative games and implied privileges make her influential.","At the Cottages, she pursues social acceptance and a possible ordinary future.","As a donor, she admits keeping Kathy and Tommy apart and tries to repair the damage."],
+      "relationships":["Kathy: an intimate friendship in which loyalty survives injury.","Tommy: a romance complicated by insecurity and unequal influence.","Miss Geraldine: an adult whose affection Ruth particularly desires."],
+      "arguments":["Ruth's wish to seem exceptional exposes the insecurity beneath her confidence.","Her late generosity changes how we judge her without cancelling the time already lost."],
+      "evidence":["Part I: she helps replace Kathy's missing tape with another cassette.","Part III: she gives Kathy and Tommy Madame's address."],
+      "zh":"Ruth 的 manipulation 与 generosity 并存；她最后的 repentance 不能挽回失去的时间。",
+      "sourceIds":["analysis-ruth"]
+    },
+    {
+      "id":"tommy","name":"Tommy","role":"Outsider · questioner · artist",
+      "overview":"Tommy's difficulty meeting Hailsham's artistic expectations makes him vulnerable to bullying. His anger and later intricate drawings challenge the idea that human worth can be measured by a prescribed performance.",
+      "arc":["Childhood humiliation produces public outbursts.","At the Cottages, he investigates the Gallery and begins drawing imaginary animals.","He hopes art will support a deferral, then confronts the collapse of that explanation."],
+      "relationships":["Kathy: trust, intellectual companionship and belated love.","Ruth: affection mixed with belittlement and conflict.","Miss Lucy: contradictory advice leaves him uncertain about creativity."],
+      "arguments":["Tommy's theories are attempts to find fairness in an unfair system.","His adult outburst echoes childhood anger, enlarging its meaning from exclusion to irreversible loss."],
+      "evidence":["Part I: other students exploit his temper.","Part III: he cries out after the visit to Madame and Miss Emily."],
+      "zh":"Tommy 的 anger 不是单纯幼稚；它让被压抑的痛苦变得可见。",
+      "sourceIds":["analysis-tommy"]
+    },
+    {
+      "id":"miss-lucy","name":"Miss Lucy","role":"Guardian · troubled truth-teller",
+      "overview":"Miss Lucy questions whether a protected childhood is ethical when protection prevents students from understanding their future. She exposes a conflict within Hailsham's care.",
+      "arc":["She reassures Tommy about his difficulty with art.","She explicitly challenges the students' imagined careers and explains their assigned future.","She reverses her advice about art and leaves Hailsham after disagreement with its approach."],
+      "relationships":["Miss Emily: a dispute about what children should know.","Tommy: individual reassurance followed by a painful correction."],
+      "arguments":["Miss Lucy distinguishes receiving information from being enabled to understand it.","Her departure shows how an institution can contain dissent without changing its underlying purpose."],
+      "evidence":["Chapter 7: she interrupts the students' discussion of ordinary future careers.","Part III: Miss Emily explains their disagreement about education."],
+      "zh":"Miss Lucy 强调 understanding：知道事实不等于真正理解事实对自己的意义。",
+      "sourceIds":["analysis-lucy"]
+    },
+    {
+      "id":"miss-emily","name":"Miss Emily","role":"Head guardian · reformer within the system",
+      "overview":"Miss Emily defends Hailsham as an improvement in clones' treatment. Her conviction that she has helped them coexists with her acceptance of their exploitation.",
+      "arc":["Her authority regulates students' behaviour and questions.","Hailsham's educational experiment loses support.","She explains the Gallery and defends the childhood she provided."],
+      "relationships":["Students: protective authority without equal power.","Miss Lucy: different views of knowledge and childhood.","Madame: a shared campaign with different emotional responses."],
+      "arguments":["Her defence exposes the limits of reform that leaves the central injustice intact.","The reader can recognise real benefits at Hailsham while questioning the gratitude she expects."],
+      "evidence":["Part I: students treat her decisions as authoritative.","Chapter 22: she explains the campaign to demonstrate the students' humanity."],
+      "zh":"Miss Emily 的 care 有真实价值，但 paternalism 让她替学生决定什么是好生活。",
+      "sourceIds":["analysis-emily"]
+    },
+    {
+      "id":"madame","name":"Madame / Marie-Claude","role":"Art collector · uneasy advocate",
+      "overview":"Madame supports the students' cause yet reacts fearfully to their physical presence. Ishiguro makes sympathy and prejudice coexist in the same person.",
+      "arc":["Her visits make the Gallery mysterious to the children.","Her response to Kathy dancing produces an unanswered emotional puzzle.","The final meeting reveals her interpretation of the dance and the failure of the campaign."],
+      "relationships":["Kathy: one remembered scene carries different meanings for observer and participant.","Miss Emily: cooperation does not produce identical attitudes."],
+      "arguments":["Pity does not necessarily recognise another person's equality.","The dance scene demonstrates the risks of assuming that two people share an interpretation."],
+      "evidence":["Part I: the children test whether she fears them.","Part III: Kathy learns why Madame cried at the dance."],
+      "zh":"Madame 的 sympathy 不等于 equality；同情与偏见可以同时存在。",
+      "sourceIds":["analysis-characters","analysis-publisher"]
+    },
+    {
+      "id":"chrissie-rodney","name":"Chrissie & Rodney","role":"Cottages veterans · carriers of rumour",
+      "overview":"This couple draws attention to differences between Hailsham students and other clones. Their interest in deferrals reveals how scarcity of reliable knowledge makes perceived privilege powerful.",
+      "arc":["They help establish the Cottages' social hierarchy.","The Norfolk outing connects the search for a possible with questions about deferrals.","Later news of Chrissie's death makes earlier hopes painfully fragile."],
+      "relationships":["Ruth: mutual investment in stories about special opportunities.","Kathy and Tommy: questions reveal that Hailsham's reputation exceeds its students' knowledge."],
+      "arguments":["Rumour offers a substitute for political power and reliable information.","Differences within the oppressed group can distract from their shared predicament."],
+      "evidence":["Part II: they ask whether Hailsham couples can delay donations.","Part III: the surviving friends discuss Chrissie's death."],
+      "zh":"Chrissie 与 Rodney 对 deferral 的期待，揭示信息不平等如何制造虚假的希望。",
+      "sourceIds":["analysis-characters"]
+    },
+    {
+      "id":"miss-geraldine","name":"Miss Geraldine","role":"Beloved guardian · focus of attachment",
+      "overview":"Miss Geraldine matters especially through the children's feelings about her. Ruth's attachment shows their desire for personal adult affection in an institution without ordinary family life.",
+      "arc":["Her kindness makes her popular with younger students.","Ruth imagines a special bond and a need to protect her.","In retrospect, that fantasy exposes emotional needs the institution cannot fully meet."],
+      "relationships":["Ruth: longing for exclusive affection.","The secret guard: an invented threat creates belonging and status."],
+      "arguments":["An affectionate guardian can make an institution feel like home without changing its purpose.","Ruth's fantasy concerns emotional security as well as control over her peers."],
+      "evidence":["Part I: Ruth organises a group to protect Miss Geraldine from an imagined plot.","Part I: Ruth implies a personal connection through her pencil case."],
+      "zh":"Miss Geraldine 象征学生对 affection 的需要；Ruth 的幻想同时寻求安全感与地位。",
+      "sourceIds":["analysis-characters","analysis-ruth"]
+    }
+  ],
+  "themes": [
+    {
+      "id":"memory","title":"Memory & loss","thesis":"Remembering preserves emotional relationships, but it cannot reverse their loss.",
+      "development":["Hailsham becomes the reference point through which Kathy understands later life.","Objects and familiar places connect separated periods of experience.","The final field turns private grief into an imagined meeting that Kathy knows cannot last."],
+      "evidence":["Part I: Kathy reconstructs childhood disagreements.","Part II: the replacement tape links Norfolk to Hailsham.","Chapter 23: Kathy briefly imagines Tommy returning."],
+      "methods":["Analepsis makes remembering the action of the narrative.","Recurring objects connect survival with absence."],
+      "nuance":"Nostalgia can comfort Kathy and expose the distance between what Hailsham felt like and what it prepared her for.",
+      "question":"How does remembering both protect Kathy and reveal her vulnerability?",
+      "zh":"Memory 能保存情感意义，却不能 undo loss；注意安慰与痛苦并存。"
+    },
+    {
+      "id":"humanity","title":"Humanity & identity","thesis":"The novel gives the clones complex inner lives while exposing a society that treats personhood as something they must prove.",
+      "development":["Personal tastes and rivalries establish individuality before the system is explained.","The search for possible models links biological origins to imagined futures.","The Gallery's purpose reveals that powerful outsiders have made recognition conditional."],
+      "evidence":["Part I: treasured possessions and friendships differentiate students.","Part II: Ruth searches for her possible in Norfolk.","Chapter 22: the adults explain why they collected art."],
+      "methods":["First-person narration grants interiority.","Delayed revelation makes the reader revise an already established relationship with Kathy."],
+      "nuance":"Do not argue that only talented artists deserve rights: Tommy's early difficulties challenge that premise.",
+      "question":"Why is the demand to prove humanity itself ethically troubling?",
+      "zh":"问题不仅是 clones 是否有人性，更是谁有权要求他们证明 humanity。"
+    },
+    {
+      "id":"control","title":"Power, control & complicity","thesis":"The donation system persists through ordinary routines, restricted possibilities and public convenience as well as direct institutional authority.",
+      "development":["Hailsham shapes health, knowledge and expectations.","Apparent freedom at the Cottages does not create an open future.","Miss Emily describes a public unwilling to surrender medical benefits."],
+      "evidence":["Part I: the emphasis on physical health.","Part II: adulthood is rehearsed without genuine career choices.","Part III: carers and donors remain roles defined by the system."],
+      "methods":["Euphemistic vocabulary makes violence sound procedural.","Ordinary settings place exploitation beside recognisable daily life."],
+      "nuance":"Their behaviour supports a reading of social conditioning, not a claim that clones are biologically incapable of resistance.",
+      "question":"How does Ishiguro make oppression appear ordinary?",
+      "zh":"Control 不只来自强迫，也来自被内化的 routines、语言与有限选择。"
+    },
+    {
+      "id":"knowledge","title":"Knowledge, silence & education","thesis":"Hailsham's education manages the relationship between facts, understanding and emotional readiness.",
+      "development":["Hints and evasions leave the children uncertain about significance.","Miss Lucy makes the assigned future explicit, but knowledge is still difficult to absorb.","The final explanation answers institutional questions after opportunities have narrowed."],
+      "evidence":["Chapter 7: Miss Lucy challenges the students' career fantasies.","Part I: uncomfortable subjects become awkward or are redirected.","Chapter 22: the Gallery is finally explained."],
+      "methods":["Withheld exposition places readers in partial uncertainty.","Dialogue reveals what cannot comfortably be discussed."],
+      "nuance":"Avoid claiming the students know absolutely nothing: the issue is how much they understand and can act upon.",
+      "question":"When does protection become a form of deprivation?",
+      "zh":"Knowing facts ≠ understanding implications；沉默、笑话和转移话题影响理解。"
+    },
+    {
+      "id":"love","title":"Love, friendship & jealousy","thesis":"Relationships create meaning in restricted lives, yet insecurity and missed communication also waste irreplaceable time.",
+      "development":["School friendships combine tenderness with competition.","The Cottages intensify the triangle between Kathy, Ruth and Tommy.","Reconciliation brings intimacy without the power to stop donations."],
+      "evidence":["Part I: Kathy comforts Tommy after exclusion.","Part II: Ruth undermines Kathy and Tommy's closeness.","Part III: Ruth encourages their relationship and they seek a deferral."],
+      "methods":["The triangle distributes sympathy across imperfect people.","Understatement makes emotional admissions difficult and significant."],
+      "nuance":"Love's failure to secure a deferral does not make the relationship meaningless.",
+      "question":"How does Ishiguro present affection alongside cruelty?",
+      "zh":"Love 不能救他们脱离制度，但仍赋予生活意义；不要把悲剧等同于无价值。",
+      "sourceIds":["analysis-nobel"]
+    },
+    {
+      "id":"hope","title":"Hope, fantasy & self-deception","thesis":"Invented stories help the characters endure uncertainty while sometimes keeping them attached to false possibilities.",
+      "development":["Childhood make-believe offers belonging and influence.","Possibles and imagined jobs turn borrowed images into possible identities.","The deferral rumour promises fairness, then collapses."],
+      "evidence":["Part I: Ruth's secret guard.","Part II: the office worker thought to resemble Ruth.","Part III: Kathy and Tommy bring their case to Madame."],
+      "methods":["Recurring speculation reveals the absence of reliable knowledge.","Irony develops between a coherent theory and its false premise."],
+      "nuance":"Fantasy is not simply stupidity or dishonesty: it can express needs that reality refuses to meet.",
+      "question":"Does hope sustain the characters or make them more vulnerable?",
+      "zh":"Make-believe 既能安慰，也会推迟面对现实；分析它满足了什么需要。"
+    },
+    {
+      "id":"mortality","title":"Mortality & limited time","thesis":"The characters' shortened futures intensify the human problem of how to love and make meaning before death.",
+      "development":["Childhood looks expansive even while its endpoint is fixed.","Adult rivalries consume time that cannot be recovered.","The final section concentrates on care, reconciliation and farewell."],
+      "evidence":["Part I: ordinary ambitions are contradicted by the assigned future.","Part III: Ruth's physical weakness changes the tone of the reunion.","Chapter 23: Kathy faces the end of her caring work."],
+      "methods":["The three-part structure moves toward narrowing opportunities.","The stranded boat makes deterioration visible."],
+      "nuance":"A universal reading of mortality should not erase the specific injustice of enforced organ extraction.",
+      "question":"How can the novel be both about ordinary mortality and extraordinary exploitation?",
+      "zh":"Mortality 有普遍意义，但不能因此忽视 enforced donations 的制度性不公。",
+      "sourceIds":["analysis-interview"]
+    },
+    {
+      "id":"art","title":"Art, expression & value","thesis":"Art can express an individual life, but institutions can also turn it into a test, a currency or an instrument of persuasion.",
+      "development":["Creativity determines social esteem at Hailsham.","Tommy develops a private artistic practice and a theory about its purpose.","The adults reveal the campaign behind the collection."],
+      "evidence":["Part I: the Exchanges give student work social and material value.","Part II: Tommy draws elaborate animals.","Chapter 22: art was intended to challenge public assumptions."],
+      "methods":["Changing explanations alter the meaning of earlier scenes.","The Gallery links personal expression to external judgement."],
+      "nuance":"The failure of art to change policy does not prove it lacks personal or emotional value.",
+      "question":"What changes when creativity becomes evidence in someone else's argument?",
+      "zh":"Art 可表达 individuality，但被当作资格测试时也会制造排斥。"
+    },
+    {
+      "id":"care","title":"Care, responsibility & moral compromise","thesis":"Acts of care can be sincere while the structures around them remain exploitative.",
+      "development":["Guardians nurture children whose futures they cannot or do not overturn.","Friends can protect one another emotionally and still inflict harm.","Kathy's professional care offers comfort within the donation system."],
+      "evidence":["Part I: school protection coexists with controlled information.","Part III: Kathy becomes Ruth's carer.","Part III: Miss Emily defends Hailsham's achievements."],
+      "methods":["Irony complicates apparently benevolent roles.","Juxtaposition places humane gestures beside institutional harm."],
+      "nuance":"Distinguish the limited choices of a carer from the greater authority of those running institutions.",
+      "question":"How far can kindness challenge an unjust system?",
+      "zh":"Care 的真诚与制度的不公可以并存；也要区分不同人物拥有的权力。"
+    }
+  ],
+  "methods": [
+    {"id":"first-person","title":"First-person narration","explanation":"Events reach us through Kathy's knowledge, choices and emotional habits.","example":"She watches Ruth's behaviour closely but cannot directly report Ruth's private thoughts.","effect":"Readers become intimate with someone denied social recognition, while having to infer what her viewpoint leaves uncertain.","question":"What can Kathy observe here, and what is she interpreting?"},
+    {"id":"retrospection","title":"Retrospection & analepsis","explanation":"An adult narrator reconstructs childhood; memories interrupt and connect with one another.","example":"Kathy pauses a sequence to explain an earlier conversation or association.","effect":"Past experience and later understanding coexist. The order of recollection tells us what remains emotionally unresolved.","question":"Why recall this event at this point?"},
+    {"id":"unreliability","title":"Qualification & limited reliability","explanation":"Uncertainty, corrections and competing recollections make memory visibly imperfect.","example":"Kathy acknowledges that another person might remember an incident differently.","effect":"The reader evaluates details without automatically dismissing her account. Her admissions can also make her seem candid.","question":"Does this uncertainty weaken a fact, expose feeling, or increase trust?"},
+    {"id":"euphemism","title":"Euphemism & institutional language","explanation":"The system uses mild, practical labels for processes with devastating bodily consequences.","example":"The language of donation and completion sounds orderly despite coercion and death.","effect":"A gap opens between the vocabulary and the reader's ethical response, showing how language can normalise harm.","question":"What reality does the ordinary-sounding term conceal?"},
+    {"id":"revelation","title":"Delayed revelation & foreshadowing","explanation":"Hints precede full explanation, so later disclosures transform earlier details.","example":"Health rules and Madame's reactions acquire new significance as the students' situation becomes clearer.","effect":"The reader repeatedly revises an interpretation, experiencing a partial analogue of the students' uneven understanding.","question":"How does later knowledge change this early scene?"},
+    {"id":"restraint","title":"Understatement & emotional restraint","explanation":"Kathy often describes intense experiences in measured, conversational language.","example":"Everyday details frame discussions of donations and the loss of friends.","effect":"The reader supplies emotion that the narrator rarely announces. A quiet voice can make cruelty more disturbing rather than less serious.","question":"Where is feeling displaced into a detail or a silence?"},
+    {"id":"structure","title":"Three-part structure & echoes","explanation":"Hailsham, the Cottages and adult caring or donating organise changing stages of life.","example":"Tommy's adult outburst recalls his childhood anger, but the stakes have become irreversible.","effect":"Repeated patterns invite comparison: physical movement into adulthood does not guarantee increased freedom.","question":"What remains the same, and what has changed, in this repeated situation?"},
+    {"id":"irony","title":"Irony, juxtaposition & ambiguity","explanation":"Apparent benefits, interpretations or reassuring explanations are placed beside troubling implications.","example":"A protected education coexists with preparation for a fatal role; Madame and Kathy understand the same dance differently.","effect":"The novel resists easy moral categories and asks readers to separate intention, experience and outcome.","question":"Which competing meanings can the evidence sustain?"}
+  ],
+  "symbols": [
+    {"id":"tape","title":"The cassette tape","meaning":"A portable connection between attachment and loss.","evidence":"Kathy loses a cherished recording; she and Tommy later find another copy in Norfolk.","nuance":"A replacement can restore a song without restoring the lost moment. The value comes from Kathy's association, not the object's market price.","sourceIds":["analysis-symbols"]},
+    {"id":"norfolk","title":"Norfolk","meaning":"An imagined geography where what has been lost might be found.","evidence":"A childhood idea about Norfolk returns during the tape search and Kathy's final visit to a field.","nuance":"The place offers a language for longing; it does not literally return the dead."},
+    {"id":"gallery","title":"The Gallery & artwork","meaning":"The struggle to make inner life visible to an audience with power.","evidence":"Students speculate about collected art before learning the campaign's purpose.","nuance":"The children's interpretations and the adults' agenda differ. Analyse who controls the meaning and ownership of the work."},
+    {"id":"boat","title":"The stranded boat","meaning":"A possible image of diminished movement, ageing and an abandoned future.","evidence":"The friends visit a deteriorating boat when Ruth and Tommy are already donors.","nuance":"The outing also creates shared attention and companionship; the scene contains tenderness as well as decay.","sourceIds":["analysis-symbols"]},
+    {"id":"office","title":"The office","meaning":"An ordinary adult life made extraordinary by exclusion.","evidence":"Ruth's imagined work and the Norfolk search centre on an office environment.","nuance":"The attraction is not simply wealth: ordinary work promises choice, recognition and a future.","sourceIds":["analysis-symbols"]},
+    {"id":"boundaries","title":"Woods, fences & boundaries","meaning":"Visible edges can suggest the limits of knowledge, belonging or movement.","evidence":"Fearful stories surround the Hailsham woods; debris catches on a fence in Kathy's final scene.","nuance":"Avoid treating every boundary as a literal prison wall. Explain how a particular description creates its effect."},
+    {"id":"animals","title":"Tommy's imaginary animals","meaning":"An individual imaginative world that resists simple categorisation.","evidence":"He develops intricate drawings while hoping creativity can help secure a deferral.","nuance":"Their emotional value need not depend on his theory being correct. Do not assume talent establishes greater human worth."}
+  ],
+  "context": [
+    {"id":"publication","title":"2005 novel; alternative England","explanation":"First published in 2005, the novel places its narrating present in an alternative England of the late 1990s. Familiar roads, schools and shops coexist with an invented system of cloning and organ extraction.","caution":"Do not call it a prediction set in a distant future, or treat its institutions as historical facts.","sourceIds":["analysis-facts"]},
+    {"id":"science","title":"Cloning in public debate","explanation":"Dolly, the first mammal cloned from an adult cell, was born in 1996 and announced in 1997. The surrounding public debate helps explain why a 2005 audience could recognise anxieties about biotechnology and responsibility.","caution":"This is relevant background, not proof that Dolly was the novel's sole inspiration or that human clones existed.","sourceIds":["analysis-dolly"]},
+    {"id":"mortality-context","title":"Ishiguro on shortened lives","explanation":"In his 2008 Paris Review interview, Ishiguro described beginning with young people whose lives would be unusually short; cloning supplied a fictional explanation. He stressed their efforts to care for one another and put relationships right.","caution":"Use this as support for a reading, not as a replacement for analysing the novel.","sourceIds":["analysis-interview"]},
+    {"id":"school-context","title":"School as a model of childhood","explanation":"In the same interview, Ishiguro linked boarding school to adults' ability to regulate children's knowledge. Hailsham magnifies an ordinary tension between shielding children and preparing them to understand difficult realities.","caution":"The parallel does not make every school equivalent to Hailsham or justify the donation system.","sourceIds":["analysis-interview"]},
+    {"id":"relationships-context","title":"A novel built around relationships","explanation":"In his 2017 Nobel Lecture, Ishiguro explained that he began this novel by thinking about its central triangle and the relationships extending from it. This supports close attention to changing bonds, not just the dystopian premise.","caution":"Avoid reducing characters to theme labels. Show how a relationship changes across particular scenes.","sourceIds":["analysis-nobel"]}
+  ],
+  "sources": [
+    {"id":"analysis-publisher","title":"Penguin Random House: reader's guide","url":"https://www.penguinrandomhouse.com/books/85609/never-let-me-go-by-kazuo-ishiguro/readers-guide","note":"Publisher discussion guide consulted for framing and factual cross-checks; this site's explanations and questions are original."},
+    {"id":"analysis-interview","title":"Kazuo Ishiguro: The Art of Fiction No. 196","url":"https://www.theparisreview.org/interviews/5829/the-art-of-fiction-no-196-kazuo-ishiguro","note":"Primary interview with Susannah Hunnewell, spring 2008; supports the context on childhood, mortality and relationships."},
+    {"id":"analysis-nobel","title":"Kazuo Ishiguro: Nobel Lecture, 2017","url":"https://www.nobelprize.org/prizes/literature/2017/ishiguro/lecture/","note":"Primary account of the author's focus on the novel's central relationship triangle."},
+    {"id":"analysis-dolly","title":"The Roslin Institute: The Life of Dolly","url":"https://vet.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly","note":"Primary institutional history used for the brief scientific background."},
+    {"id":"analysis-facts","title":"SparkNotes: key facts","url":"https://www.sparknotes.com/lit/never-let-me-go/facts/","note":"Publication and narrative setting cross-check; page numbers vary by edition."},
+    {"id":"analysis-characters","title":"SparkNotes: character list","url":"https://www.sparknotes.com/lit/never-let-me-go/characters/","note":"Names and supporting-character roles cross-checked; analytical claims remain interpretations."},
+    {"id":"analysis-kathy","title":"SparkNotes: Kathy","url":"https://www.sparknotes.com/lit/never-let-me-go/character/kathy/","note":"Character facts and narrative reliability cross-check."},
+    {"id":"analysis-ruth","title":"SparkNotes: Ruth","url":"https://www.sparknotes.com/lit/never-let-me-go/character/ruth/","note":"Character development and gift scenes cross-check."},
+    {"id":"analysis-tommy","title":"SparkNotes: Tommy","url":"https://www.sparknotes.com/lit/never-let-me-go/character/tommy/","note":"Art, exclusion and relationships cross-check."},
+    {"id":"analysis-lucy","title":"SparkNotes: Miss Lucy","url":"https://www.sparknotes.com/lit/never-let-me-go/character/miss-lucy/","note":"Education dispute cross-check; this guide presents the ethical debate as open to analysis."},
+    {"id":"analysis-emily","title":"SparkNotes: Miss Emily","url":"https://www.sparknotes.com/lit/never-let-me-go/character/miss-emily/","note":"Hailsham's purpose and institutional defence cross-check."},
+    {"id":"analysis-symbols","title":"SparkNotes: symbols","url":"https://www.sparknotes.com/lit/never-let-me-go/symbols/","note":"Tape, office and boat scene facts cross-checked. Symbolic meanings are interpretive, not fixed answers."}
+  ]
+}
