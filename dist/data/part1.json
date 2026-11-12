@@ -1711,6 +1711,585 @@
       "title": "Penguin Random House · Book information and author discussion",
       "url": "https://www.penguinrandomhouse.com/books/85609/never-let-me-go-by-kazuo-ishiguro-with-a-new-introduction/9781400044832/",
       "note": "Publication and English-countryside background reference. Plot details in this quiz were checked directly against the supplied EPUB."
+    },
+    {
+      "id": "quiz-booker",
+      "title": "The Booker Prizes · Never Let Me Go",
+      "url": "https://thebookerprizes.com/the-booker-library/books/never-let-me-go",
+      "note": "First publication, UK publisher, 2005 shortlist and author’s 2017 Nobel Prize."
+    },
+    {
+      "id": "quiz-faber",
+      "title": "Faber · Never Let Me Go study guide",
+      "url": "https://www.faber.co.uk/journal/never-let-me-go-by-kazuo-ishiguro-a-study-guide/",
+      "note": "Publisher’s account of the early 1990 draft and later publication."
+    },
+    {
+      "id": "quiz-author",
+      "title": "Royal Society of Literature · Kazuo Ishiguro",
+      "url": "https://rsliterature.org/fellows/kazuo-ishiguro/",
+      "note": "Author’s birthplace, birth date and move to Britain."
+    },
+    {
+      "id": "quiz-setting",
+      "title": "Penguin Random House · Never Let Me Go",
+      "url": "https://penguinrandomhouselibrary.com/book/?isbn=9780593536551",
+      "note": "Publisher-hosted introduction identifies the late-1990s English setting."
     }
-  ]
+  ],
+  "part1Cram": {
+    "dateNote": {
+      "en": "For “When was the novel first published?”, answer 2005. For “When was it written?”, do not treat publication as a one-year writing period: Faber traces an early draft to 1990, followed by a pause and later reworking. The 2006 date in the supplied EPUB identifies that edition.",
+      "zh": "问首次出版（first published）：答2005年。问创作时间（written）：不能说整本书只在2005年写成；Faber记载1990年已有早期草稿，后来搁置并重新修改。所提供EPUB中的2006年是该版本日期。"
+    },
+    "essentials": [
+      {
+        "en": "Kazuo Ishiguro → author; 2005 → first publication; England, late 1990s → narrative setting.",
+        "zh": "Kazuo Ishiguro（石黑一雄）→作者；2005→首次出版；20世纪90年代末的英格兰→叙述背景。"
+      },
+      {
+        "en": "Kathy H. → narrator, 31, a carer for over eleven years at the opening. Her memories move backwards and forwards.",
+        "zh": "Kathy H.→叙述者，开篇31岁，做carer超过11年。回忆会跳转，不是严格按时间顺序讲述。"
+      },
+      {
+        "en": "Miss Emily → head guardian. Miss Lucy → direct truth about donations. Miss Geraldine → popular guardian whom the secret guard protects.",
+        "zh": "Miss Emily→首席监护人；Miss Lucy→直接说明捐献命运；Miss Geraldine→受欢迎、被secret guard“保护”的老师。"
+      },
+      {
+        "en": "Madame → visiting art collector, not a classroom guardian. Nurse Trisha → Crow Face and medical examinations.",
+        "zh": "Madame→来挑选作品的外界访客，不是课堂guardian；Nurse Trisha→Crow Face，负责体检。"
+      },
+      {
+        "en": "Bramble → first horse, no crop. Thunder → Ruth’s favourite, initially refused. Daffodil → lean farther back. All three are imaginary.",
+        "zh": "Bramble→先骑、不能用马鞭；Thunder→Ruth最喜欢，先不让Kathy骑；Daffodil→身体更后仰。三匹都是想象中的马。"
+      },
+      {
+        "en": "Christopher C. → Sales monitor. Christopher H. → elbow prank. Midge A. → pencil-case question. Moira B. → former secret guard.",
+        "zh": "Christopher C.→Sales monitor；Christopher H.→手肘拉链恶作剧；Midge A.→问笔袋来源；Moira B.→原secret guard成员。"
+      },
+      {
+        "en": "Judy Bridgewater → singer. Songs After Dark → album. Never Let Me Go → track three. Twenty Classic Dance Tunes → Ruth’s replacement tape.",
+        "zh": "Judy Bridgewater→歌手；Songs After Dark→专辑；Never Let Me Go→第3首歌；Twenty Classic Dance Tunes→Ruth送的替代磁带。"
+      },
+      {
+        "en": "Patricia C. → calendar. Peter J. + Gordon → future dreams before Miss Lucy’s speech. Charlotte F. → news of Miss Lucy’s departure.",
+        "zh": "Patricia C.→日历；Peter J.与Gordon→谈未来梦想，引出Miss Lucy讲话；Charlotte F.→传来Miss Lucy离校消息。"
+      },
+      {
+        "en": "Exchanges → student work and tokens. Sales → things from outside. Gallery → selected work taken by Madame. Norfolk → the imagined lost corner.",
+        "zh": "Exchanges→学生作品与代币；Sales→外界物品；Gallery→Madame带走的精选作品；Norfolk→孩子想象中收留遗失物的“失落角落”。"
+      },
+      {
+        "en": "Told and not told → hearing facts without fully grasping their consequences. For analysis: detail → what it suggests → why it matters.",
+        "zh": "told and not told→听过事实，却没真正理解后果。分析按：具体细节→暗示什么→为什么重要。"
+      }
+    ],
+    "background": [
+      {
+        "name": "Author · 作者",
+        "en": "Kazuo Ishiguro: a British novelist born in Japan. Born in Nagasaki on 8 November 1954; moved to Britain in 1960. The novel is written in English.",
+        "zh": "石黑一雄：出生于日本的英国小说家。1954年11月8日生于长崎，1960年移居英国；本书用英语写作。",
+        "sourceId": "quiz-author"
+      },
+      {
+        "name": "First publication · 首次出版",
+        "en": "2005. The original UK publisher is Faber & Faber. Learn the year first; later editions can show different dates.",
+        "zh": "2005年。英国原版出版方为Faber & Faber。优先记住2005；不同版本可能标注不同日期。",
+        "sourceId": "quiz-booker"
+      },
+      {
+        "name": "Writing history · 创作过程",
+        "en": "Faber’s study guide dates an early draft to 1990. Ishiguro set it aside and later returned to it. This is a process, not a single “written in 2005” fact.",
+        "zh": "Faber学习指南记载1990年已有初稿，石黑一雄曾将它搁置，之后再继续修改。因此要区分创作过程与2005年出版。",
+        "sourceId": "quiz-faber"
+      },
+      {
+        "name": "Awards · 奖项",
+        "en": "Never Let Me Go was shortlisted for the 2005 Booker Prize. Ishiguro received the Nobel Prize in Literature in 2017. The Nobel recognises the author’s work, not a 2017 publication of this book.",
+        "zh": "《Never Let Me Go》入围2005年布克奖短名单；不是该届获奖作品。石黑一雄获得2017年诺贝尔文学奖，不表示本书在2017年出版。",
+        "sourceId": "quiz-booker"
+      },
+      {
+        "name": "Setting & structure · 背景与结构",
+        "en": "England, late 1990s, with memories reaching back to earlier decades. Hailsham is the secluded school of Part One (Chapters 1–9). The full novel has three parts and 23 chapters.",
+        "zh": "开篇设定在20世纪90年代末的英格兰，回忆追溯更早年代。第一部（第1–9章）主要是封闭的Hailsham学校生活。全书共三部、23章。",
+        "sourceId": "quiz-setting"
+      },
+      {
+        "name": "Narrator & form · 叙述与文体",
+        "en": "Kathy H.; retrospective first-person narration. She observes, remembers and guesses, rather than knowing every mind. Coming-of-age fiction combines with a dystopian/speculative setting. A memory can be vivid and still uncertain.",
+        "zh": "Kathy H.是回顾式第一人称叙述者：她观察、回忆、推测，并非全知。小说把成长故事与反乌托邦／架空设定结合。记忆很生动，不代表每个细节或动机都完全可靠。"
+      },
+      {
+        "name": "Opening numbers · 开篇数字",
+        "en": "31 years old; over eleven years as a carer already; eight more months requested, reaching almost exactly twelve years by year-end. Do not answer “already twelve years” for the opening.",
+        "zh": "31岁；已经当carer超过11年；还被要求继续8个月，到年底才将近整整12年。题目问开篇已工作多久，不要答“已经12年”。"
+      },
+      {
+        "name": "Key vocabulary · 关键术语",
+        "en": "Guardian: school adult responsible for students. Carer: supports donors. Donor: gives organs. Completed: the system’s euphemistic term for a donor’s death. The ordinary words soften the violence of the system. The word completed appears in Kathy’s adult recollection in Chapter 9.",
+        "zh": "guardian：学校里照管学生的成人；carer：照护捐献者的人；donor：捐献器官的人；completed：制度对捐献者死亡的委婉说法。日常化词语淡化了制度的残酷。 completed一词见第9章Kathy对成年经历的回忆。"
+      }
+    ],
+    "guardians": [
+      {
+        "name": "Miss Emily",
+        "en": "The head guardian. Remember her intimidating authority, geography calendars and sex-education talks. She announces that Miss Lucy has left during a Music Appreciation class.",
+        "zh": "校长式的 head guardian。把她与威严、英格兰郡县日历、性教育讲座联系起来；第9章也是她在音乐欣赏课上宣布 Miss Lucy 已离开。",
+        "chapter": "Chs 2, 4, 6–9"
+      },
+      {
+        "name": "Miss Lucy",
+        "en": "The most sporting guardian. She first reassures Tommy about not being creative; later explains the students’ predetermined futures, reverses her advice about art, and leaves Hailsham.",
+        "zh": "最擅长运动的 guardian。先安慰 Tommy 不必为缺乏创造力自责；第7章直说学生将来的命运，第9章又强调艺术重要，随后离校。",
+        "chapter": "Chs 2–3, 7–9"
+      },
+      {
+        "name": "Miss Geraldine",
+        "en": "The gentle, comforting guardian whom the younger children adore. She praises Tommy’s elephant picture. Ruth’s secret guard claims to protect her; Ruth also implies a special connection with her through the pencil case.",
+        "zh": "温柔、安慰孩子的 guardian，深受年幼学生喜爱。她表扬 Tommy 的大象画；Ruth 的 secret guard 声称保护她，Ruth 还借笔袋暗示自己受她特别关爱。",
+        "chapter": "Chs 2, 4–6"
+      },
+      {
+        "name": "Madame",
+        "en": "A visiting woman who selects the students’ best artwork, not an ordinary Hailsham guardian. The children test Ruth’s idea that she fears them. Kathy later finds her crying while watching the pillow dance. Her full name is not needed for Part I.",
+        "zh": "来挑选优秀作品的外来访客，不是学校日常任教的 guardian。孩子们围向她，验证 Ruth 所说的恐惧；第6章她看到 Kathy 抱枕头跳舞时落泪。第一部只需记 Madame。",
+        "chapter": "Chs 3, 6"
+      },
+      {
+        "name": "Nurse Trisha · Crow Face",
+        "en": "The nurse associated with frequent medical checks. Kathy and Tommy can talk in the queue for a check-up. Crow Face is her nickname, not a second person.",
+        "zh": "负责频繁体检的护士。Kathy与Tommy曾在等待检查的队伍中交谈。Crow Face是她的绰号，不是另一位人物。",
+        "chapter": "Ch 2"
+      },
+      {
+        "name": "Miss Jody",
+        "en": "Kathy suggests that Tommy take his muddy favourite polo shirt to Miss Jody if he cannot clean it himself. The scene gives a practical association, not a stated specialist job title.",
+        "zh": "第1章 Kathy 建议：Tommy 如果自己洗不净心爱的泥污 polo shirt，可以找 Miss Jody。记住“洗衣求助”这一场景即可，不要替她编造专门职位。",
+        "chapter": "Ch 1"
+      },
+      {
+        "name": "Mr. Christopher",
+        "en": "Restrains Tommy during football practice to stop him attacking Reggie D. Keep the adult title Mr. distinct from the students Christopher C. and Christopher H.",
+        "zh": "足球练习时，他按住 Tommy 的双臂，阻止他攻击 Reggie D.。注意 Mr. 是成年人称呼，别与学生 Christopher C.、Christopher H. 混淆。",
+        "chapter": "Ch 2"
+      },
+      {
+        "name": "Mr. Robert",
+        "en": "Named alongside Miss Emily as an adult who often teaches art. Kathy thinks either would have told Tommy off over the elephant joke, unlike Miss Geraldine’s praise.",
+        "zh": "与 Miss Emily 一起被提到，常教美术。Kathy 认为：若大象画事件发生在他们的课上，Tommy 可能只会被训斥，不会像获得 Miss Geraldine 表扬那样引起同学的反应。",
+        "chapter": "Ch 2"
+      },
+      {
+        "name": "Mr. Roger",
+        "en": "Jokes with students when Carole H. accidentally mentions the Gallery. He also teaches art. Ruth’s secret guard suspects him after watching him confer with Miss Eileen; that suspicion belongs to their fantasy.",
+        "zh": "与学生说笑时，Carole H. 不小心提到 Gallery；他也教美术。Ruth 一伙看到他与 Miss Eileen 交谈后，便把他列为“同谋”——这是孩子们的幻想，不是已证实的阴谋。",
+        "chapter": "Chs 3, 5–6"
+      },
+      {
+        "name": "Mr. Frank",
+        "en": "Teaches spelling in Room 9 when the children spot Madame arriving. Their excitement about the planned fear test makes his class restless.",
+        "zh": "在 Room 9 教拼写；学生看见 Madame 到来，因准备测试她是否害怕他们而坐立不安。记忆搭配：Frank → spelling → Madame 到访。",
+        "chapter": "Ch 3"
+      },
+      {
+        "name": "Miss Eileen",
+        "en": "A guardian the children dislike. For a time Ruth’s secret guard imagines that she is behind a plot to kidnap Miss Geraldine. Do not present the plot as a real event.",
+        "zh": "孩子们不太喜欢的一位 guardian；secret guard 一度怀疑她是绑架 Miss Geraldine 的幕后主使。这只是他们编造、相信的故事，不是真实发生的绑架计划。",
+        "chapter": "Ch 5"
+      },
+      {
+        "name": "Mr. George",
+        "en": "Teaches poetry in Room 20. This is the room where Kathy approaches Ruth’s group after their chess disagreement and realises she has been excluded from the secret guard.",
+        "zh": "在 Room 20 教诗歌。Kathy 与 Ruth 因下棋争执后，在这个教室靠近她的小团体，才意识到自己被 secret guard 排除。",
+        "chapter": "Ch 5"
+      },
+      {
+        "name": "Mr. Jack",
+        "en": "Walks in on Jenny C. and Rob D. in Room 14 and sends them to Miss Emily. Remember him for this incident when revising the guardians’ awkward and inconsistent responses to sex.",
+        "zh": "在 Room 14 撞见 Jenny C. 与 Rob D. 亲密，并让两人去见 Miss Emily。这个小事件表现 guardians 对性话题的尴尬与不一致态度。",
+        "chapter": "Ch 8"
+      },
+      {
+        "name": "Mr. Chris",
+        "en": "Teaches the role-play lesson just before Charlotte F. brings news of Miss Lucy’s departure. The classroom practices encounters with people outside Hailsham. This is the form of his name used in this scene.",
+        "zh": "第9章教授模拟校外生活的 role-play 课；Charlotte F. 赶来传达 Miss Lucy 离校消息时，他匆匆离开。这一场景中姓名写作 Mr. Chris。",
+        "chapter": "Chs 8–9"
+      }
+    ],
+    "students": [
+      {
+        "name": "Kathy H.",
+        "en": "First-person narrator; thirty-one at the opening and already a carer for over eleven years. Her adult memories organise the story. At Hailsham she is observant, loyal to Ruth and able to talk closely with Tommy.",
+        "zh": "第一人称叙述者，开篇31岁，做 carer 已超过11年。故事由成年后的回忆串起。她善于观察，重视对 Ruth 的忠诚，也能与 Tommy 深谈。",
+        "chapter": "Chs 1–9"
+      },
+      {
+        "name": "Ruth",
+        "en": "Kathy’s close friend and an influential group leader. Connect her with imaginary horses, the secret guard, the pencil case, and Tommy. After breaking up with Tommy she asks Kathy to help reunite them.",
+        "zh": "Kathy 的好友，也是影响力很强的小团体领袖。把她与 imaginary horses、secret guard、笔袋和 Tommy 联系起来。第9章分手后，她让 Kathy 帮忙劝 Tommy 复合。",
+        "chapter": "Chs 1, 4–9"
+      },
+      {
+        "name": "Tommy",
+        "en": "Bullied for his lack of creativity and known for outbursts. Miss Lucy’s reassurance initially helps him. His art matters socially; her later reversal unsettles him. He dates Ruth, while confiding in Kathy.",
+        "zh": "因不擅创作而被欺负，以发脾气著称。Miss Lucy 最初的安慰使他平静；她后来改变说法又让他不安。他与 Ruth 交往，也会向 Kathy 倾诉。",
+        "chapter": "Chs 1–3, 7–9"
+      },
+      {
+        "name": "Laura",
+        "en": "The group’s comic mimic: imitates Tommy during the football humiliation and acts out touching an electric fence. In Chapter 8 she jokes about mud on Tommy’s shirt and is surprised by his anger.",
+        "zh": "爱搞笑、模仿别人的学生。第1章模仿 Tommy 被选队冷落时的表情，第7章模仿触电，第8章拿他背上的泥开玩笑，却意外激怒他。",
+        "chapter": "Chs 1, 7–8"
+      },
+      {
+        "name": "Hannah",
+        "en": "Says Graham K. has a bad temper too, so Tommy’s temper alone does not explain his bullying. Later she nudges Kathy towards the idea of becoming Tommy’s next girlfriend. Her claim linking sex to donor health is a student theory, not fact.",
+        "zh": "指出 Graham K. 也脾气坏，因此不能只用脾气解释 Tommy 受欺负。第9章她暗示 Kathy 可以接替 Ruth。她把性生活与捐献健康相连的说法只是学生猜测，并非事实。",
+        "chapter": "Chs 1, 8–9"
+      },
+      {
+        "name": "Arthur H.",
+        "en": "One of Tommy’s main tormentors. He mimics Tommy before a football free kick; the others no longer join in, showing that Tommy’s social position has begun to improve.",
+        "zh": "Tommy 的主要欺负者之一。他在 Tommy 主罚任意球前模仿其姿势，但其他人不再响应，说明 Tommy 在同学中的处境正在好转。",
+        "chapter": "Ch 2"
+      },
+      {
+        "name": "Christy",
+        "en": "Has a strong reputation for poetry, giving her enough status that even Ruth does not boss her around. Ruth later remembers that Christy moved into painting but was less successful at it.",
+        "zh": "以诗歌出名，地位高到连 Ruth 也不敢随便指使她。Ruth 后来回忆她转向绘画，但画得不如诗写得好。关键词：创作能力带来社会地位。",
+        "chapter": "Ch 2"
+      },
+      {
+        "name": "Carole H.",
+        "en": "Accidentally mentions the Gallery while joking with Mr. Roger, then immediately covers her mouth. Her embarrassment shows the unwritten rule against discussing the Gallery in front of guardians.",
+        "zh": "与 Mr. Roger 说笑时不小心提到 Gallery，马上捂住嘴。她的尴尬让我们看到：在 guardians 面前谈 Gallery 有一条不成文的禁忌。",
+        "chapter": "Ch 3"
+      },
+      {
+        "name": "Roy J.",
+        "en": "A year above Kathy; takes the tokens complaint to Miss Emily because Madame removes selected work without compensation. The eventual decision allows some tokens, but not many.",
+        "zh": "比 Kathy 高一年级。他因 Madame 带走作品却不给补偿，主动找 Miss Emily 提出 tokens 问题。最后学生获准拿到少量 tokens。",
+        "chapter": "Ch 4"
+      },
+      {
+        "name": "Polly T.",
+        "en": "Asks Miss Lucy why Madame takes their work, during a library discussion of tokens. The question crosses a taboo; everyone is embarrassed but eager for an explanation.",
+        "zh": "在图书馆讨论 tokens 时，直接问 Miss Lucy：Madame 为什么拿走作品？问题触碰禁忌，同学一面责怪她，一面又急切想听答案。",
+        "chapter": "Ch 4"
+      },
+      {
+        "name": "Moira B.",
+        "en": "An expelled former member of the secret guard. She calls the group childish and made up. Kathy, also excluded, unexpectedly defends it and invents evidence instead of joining Moira’s criticism.",
+        "zh": "被 secret guard 开除的前成员。她指出这游戏幼稚、都是 Ruth 编的；同样被排挤的 Kathy 却突然维护小团体，甚至编造亲耳听见阴谋的“证据”。",
+        "chapter": "Ch 5"
+      },
+      {
+        "name": "Marge K.",
+        "en": "Asks whether Miss Lucy has ever smoked. The others punish her for making the situation uncomfortable, including forcing her to look towards the frightening woods from the dormitory window.",
+        "zh": "问 Miss Lucy 是否曾吸烟。其他人因她让场面尴尬而惩罚她，包括把她拉到宿舍窗前，逼她望向令人害怕的树林。第6章解释第5章惩罚事件的原因。",
+        "chapter": "Chs 5–6"
+      },
+      {
+        "name": "Christopher C.",
+        "en": "The Senior monitor Kathy names when she claims to have been looking through the Sales Register. The claimed register inspection is Kathy’s bluff, not confirmed proof about Ruth’s pencil case.",
+        "zh": "Kathy 声称查看 Sales Register 时，提到这位高年级 monitor。关键：看过登记册是 Kathy 的虚张声势，不是她真的掌握了笔袋来源的书面证据。",
+        "chapter": "Ch 5"
+      },
+      {
+        "name": "Midge A.",
+        "en": "Innocently asks where Ruth got her attractive pencil case during Mr. Roger’s art lesson. Kathy helps Ruth save face instead of exposing the implication that a guardian gave it to her.",
+        "zh": "在 Mr. Roger 的美术课上，天真地问 Ruth 漂亮笔袋从哪里来。Kathy 这次帮 Ruth 保住面子，没有拆穿“guardian 特别赠送”的暗示。",
+        "chapter": "Ch 6"
+      },
+      {
+        "name": "Peter J.",
+        "en": "Talks to Gordon about becoming actors and going to America. Miss Lucy overhears and challenges their imagined futures in her direct speech about organ donations.",
+        "zh": "和 Gordon 谈论当演员、去美国。Miss Lucy 听见后，直接说明学生既定的捐献命运。记忆搭配：Peter J. → Gordon → America → Miss Lucy 的讲话。",
+        "chapter": "Ch 7"
+      },
+      {
+        "name": "Gordon",
+        "en": "The boy Peter J. is talking to about an acting career in America. Keep both names together when recalling the conversation that prompts Miss Lucy’s intervention.",
+        "zh": "Peter J. 谈论赴美演艺梦想时的谈话对象。第7章诱发 Miss Lucy 直接讲话的两个男孩是 Peter J. 和 Gordon。",
+        "chapter": "Ch 7"
+      },
+      {
+        "name": "Christopher H.",
+        "en": "A year above Kathy and admired by Tommy. Starts the false warning that Tommy’s elbow wound could unzip, leading Tommy to protect his arm and making him a target for teasing.",
+        "zh": "比 Kathy 高一年级，Tommy 很敬重他。他编造“手肘伤口会拉链式裂开”的说法，害 Tommy 小心护着手臂，成为大家的笑柄。",
+        "chapter": "Ch 7"
+      },
+      {
+        "name": "Gary B.",
+        "en": "Known for a huge appetite. When he brings back a third helping of pudding, the others pretend to unzip body parts and pile them into his bowl.",
+        "zh": "胃口特别大。拿第三份布丁回来时，同桌同学假装把身体“拉开”、取出器官堆进他的碗里。这是 unzipping joke 后来的集体版本。",
+        "chapter": "Ch 7"
+      },
+      {
+        "name": "Patricia C.",
+        "en": "Two years below Kathy and admired for drawing. Makes the small calendar of Hailsham scenes that Kathy obtains at an Exchange. Tommy reacts badly when Kathy shows it to him.",
+        "zh": "比 Kathy 低两年级，画技出众。她制作了画着 Hailsham 日常场景的小日历；Kathy 在 Exchange 得到后拿给 Tommy 看，却引起他的强烈反应。",
+        "chapter": "Chs 8–9"
+      },
+      {
+        "name": "Harry C.",
+        "en": "Kathy considers choosing him as her first sexual partner because she sees him as experienced, quiet and discreet. She delays the plan; remembering her intention is different from assuming it happened.",
+        "zh": "Kathy 曾考虑选择他作为第一次亲密关系的对象，因为觉得他有经验、安静、不会到处议论。她推迟了计划；要分清“打算”与“已经发生”。",
+        "chapter": "Chs 8–9"
+      },
+      {
+        "name": "Jenny C.",
+        "en": "The student discovered with Rob D. by Mr. Jack in Room 14. They are sent to Miss Emily. This is Jenny C., not Jenny B., who occasionally joins the girls in the pavilion.",
+        "zh": "与 Rob D. 在 Room 14 被 Mr. Jack 撞见的学生，之后被叫去见 Miss Emily。不要与第1章有时加入 pavilion 聊天的 Jenny B. 混淆。",
+        "chapter": "Ch 8"
+      },
+      {
+        "name": "Cynthia E.",
+        "en": "During charcoal drawing, calls Kathy the likely successor to Ruth as Tommy’s girlfriend. She is outside Kathy’s close group, which makes her comment seem like an independent observation.",
+        "zh": "画炭笔画时，说 Kathy 是 Ruth 之后的“自然接任者”。她不属于 Kathy 的亲密小团体，因此这句局外人的判断更让 Kathy 在意。",
+        "chapter": "Ch 9"
+      },
+      {
+        "name": "Charlotte F.",
+        "en": "Rushes into the classroom with news that Miss Lucy has left. She spreads the news; Miss Emily was the guardian who originally announced it to another class.",
+        "zh": "冲进教室，带来 Miss Lucy 离校的消息。注意她是传消息的学生；最先在另一班正式宣布此事的 guardian 是 Miss Emily。",
+        "chapter": "Ch 9"
+      }
+    ],
+    "traps": [
+      {
+        "name": "Three Christophers: title and initial matter",
+        "en": "Mr. Christopher restrains Tommy; Christopher C. is the monitor named in the Sales Register story; Christopher H. starts the elbow prank. Do not exchange their initials or turn a student into a guardian.",
+        "zh": "Mr. Christopher：拦住打架的 Tommy；Christopher C.：Sales Register 说法中的 monitor；Christopher H.：手肘拉链玩笑的发起者。头衔与字母都要记准。",
+        "chapter": "Chs 2, 5, 7"
+      },
+      {
+        "name": "Bramble / Thunder / Daffodil",
+        "en": "These are Ruth’s imaginary horses. Kathy rides Bramble first and must not use the crop on him. Thunder is Ruth’s favourite, initially refused but later permitted. Daffodil requires the rider to lean far back.",
+        "zh": "都是 Ruth 想象中的马。Bramble：Kathy 最先骑，不能用马鞭；Thunder：Ruth 最爱，最初不让骑，后来准许；Daffodil：骑时必须大幅后仰。",
+        "chapter": "Ch 4"
+      },
+      {
+        "name": "Two different token questions",
+        "en": "Roy J. approaches Miss Emily about compensation when Madame takes art. Polly T. asks Miss Lucy why Madame takes it at all. One concerns payment; the other concerns purpose.",
+        "zh": "Roy J. → Miss Emily → 被取走作品应不应该补 tokens；Polly T. → Miss Lucy → Madame 到底为什么拿作品。一个问补偿，一个问目的。",
+        "chapter": "Ch 4"
+      },
+      {
+        "name": "The lost tape and Ruth’s replacement",
+        "en": "Singer: Judy Bridgewater. Album: Songs After Dark. Favourite song: Never Let Me Go. Ruth gives Kathy Twenty Classic Dance Tunes after the original disappears; it is not the same recording.",
+        "zh": "歌手 Judy Bridgewater；专辑 Songs After Dark；最喜欢的歌 Never Let Me Go。原磁带失踪后 Ruth 送来的是 Twenty Classic Dance Tunes，并非原专辑。",
+        "chapter": "Ch 6"
+      },
+      {
+        "name": "Madame’s tears: observation versus explanation",
+        "en": "Kathy observes Madame crying while she dances with a pillow as an imagined baby. Kathy’s interpretation and Tommy’s mind-reading suggestion are guesses. Chapters 1–9 do not settle Madame’s exact reason.",
+        "zh": "可确认：Madame 看见 Kathy 抱着当作婴儿的枕头跳舞时哭了。Kathy 的解释和 Tommy 的“读心”说法都属于猜测；第1–9章没有揭晓确切原因。",
+        "chapter": "Ch 6"
+      },
+      {
+        "name": "Gallery / Exchanges / Sales",
+        "en": "Madame selects the best work for the supposed Gallery. Exchanges occur four times yearly and use students’ creations. Sales bring objects from outside. These are three different ways objects circulate.",
+        "zh": "Gallery：Madame 挑走最佳作品；Exchanges：一年四次，交换学生创作；Sales：从外界运来物品供学生购买。三者不要混为一谈。",
+        "chapter": "Chs 2–4"
+      },
+      {
+        "name": "The pencil case is an implication, not proven favouritism",
+        "en": "Ruth encourages the belief that Miss Geraldine gave her the pencil case. Kathy threatens that belief by pretending to have consulted the register. Neither a real gift nor an actual register inspection is established.",
+        "zh": "Ruth 让大家以为笔袋是 Miss Geraldine 特别送的；Kathy 假装查过登记册来动摇这个故事。不能把“确有赠送”或“Kathy 真查过册子”写成事实。",
+        "chapter": "Chs 5–6"
+      },
+      {
+        "name": "Who announces, who carries the news?",
+        "en": "Miss Emily announces Miss Lucy’s departure during Music Appreciation. Charlotte F. brings the news to Kathy’s class. Mr. Chris is teaching that class. Miss Lucy herself does not give this announcement.",
+        "zh": "宣布的人：Miss Emily；传到 Kathy 班上的学生：Charlotte F.；当时任课的人：Mr. Chris。不是 Miss Lucy 本人来宣布离校。",
+        "chapter": "Ch 9"
+      },
+      {
+        "name": "Norfolk is a place, the lost-property story is a belief",
+        "en": "Miss Emily’s description of Norfolk as a lost corner becomes a student belief that lost things end up there. Hailsham also has a Lost Corner on the third floor. The imagined national collection system is not factual geography.",
+        "zh": "Norfolk 是真实郡名；Miss Emily 的“失落角落”说法，被学生理解成全国遗失物都会去那里。Hailsham 自己的 Lost Corner 在三楼。全国失物收集系统是孩子们的想象。",
+        "chapter": "Ch 6"
+      },
+      {
+        "name": "Different Peters; similar Jennys and Sylvies",
+        "en": "Peter J. discusses acting; Peter N. walks with Tommy; Peter B. writes poems. Jenny B. joins pavilion chats; Jenny C. is caught with Rob D. Sylvie C. hides in a cupboard; Sylvia B. is paired with Roger D.",
+        "zh": "Peter J.：演员梦想；Peter N.：与 Tommy 一起走；Peter B.：写诗。Jenny B.：pavilion 聊天；Jenny C.：与 Rob D. 被撞见。Sylvie C.：躲柜子；Sylvia B.：与 Roger D. 交往。",
+        "chapter": "Chs 1–2, 4, 7–8"
+      }
+    ],
+    "recall": [
+      {
+        "qen": "First publication year, author and original UK publisher?",
+        "qzh": "首次出版年份、作者和英国原版出版方？",
+        "aen": "2005; Kazuo Ishiguro; Faber & Faber.",
+        "azh": "2005年；Kazuo Ishiguro（石黑一雄）；Faber & Faber。"
+      },
+      {
+        "qen": "Why are 1990, 2005 and 2006 not interchangeable?",
+        "qzh": "为什么1990、2005和2006不能互换？",
+        "aen": "1990: early draft according to Faber. 2005: first publication. 2006: the edition date recorded in the supplied EPUB.",
+        "azh": "1990：Faber所说早期草稿；2005：首次出版；2006：所提供EPUB的版本日期。"
+      },
+      {
+        "qen": "Who is head guardian, and who delivers the direct donation speech?",
+        "qzh": "谁是首席监护人？谁直接说明捐献命运？",
+        "aen": "Miss Emily is head guardian. Miss Lucy gives the direct speech in Chapter 7.",
+        "azh": "Miss Emily是首席监护人；Miss Lucy在第7章作直接讲话。"
+      },
+      {
+        "qen": "Whom does the secret guard protect? What is Crow Face’s name?",
+        "qzh": "secret guard保护谁？Crow Face叫什么？",
+        "aen": "Miss Geraldine; Nurse Trisha.",
+        "azh": "Miss Geraldine；Nurse Trisha。"
+      },
+      {
+        "qen": "Christopher C. or Christopher H.: Sales monitor versus elbow prank?",
+        "qzh": "Christopher C.和Christopher H.分别与哪件事有关？",
+        "aen": "C. is the Sales monitor named in Kathy’s bluff; H. starts the elbow-unzipping prank.",
+        "azh": "C.是Kathy虚称咨询过的Sales monitor；H.编造手肘拉链的恶作剧。"
+      },
+      {
+        "qen": "Midge A. or Moira B.: pencil-case question versus former secret guard?",
+        "qzh": "谁问笔袋来源？谁是原secret guard成员？",
+        "aen": "Midge A. asks about the pencil case. Moira B. is the former secret-guard member.",
+        "azh": "Midge A.问笔袋；Moira B.是原secret guard成员。"
+      },
+      {
+        "qen": "Name all three imaginary horses and one rule or distinction for each.",
+        "qzh": "说出三匹想象中的马，以及各自对应的规则或细节。",
+        "aen": "Bramble: first, no crop. Thunder: Ruth’s favourite, first refused but eventually ridden by Kathy. Daffodil: lean farther back.",
+        "azh": "Bramble：先骑，不用马鞭；Thunder：Ruth最喜欢，先拒绝、后来让Kathy骑；Daffodil：身体更向后仰。"
+      },
+      {
+        "qen": "Singer, album, favourite track number, replacement tape?",
+        "qzh": "歌手、专辑、喜欢的歌曲序号、替代磁带？",
+        "aen": "Judy Bridgewater; Songs After Dark; track three; Twenty Classic Dance Tunes.",
+        "azh": "Judy Bridgewater；Songs After Dark；第3首；Twenty Classic Dance Tunes。"
+      },
+      {
+        "qen": "What is the difference between an Exchange, a Sale and the Gallery?",
+        "qzh": "Exchange、Sale和Gallery有什么不同？",
+        "aen": "Exchanges circulate students’ creative work through tokens. Sales bring in objects from outside. Madame takes selected work for the supposed Gallery.",
+        "azh": "Exchanges用代币交换学生作品；Sales带来外界物品；Madame挑选带走作品，学生相信它们进入Gallery。"
+      },
+      {
+        "qen": "Who talks about acting and America before Miss Lucy interrupts?",
+        "qzh": "Miss Lucy打断前，谁在谈演员与美国的梦想？",
+        "aen": "Peter J. and Gordon (Chapter 7). The students are fifteen at the direct speech.",
+        "azh": "Peter J.与Gordon（第7章）；直接讲话时学生15岁。"
+      },
+      {
+        "qen": "Who makes the calendar, and who brings the news that Miss Lucy has left?",
+        "qzh": "谁制作日历？谁传来Miss Lucy离校的消息？",
+        "aen": "Patricia C. makes the calendar; Charlotte F. brings the news.",
+        "azh": "Patricia C.制作日历；Charlotte F.带来消息。"
+      },
+      {
+        "qen": "Explain “told and not told” without just repeating the phrase.",
+        "qzh": "不用重复原句，解释“told and not told”。",
+        "aen": "Students have heard fragments about their future, but the way the information is managed prevents them from fully facing its meaning. Knowing the words is not the same as understanding the consequences.",
+        "azh": "学生听过有关未来的零碎信息，但信息被控制、回避，让他们没有真正面对其意义。知道词语，不等于理解后果。"
+      }
+    ],
+    "extraStudents": [
+      {
+        "name": "Jenny B.",
+        "en": "Occasionally joins the girls’ pavilion conversations.",
+        "zh": "有时加入女孩们在 pavilion 的聊天。",
+        "chapter": "Ch 1"
+      },
+      {
+        "name": "Graham K.",
+        "en": "Hannah says his bad temper makes others careful around him; this contrasts with Tommy.",
+        "zh": "Hannah 说他的坏脾气反而让别人小心对待他，与 Tommy 形成对比。",
+        "chapter": "Ch 1"
+      },
+      {
+        "name": "Reggie D.",
+        "en": "The boy Tommy tries to attack during football practice before Mr. Christopher restrains him.",
+        "zh": "足球练习中 Tommy 试图攻击的男孩；Mr. Christopher 把 Tommy 拦住。",
+        "chapter": "Ch 2"
+      },
+      {
+        "name": "Jackie",
+        "en": "Makes the giraffes that students value at the Exchanges.",
+        "zh": "制作同学们在 Exchanges 喜爱的长颈鹿作品。",
+        "chapter": "Ch 2"
+      },
+      {
+        "name": "Susie K.",
+        "en": "Her poems are one of the choices Kathy recalls weighing up at an Exchange.",
+        "zh": "她的诗是 Kathy 回忆中 Exchanges 上令人难以取舍的作品之一。",
+        "chapter": "Ch 2"
+      },
+      {
+        "name": "Peter B.",
+        "en": "Writes poems that Ruth later says she probably bought because she fancied him.",
+        "zh": "写诗；Ruth 后来认为自己当时买他的诗，大概是因为喜欢他。",
+        "chapter": "Ch 2"
+      },
+      {
+        "name": "Alexander J.",
+        "en": "Walks and chats naturally with Tommy as Tommy’s social acceptance improves.",
+        "zh": "与 Tommy 自然地边走边聊，显示 Tommy 逐渐被同学接纳。",
+        "chapter": "Ch 2"
+      },
+      {
+        "name": "Peter N.",
+        "en": "Walks with Alexander J. and Tommy towards the fields.",
+        "zh": "与 Alexander J. 和 Tommy 一起走向操场。",
+        "chapter": "Ch 2"
+      },
+      {
+        "name": "Amanda C.",
+        "en": "A year older than Kathy; praises young Kathy’s clay modelling as worthy of the Gallery.",
+        "zh": "比 Kathy 大一岁，称赞年幼 Kathy 的黏土作品足以进入 Gallery。",
+        "chapter": "Ch 3"
+      },
+      {
+        "name": "James B.",
+        "en": "Tries to trip Miss Lucy during football but is himself sent flying.",
+        "zh": "踢球时试图绊倒 Miss Lucy，结果自己被撞飞；突出她的运动能力。",
+        "chapter": "Ch 3"
+      },
+      {
+        "name": "Sylvie C.",
+        "en": "Hides in a cupboard; Miss Emily discovers her, illustrating the head guardian’s seeming awareness of everything.",
+        "zh": "躲进柜子，却被 Miss Emily 找到，显示校长仿佛无所不知。",
+        "chapter": "Ch 4"
+      },
+      {
+        "name": "Rob D.",
+        "en": "Discovered with Jenny C. in Room 14 by Mr. Jack.",
+        "zh": "与 Jenny C. 在 Room 14 被 Mr. Jack 撞见。",
+        "chapter": "Ch 8"
+      },
+      {
+        "name": "Sharon D.",
+        "en": "The student with whom Kathy believes Harry C. has already had sexual experience.",
+        "zh": "Kathy 认定 Harry C. 先前已有亲密关系经验时，提到的对象是她。",
+        "chapter": "Ch 8"
+      },
+      {
+        "name": "Annette B.",
+        "en": "Offers a speculative explanation for guardians’ unease about students’ sexuality; it is gossip, not verified fact.",
+        "zh": "对 guardians 为何不安于学生的亲密关系提出猜测；属于学生议论，并非证实的事实。",
+        "chapter": "Ch 8"
+      },
+      {
+        "name": "Sylvia B.",
+        "en": "A conspicuously affectionate couple with Roger D., contrasted with Ruth and Tommy’s less showy behaviour.",
+        "zh": "与 Roger D. 是很爱公开亲热的一对，与不那么炫耀的 Ruth、Tommy 对比。",
+        "chapter": "Ch 8"
+      },
+      {
+        "name": "Roger D.",
+        "en": "Sylvia B.’s partner in the example of a showy couple; not the guardian Mr. Roger.",
+        "zh": "与 Sylvia B. 组成爱炫耀亲密关系的一对；别与 guardian Mr. Roger 混淆。",
+        "chapter": "Ch 8"
+      }
+    ]
+  }
 }
